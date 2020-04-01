@@ -907,7 +907,8 @@ https://cdn.alarab.com/h264/153259_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153437_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 14
 https://cdn.alarab.com/h264/153572_480p.mp4/index-v1-a1.m3u8
-
+#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 15
+https://cdn.alarab.com/h264/153726_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 2
