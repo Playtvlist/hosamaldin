@@ -597,7 +597,8 @@ https://cdn.alarab.com/h264/153291_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153469_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 11
 https://cdn.alarab.com/h264/153659_720p.mp4/index-v1-a1.m3u8
-
+#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 12
+https://cdn.alarab.com/h264/153753_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 1
 https://cdn.alarab.com/h264/152161_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 2
