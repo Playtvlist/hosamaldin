@@ -205,7 +205,8 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",ANN
 http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Alhiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:0 tvg-id="wild-hd" group-title="قنوات الوثائقية",NAT GEO WILD HD
