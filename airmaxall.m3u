@@ -45,7 +45,7 @@ http://yacine-tvapk.ddns.net:7777/live/arrryacinee5111/arrryacinee5111/44.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",osn yahala 2
 http://yacine-tvapk.ddns.net:7777/live/arrryacinee5111/arrryacinee5111/43.ts
 
-▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 HD
 http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
@@ -160,7 +160,8 @@ https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="WWE.ca" group-title="SPORT",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Arabic Live
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Mubashe
@@ -227,14 +228,16 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف 
 http://82.212.74.2:8000/live/hls/7311.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Panorama Food
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Osn Beity
 http://82.212.74.99:8000/live/hls/8164.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
@@ -683,7 +686,8 @@ http://193.169.52.206/a-tom-jerry/1-161.mp4
 http://193.169.52.206/a-tom-jerry/1-163.mp4
 #EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
 http://193.169.52.206/a-tom-jerry/1-162.mp4
-
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -724,7 +728,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Drama SD
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana DRAMA
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="ROTANA HD",AR:Rotana Cinema
@@ -743,7 +748,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 http://188.247.86.67:8008/3
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
-
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA
@@ -788,7 +794,8 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
-
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",▂ ▄ ▅ ▆☆ LEBANON قنوات لبنان ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
@@ -824,7 +831,8 @@ https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1841632771_b644
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 
-
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 1
@@ -835,7 +843,6 @@ http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 4
 http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Musawa tv
@@ -862,7 +869,8 @@ https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",halaTV
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Roya TV
 https://roya-live.ercdn.net/roya/roya_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan TV
@@ -875,7 +883,8 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan Sport
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",▂ ▄ ▅ ▆☆ قنوات العراق IRAQ ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA SPORT
 http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ
@@ -924,7 +933,8 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AL HURRA IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cairo-Dra
 http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CairoCine
@@ -983,7 +993,8 @@ http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
 http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1604542278.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",2M-MONDE
@@ -1016,7 +1027,8 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al Magharibia TV
 http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",Sahel TV
@@ -1033,9 +1045,8 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
 http://109.236.92.216:9090/CanalAlgerie/tracks-v1a1/mono.m3u8
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist_b200000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 1
@@ -1052,12 +1063,14 @@ http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
 http://82.212.74.2:8000/live/7321.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",▂ ▄ ▅ ▆☆ SUDAN قنوات السودان ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudania-24-HD
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Bulsho TV
 https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Dacwa TV
@@ -1070,14 +1083,16 @@ https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
 https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Somali National TV
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500130.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_480p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 2 TV
@@ -1100,7 +1115,8 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_480p/chun
 http://livecdnh3.tvanywhere.ae/hls/funoon/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait Alrai TV
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman Mubasher
@@ -1109,7 +1125,8 @@ http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الرياضية
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Saudi TV 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Iqraa-Tv
@@ -1124,8 +1141,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناه 24
 http://82.212.74.99:8000/live/8117.m3u8
-
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
@@ -1162,7 +1179,8 @@ http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hssli
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Wanasah TV
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",▂ ▄ ▅ ▆☆ Yemen tv ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Yemen tv",Almasira TV
 https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Yemen tv",Yemen TV
@@ -1173,6 +1191,8 @@ https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 http://82.212.74.3:8000/live/hls/7512.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Yemen tv",سهيل
 http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",KurdMax Music
@@ -1194,7 +1214,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 http://212.8.248.85:8000/nimok/swe8012.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",KURDMAX
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",sterk
 http://137.74.205.201/live2/sterk-3mbps.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",media hader
@@ -1230,7 +1249,8 @@ http://51.15.226.215/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",NET-TV
 
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Waar
-
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",▂ ▄ ▅ ▆☆ مسرحيات ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR: ما في متلو - مسرحية Show
 https://cdn.alarab.com/116169.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:مسرحية سوك على بناتك
