@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies 1
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/28.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies 2
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/29.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies 3
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/30.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies 4
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/31.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:series 1
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/32.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:series 2
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/33.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Drama 1
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/34.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",ART  1افلام
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/23.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",ART 2افلام
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/24.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",ART  افلام حكايات 1
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/25.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",ART افلام حكايات 2
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2024/RaeedPcTvRestreaM2024/26.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 1
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/34.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 2
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/35.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 3
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/36.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 4
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/37.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 5
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/38.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT 6
+http://138.201.46.59:8080/live/MRconnect22/MRconnect22/39.ts
+
+
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",AlFajer 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Nas Tv
+http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
