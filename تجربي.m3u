@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 1
-http://165.227.71.255:25461/live/KHAZALEH/BEST-LIVE/765.ts
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 2
-http://165.227.71.255:25461/live/KHAZALEH/BEST-LIVE/771.ts
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 3
-http://165.227.71.255:25461/live/KHAZALEH/BEST-LIVE/767.ts
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 4
-http://165.227.71.255:25461/live/KHAZALEH/BEST-LIVE/768.ts
