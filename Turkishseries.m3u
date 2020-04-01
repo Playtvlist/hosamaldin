@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0 tvg-id="ext" group-title="افلام هندية",▂ ▄ ▅ ▆☆ افلام هندية ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="افلام هندية",Tanhaji: The Unsung Warrior
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Tanhaji.The.Unsung.Warrior.2020.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام هندية",Guilty
@@ -211,7 +212,8 @@ https://cdn.alarab.com/h264/153501_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153502_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E09
 https://cdn.alarab.com/h264/153652_720p.mp4/index-v1-a1.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
+http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
 https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 2
