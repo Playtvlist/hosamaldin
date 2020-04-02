@@ -212,6 +212,8 @@ https://cdn.alarab.com/h264/153501_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153502_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E09
 https://cdn.alarab.com/h264/153652_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E10
+https://cdn.alarab.com/h264/153776_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
@@ -246,6 +248,8 @@ https://cdn.alarab.com/h264/153306_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153479_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 16
 https://cdn.alarab.com/h264/153636_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 17
+https://cdn.alarab.com/h264/153764_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS01E01
 https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/turkey/hufrase1/hufra.se1_.ep01-360.mp4
