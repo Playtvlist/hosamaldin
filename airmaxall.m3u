@@ -1346,7 +1346,8 @@ http://192.99.17.12:4978/;stream.mp3
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist_w513391463.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",راديو شام اف ام
 http://5.39.218.151:8400/;
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",وصال
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",sunnah
