@@ -796,6 +796,9 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Publitools
+http://95.170.215.107/hls/m3u8/Publitools.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",▂ ▄ ▅ ▆☆ LEBANON قنوات لبنان ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
@@ -1067,10 +1070,15 @@ http://82.212.74.2:8000/live/7321.m3u8
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",▂ ▄ ▅ ▆☆ SUDAN قنوات السودان ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",sudantv
+http://217.182.137.206/sudantv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudania-24-HD
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",sudan_drama
+http://217.182.137.206/sudan_drama.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Bulsho TV
@@ -1346,6 +1354,12 @@ http://192.99.17.12:4978/;stream.mp3
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist_w513391463.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",راديو شام اف ام
 http://5.39.218.151:8400/;
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraar
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",ALmajd
+http://livecdnh3.tvanywhere.ae/ss/majd.isml/Manifest
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",ALresalah
+http://livecdnh3.tvanywhere.ae/ss/resalah.isml/Manifest
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",وصال
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan Kareem
