@@ -191,7 +191,7 @@ http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_720p.m3u8
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/orienttv_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
