@@ -936,6 +936,8 @@ http://95.170.215.109/hls/m3u8/Farqadayn-Backup.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",قناة دجلة طرب
+https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AL HURRA IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
