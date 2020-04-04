@@ -23,14 +23,22 @@ http://178.63.48.23:25461/Coronavirus/LCQCGTqCfr/1
 
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",▂ ▄ ▅ ▆☆ البروفيسور الجزء الرابع ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1 HD
 https://cdn.alarab.com/h264/153869_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 2
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1 SD
+https://cdn.alarab.com/h264/153869_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 2 HD
 https://cdn.alarab.com/h264/153867_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 3
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 2 SD
+https://cdn.alarab.com/h264/153867_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 3 HD
 https://cdn.alarab.com/h264/153866_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 4
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 3 SD
+https://cdn.alarab.com/h264/153866_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 4 HD
 https://cdn.alarab.com/h264/153868_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 4 SD
+https://cdn.alarab.com/h264/153868_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 5
 http://178.63.48.23:25461/www.vviruslove.com/airmaxtv/72
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 6
@@ -40,22 +48,7 @@ http://178.63.48.23:25461/www.vviruslove.com/airmaxtv/74
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 8
 http://178.63.48.23:25461/www.vviruslove.com/airmaxtv/75
 
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1 HD
-https://s202.akwam.download/download/1585968663/La.casa.de.papel.S04E01.480p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 2 HD
-https://s102.akwam.download/download/1585981285/La.casa.de.papel.S04E02.720p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 3 HD
-https://s203.akwam.download/download/1586011626/La.casa.de.papel.S04E03.1080p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 4 HD
-https://s207.akwam.download/download/1586029643/La.casa.de.papel.S04E04.1080p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 5 HD
-https://s202.akwam.download/download/1586012920/La.casa.de.papel.S04E05.1080p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 6 HD
-https://s208.akwam.download/download/1586017759/La.casa.de.papel.S04E06.1080p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 7 HD
-https://s207.akwam.download/download/1586028913/La.casa.de.papel.S04E07.1080p.WEB.akwam.net.mp4
-#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 8 HD
-https://s202.akwam.download/download/1586041245/La.casa.de.papel.S04E08.1080p.WEB.akwam.net.mp4
+
 
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",▂ ▄ ▅ ▆☆ BEIN SPORT ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
