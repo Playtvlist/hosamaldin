@@ -184,7 +184,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.20
 #EXTINF:0 tvg-id="ext" group-title="افلام هندية",
 
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",
-
+#EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم خط الموت HD انتاج 2019
+https://cdn.alarab.com/h264/153703_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم سبع برمية
 http://vodcdn.referrari.com:8080/vod/Sabe3.El-Bromba/Sabe3.El-Bromba.mp4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم محمد حسين
@@ -957,15 +958,15 @@ https://cdn.alarab.com/h264/153490_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153741_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="اذا ناداك الحب",اذا ناداك الحبS01E04
 https://cdn.alarab.com/h264/153741_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="المتعادلون",S01E01
+#EXTINF:0 tvg-id="ext" group-title="المتعادلون",المتعادلونS01E01
 https://videodelivery.net/e64c9c587c4adb2ea70ff699201eae79/manifest/stream_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="المتعادلون",S01E02
+#EXTINF:0 tvg-id="ext" group-title="المتعادلون",المتعادلونS01E02
 https://videodelivery.net/fab9545bddd41212667a80d77a3865e0/manifest/stream_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="المتعادلون",S01E03
+#EXTINF:0 tvg-id="ext" group-title="المتعادلون",المتعادلونS01E03
 https://videodelivery.net/00461802f20babd166a5898355c10e6f/manifest/stream_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="المتعادلون",S01E04
+#EXTINF:0 tvg-id="ext" group-title="المتعادلون",المتعادلونS01E04
 https://videodelivery.net/0e8299bbe9546ad632636559e0ea4757/manifest/stream_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="المتعادلون",S01E05
+#EXTINF:0 tvg-id="ext" group-title="المتعادلون",المتعادلونS01E05
 https://videodelivery.net/ae00813d7d52896f0b43ef3a8cd52641/manifest/stream_4.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E01
@@ -1489,6 +1490,8 @@ https://cdn.alarab.com/h264/153381_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153539_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E026
 https://cdn.alarab.com/h264/153683_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E027
+https://cdn.alarab.com/h264/153887_720p.mp4/index-v1-a1.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",▂ ▄ ▅ ▆☆ البروفيسور الجزء الثالث ☆▆ ▅ ▄ ▂ ▁
