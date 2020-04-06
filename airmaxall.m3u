@@ -779,7 +779,7 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_720p.m3u8
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/orienttv_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
 http://wowzacontrol.com:1935/8010/8010/chunklist_w278367314.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
