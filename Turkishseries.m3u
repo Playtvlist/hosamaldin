@@ -668,6 +668,14 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolut
 
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",▂ ▄ ▅ ▆☆ افلام أجنبية مترجمه ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",
+
+#EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",
+
+#EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",Maleficent: Mistress of Evil
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Maleficent.Mistress.of.Evil.2019.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",Maleficent 2014
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-7/movies/Maleficent.2014.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",فيلم Underwater مترجم HD انتاج 2020
 https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",The Night Clerk
