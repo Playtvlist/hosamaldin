@@ -240,6 +240,8 @@ http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids
+https://cllive.itworkscdn.net/rmosicalive/token=nva=1586287241~dirs=1~hash=069648ffb4ba370de7f4c/rmosica/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
