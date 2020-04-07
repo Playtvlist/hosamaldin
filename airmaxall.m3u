@@ -230,6 +230,8 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف 
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",DocuBOX HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
@@ -241,7 +243,7 @@ http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids
-https://cllive.itworkscdn.net/rmosicalive/token=nva=1586287241~dirs=1~hash=069648ffb4ba370de7f4c/rmosica/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
