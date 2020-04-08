@@ -1579,8 +1579,8 @@ https://cdn.alarab.com/h264/153286_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153453_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 13
 https://cdn.alarab.com/h264/153625_720p.mp4/index-v1-a1.m3u8
-
-
+#EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 14
+https://cdn.alarab.com/h264/154032_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 1
 https://cdn.alarab.com/h264/152182_720p.mp4/index-v1-a1.m3u8
