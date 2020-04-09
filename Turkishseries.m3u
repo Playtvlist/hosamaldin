@@ -191,6 +191,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.20
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",▂ ▄ ▅ ▆☆ افلام عربية ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",
+#EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم 122
+https://cdn.alarab.com/480/008_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم خط الموت HD انتاج 2019
 https://cdn.alarab.com/h264/153703_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",فيلم سبع برمية
