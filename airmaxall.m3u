@@ -47,6 +47,8 @@ http://yacine-tvapk.ddns.net:7777/live/arrryacinee5111/arrryacinee5111/43.ts
 
 #EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="SPORT",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 HD
 http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 SD
@@ -162,6 +164,8 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 http://51.158.176.190/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Arabic Live
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Mubashe
@@ -698,6 +702,8 @@ http://193.169.52.206/a-tom-jerry/1-163.mp4
 http://193.169.52.206/a-tom-jerry/1-162.mp4
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
