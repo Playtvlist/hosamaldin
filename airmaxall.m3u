@@ -165,7 +165,7 @@ http://51.158.176.190/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
-http://178.63.48.23:25461/assa/v25ZpFB5C2/77
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Arabic Live
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Mubashe
@@ -703,7 +703,7 @@ http://193.169.52.206/a-tom-jerry/1-162.mp4
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",النسخة المدفوعة AirMax TV
-http://178.63.48.23:25461/assa/v25ZpFB5C2/77
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -746,6 +746,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana DRAMA
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="ROTANA HD",AR:Rotana Cinema
@@ -766,6 +768,8 @@ http://188.247.86.67:8008/3
 http://188.247.86.67:8002/3
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA
@@ -817,6 +821,8 @@ http://82.137.248.16:1935/Ugarit/stream31122019/chunklist_w719699723.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",▂ ▄ ▅ ▆☆ LEBANON قنوات لبنان ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
@@ -854,6 +860,8 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 1
@@ -894,6 +902,8 @@ http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Roya TV
 https://roya-live.ercdn.net/roya/roya_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan TV
@@ -908,6 +918,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",▂ ▄ ▅ ▆☆ قنوات العراق IRAQ ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA SPORT
 http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ
@@ -1285,6 +1297,8 @@ http://82.212.74.3:8000/live/hls/7512.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",KurdMax Music
