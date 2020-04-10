@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="كيفية الحصول على الكود الجديد",▂ ▄ ▅ ▆☆ AirMaxTV ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="avi" group-title="كيفية الحصول على الكود الجديد",النسخة المدفوع AirMaxTV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="كيفية الحصول على الكود الجديد",موقعنا www.vviruslove.com
 http://178.63.48.23:25461/airmaxtvtv/RwHu6raTV7/66
 #EXTINF:0 tvg-id="avi" group-title="كيفية الحصول على الكود الجديد",كيفية الحصول على الكود تطبيق AirMax TV
 http://178.63.48.23:25461/airmaxtvtv/RwHu6raTV7/64
+#EXTINF:0 tvg-id="avi" group-title="كيفية الحصول على الكود الجديد",ميزات تطبيق AirMaxTV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/76
 #EXTINF:0 tvg-id="avi" group-title="كيفية الحصول على الكود الجديد",تحميل airmaxعلى amazon fire stick
 http://178.63.48.23:25461/airmaxtvtv/RwHu6raTV7/61
 #EXTINF:0 tvg-id="avi" group-title="كيفية الحصول على الكود الجديد",تحميل airmaxعلى اندرويد بوكس
@@ -17,6 +21,8 @@ http://178.63.48.23:25461/airmaxtvtv/RwHu6raTV7/62
 
 #EXTINF:0 tvg-id="ext" group-title="Coronavirus",▂ ▄ ▅ ▆☆ Coronavirus ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="Coronavirus",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="Coronavirus",Coronavirus HD
 http://178.63.48.23:25461/Coronavirus/LCQCGTqCfr/1
 #EXTINF:0 tvg-id="ext" group-title="Coronavirus",Coronavirus SD
@@ -25,6 +31,8 @@ https://live-hls-web-ajm.getaj.net/AJM/05.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",▂ ▄ ▅ ▆☆ البروفيسور الجزء الرابع ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1 HD
 https://cdn.alarab.com/h264/153869_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الرابع",la casa de papel 1 SD
@@ -62,6 +70,8 @@ https://cdn.alarab.com/h264/153874_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",▂ ▄ ▅ ▆☆ BEIN SPORT ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",الأخبارية
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN SPORT HD
@@ -92,6 +102,8 @@ http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/32
 http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/7
 #EXTINF:0 tvg-id="ext" group-title="OSN",▂ ▄ ▅ ▆☆ OSN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="OSN",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="OSN",YAHALA_SD
 http://178.63.48.23:25461/airmaxtvosn3535/PKpPCbaTx3/12
 #EXTINF:0 tvg-id="ext" group-title="OSN",Ya_Hala_Oula_SD
@@ -158,6 +170,8 @@ http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPw
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="OXN",OXN YA HALA MIX
 http://178.63.48.23:25461/airmaxtvoxn356/wA1HwfW1Ve/8
 #EXTINF:0 tvg-id="ext" group-title="OXN",OXN YA HALA CINEMA 1
@@ -172,6 +186,8 @@ http://178.63.48.23:25461/airmaxtvoxn356/wA1HwfW1Ve/38
 http://178.63.48.23:25461/airmaxtvoxn356/wA1HwfW1Ve/39
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 http://178.63.48.23:25461/airmaxrv/wUS1rXUUg1/59
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",النسخة المدفوعة AirMax TV
+http://178.63.48.23:25461/assa/v25ZpFB5C2/77
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX ARABIC
 http://178.63.48.23:25461/airmaxtvnetflix35/4jChEMEJQD/23
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX BOLLYOOD FHD
