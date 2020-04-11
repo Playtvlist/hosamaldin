@@ -1047,6 +1047,29 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E06.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E07.Mp4
 
+
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E01
 https://cdn.alarab.com/h264/152272_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E02
@@ -1888,21 +1911,110 @@ https://cdn.alarab.com/h264/153683_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153887_720p.mp4/index-v1-a1.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",▂ ▄ ▅ ▆☆ البروفيسور الجزء الاول ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الاول",la casa de papel 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",▂ ▄ ▅ ▆☆ البروفيسور الجزء الثاني ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثاني",la casa de papel 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",▂ ▄ ▅ ▆☆ البروفيسور الجزء الثالث ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 1
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep01-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 2
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep02-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/2.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 3
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep03-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/3.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 4
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep04-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/4.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 5
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep05-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/5.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 6
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep06-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 7
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep07-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/7.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="البروفيسور الجزء الثالث",la casa de papel 8
-https://r2-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/ajnabi/Lacasadepapelse3/Lacasade-papelse3.ep08-360.mp4?id=0
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/8.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",▂ ▄ ▅ ▆☆ مسرح مصر الجزء الخامس ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/14.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/15.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/17.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/18.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/19.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/20.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/21.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرح مصر الجزء الخامس",Theater Misr 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/mmasr5/22.mp4/playlist.m3u8
