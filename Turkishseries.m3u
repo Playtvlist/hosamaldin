@@ -976,56 +976,75 @@ https://cdn.alarab.com/h264/151633_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/151607_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",AR:MV: فيلم Marriage Story مترجم
 https://cdn.alarab.com/h264/151638_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 1
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E01.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 2
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E02.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 3
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E03.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 4
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E04.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 5
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E05.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 6
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E06.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 7
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E07.Mp4
+#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 8
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E08.Mp4
 
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E01
+
+
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E01
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E01.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E02
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E02.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E03
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E03.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E04
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E04.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E05
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E05.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E06
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E06.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E07.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E08
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E08.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E09
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E09.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS01E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E10
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E10.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E01
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E01.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E02
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E02.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E03
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E03.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E04
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E04.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E05
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E05.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E06
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E06.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E07.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS02E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S02E08
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E08.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E01
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E01.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E02
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E02.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E03
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E03.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E04
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E04.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E05
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E05.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E06
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E06.Mp4
-#EXTINF:0 tvg-id="avi" group-title="المحافظ",مسلسل المحافظ التركيS03E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E07.Mp4
 
 #EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E01
