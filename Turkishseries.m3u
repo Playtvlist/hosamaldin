@@ -976,22 +976,1497 @@ https://cdn.alarab.com/h264/151633_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/151607_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",AR:MV: فيلم Marriage Story مترجم
 https://cdn.alarab.com/h264/151638_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 1
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E01.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 2
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E02.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 3
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E03.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E04.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 5
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E05.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 6
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E06.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 7
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E07.Mp4
-#EXTINF:0 tvg-id="avi" group-title="TheWitcher-Ar",TheWitcher Ar 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 8
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E08.Mp4
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 1
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 2
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 3
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 4
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 5
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 6
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 7
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 8
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 9
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 10
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 11
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 12
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 13
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 14
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 15
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 16
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 17
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 18
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 19
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 20
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 21
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 22
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 23
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 24
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 25
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 26
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 27
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 28
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 29
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 30
+https://belugacdn.shoofmax.com/daqeeqat-samt/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات1
+https://belugacdn.shoofmax.com/wamadat/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات2
+https://belugacdn.shoofmax.com/wamadat/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات3
+https://belugacdn.shoofmax.com/wamadat/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات4
+https://belugacdn.shoofmax.com/wamadat/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات5
+https://belugacdn.shoofmax.com/wamadat/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات6
+https://belugacdn.shoofmax.com/wamadat/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات7
+https://belugacdn.shoofmax.com/wamadat/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات8
+https://belugacdn.shoofmax.com/wamadat/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات9
+https://belugacdn.shoofmax.com/wamadat/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات10
+https://belugacdn.shoofmax.com/wamadat/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات11
+https://belugacdn.shoofmax.com/wamadat/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات12
+https://belugacdn.shoofmax.com/wamadat/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات13
+https://belugacdn.shoofmax.com/wamadat/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات14
+https://belugacdn.shoofmax.com/wamadat/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات15
+https://belugacdn.shoofmax.com/wamadat/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات16
+https://belugacdn.shoofmax.com/wamadat/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات17
+https://belugacdn.shoofmax.com/wamadat/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات18
+https://belugacdn.shoofmax.com/wamadat/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات19
+https://belugacdn.shoofmax.com/wamadat/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات20
+https://belugacdn.shoofmax.com/wamadat/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات21
+https://belugacdn.shoofmax.com/wamadat/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات22
+https://belugacdn.shoofmax.com/wamadat/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات23
+https://belugacdn.shoofmax.com/wamadat/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات24
+https://belugacdn.shoofmax.com/wamadat/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات25
+https://belugacdn.shoofmax.com/wamadat/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات26
+https://belugacdn.shoofmax.com/wamadat/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات27
+https://belugacdn.shoofmax.com/wamadat/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات28
+https://belugacdn.shoofmax.com/wamadat/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات29
+https://belugacdn.shoofmax.com/wamadat/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات30
+https://belugacdn.shoofmax.com/wamadat/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 1
+https://belugacdn.shoofmax.com/nas-min-waraq/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 2
+https://belugacdn.shoofmax.com/nas-min-waraq/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 3
+https://belugacdn.shoofmax.com/nas-min-waraq/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 4
+https://belugacdn.shoofmax.com/nas-min-waraq/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 5
+https://belugacdn.shoofmax.com/nas-min-waraq/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 6
+https://belugacdn.shoofmax.com/nas-min-waraq/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 7
+https://belugacdn.shoofmax.com/nas-min-waraq/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 8
+https://belugacdn.shoofmax.com/nas-min-waraq/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 9
+https://belugacdn.shoofmax.com/nas-min-waraq/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 10
+https://belugacdn.shoofmax.com/nas-min-waraq/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 11
+https://belugacdn.shoofmax.com/nas-min-waraq/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 12
+https://belugacdn.shoofmax.com/nas-min-waraq/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 13
+https://belugacdn.shoofmax.com/nas-min-waraq/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 14
+https://belugacdn.shoofmax.com/nas-min-waraq/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 15
+https://belugacdn.shoofmax.com/nas-min-waraq/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 16
+https://belugacdn.shoofmax.com/nas-min-waraq/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 17
+https://belugacdn.shoofmax.com/nas-min-waraq/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 18
+https://belugacdn.shoofmax.com/nas-min-waraq/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 19
+https://belugacdn.shoofmax.com/nas-min-waraq/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 20
+https://belugacdn.shoofmax.com/nas-min-waraq/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 21
+https://belugacdn.shoofmax.com/nas-min-waraq/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 22
+https://belugacdn.shoofmax.com/nas-min-waraq/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 23
+https://belugacdn.shoofmax.com/nas-min-waraq/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 24
+https://belugacdn.shoofmax.com/nas-min-waraq/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 25
+https://belugacdn.shoofmax.com/nas-min-waraq/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 26
+https://belugacdn.shoofmax.com/nas-min-waraq/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 27
+https://belugacdn.shoofmax.com/nas-min-waraq/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 28
+https://belugacdn.shoofmax.com/nas-min-waraq/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 29
+https://belugacdn.shoofmax.com/nas-min-waraq/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 30
+https://belugacdn.shoofmax.com/nas-min-waraq/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 1
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 2
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 3
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 4
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 5
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 6
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 7
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 8
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 9
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 10
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 11
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 12
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 13
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 14
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 15
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 16
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 17
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 18
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 19
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 20
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 21
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 22
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 23
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 24
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 25
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 26
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 27
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 28
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 29
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 30
+https://belugacdn.shoofmax.com/torjoman-alashwaq/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 1
+https://belugacdn.shoofmax.com/athar-alfarasha/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 2
+https://belugacdn.shoofmax.com/athar-alfarasha/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 3
+https://belugacdn.shoofmax.com/athar-alfarasha/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 4
+https://belugacdn.shoofmax.com/athar-alfarasha/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 5
+https://belugacdn.shoofmax.com/athar-alfarasha/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 6
+https://belugacdn.shoofmax.com/athar-alfarasha/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 7
+https://belugacdn.shoofmax.com/athar-alfarasha/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 8
+https://belugacdn.shoofmax.com/athar-alfarasha/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 9
+https://belugacdn.shoofmax.com/athar-alfarasha/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 10
+https://belugacdn.shoofmax.com/athar-alfarasha/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 11
+https://belugacdn.shoofmax.com/athar-alfarasha/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 12
+https://belugacdn.shoofmax.com/athar-alfarasha/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 13
+https://belugacdn.shoofmax.com/athar-alfarasha/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 14
+https://belugacdn.shoofmax.com/athar-alfarasha/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 15
+https://belugacdn.shoofmax.com/athar-alfarasha/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 16
+https://belugacdn.shoofmax.com/athar-alfarasha/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 17
+https://belugacdn.shoofmax.com/athar-alfarasha/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 18
+https://belugacdn.shoofmax.com/athar-alfarasha/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 19
+https://belugacdn.shoofmax.com/athar-alfarasha/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 20
+https://belugacdn.shoofmax.com/athar-alfarasha/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 21
+https://belugacdn.shoofmax.com/athar-alfarasha/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 22
+https://belugacdn.shoofmax.com/athar-alfarasha/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 23
+https://belugacdn.shoofmax.com/athar-alfarasha/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 24
+https://belugacdn.shoofmax.com/athar-alfarasha/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 25
+https://belugacdn.shoofmax.com/athar-alfarasha/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 26
+https://belugacdn.shoofmax.com/athar-alfarasha/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 27
+https://belugacdn.shoofmax.com/athar-alfarasha/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 28
+https://belugacdn.shoofmax.com/athar-alfarasha/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 29
+https://belugacdn.shoofmax.com/athar-alfarasha/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 30
+https://belugacdn.shoofmax.com/athar-alfarasha/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 1
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 2
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 3
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 4
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 5
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 6
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 7
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 8
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 9
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 10
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 11
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 12
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 13
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 14
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 15
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 16
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 17
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 18
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 19
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 20
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 21
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 22
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 23
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 24
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 25
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 26
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 27
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 28
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 29
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل عن الهوى والجوى 30
+https://belugacdn.shoofmax.com/an-alhawa-waljawa/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 1
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep1/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 2
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep2/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 3
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep3/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 4
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep4/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 5
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep5/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 6
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep6/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 7
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep7/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 8
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep8/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 9
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep9/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 10
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep10/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 11
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep11/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 12
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep12/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 13
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep13/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 14
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep14/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 15
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep15/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 16
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep16/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 17
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep17/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 18
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep18/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 19
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep19/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 20
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep20/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 21
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep21/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 22
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep22/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 23
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep23/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 24
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep24/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 25
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep25/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 26
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep26/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 27
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep27/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 28
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep28/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 29
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep29/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 30
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep30/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل دومينو 31
+https://belugacdn.shoofmax.com/مسلسل دومينو/ep31/variant.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E1
+https://belugacdn.shoofmax.com/halawit-rooh/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E2
+https://belugacdn.shoofmax.com/halawit-rooh/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E3
+https://belugacdn.shoofmax.com/halawit-rooh/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E4
+https://belugacdn.shoofmax.com/halawit-rooh/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E5
+https://belugacdn.shoofmax.com/halawit-rooh/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E6
+https://belugacdn.shoofmax.com/halawit-rooh/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E7
+https://belugacdn.shoofmax.com/halawit-rooh/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E8
+https://belugacdn.shoofmax.com/halawit-rooh/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E9
+https://belugacdn.shoofmax.com/halawit-rooh/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E10
+https://belugacdn.shoofmax.com/halawit-rooh/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E11
+https://belugacdn.shoofmax.com/halawit-rooh/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E12
+https://belugacdn.shoofmax.com/halawit-rooh/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E13
+https://belugacdn.shoofmax.com/halawit-rooh/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E14
+https://belugacdn.shoofmax.com/halawit-rooh/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E15
+https://belugacdn.shoofmax.com/halawit-rooh/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E16
+https://belugacdn.shoofmax.com/halawit-rooh/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E17
+https://belugacdn.shoofmax.com/halawit-rooh/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E18
+https://belugacdn.shoofmax.com/halawit-rooh/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E19
+https://belugacdn.shoofmax.com/halawit-rooh/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E20
+https://belugacdn.shoofmax.com/halawit-rooh/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E21
+https://belugacdn.shoofmax.com/halawit-rooh/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E22
+https://belugacdn.shoofmax.com/halawit-rooh/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E23
+https://belugacdn.shoofmax.com/halawit-rooh/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E24
+https://belugacdn.shoofmax.com/halawit-rooh/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E25
+https://belugacdn.shoofmax.com/halawit-rooh/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E26
+https://belugacdn.shoofmax.com/halawit-rooh/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E27
+https://belugacdn.shoofmax.com/halawit-rooh/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E28
+https://belugacdn.shoofmax.com/halawit-rooh/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E29
+https://belugacdn.shoofmax.com/halawit-rooh/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل حلاوة روح  E30
+https://belugacdn.shoofmax.com/halawit-rooh/ep30/720p/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 1
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep1/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 2
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep2/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 3
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep3/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 4
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep4/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 5
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep5/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 6
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep6/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 7
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep7/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 8
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep8/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 9
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep9/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 10
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep10/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 11
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep11/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 12
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep12/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 13
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep13/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 14
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep14/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 15
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep15/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 16
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep16/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 17
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep17/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 18
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep18/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 19
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep19/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 20
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep20/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 21
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep21/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 22
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep22/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 23
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep23/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 24
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep24/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 25
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep25/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 26
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep26/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 27
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep27/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 28
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep28/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 29
+https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep29/variant.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 1
+https://belugacdn.shoofmax.com/rozana/ep1/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 2
+https://belugacdn.shoofmax.com/rozana/ep2/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 3
+https://belugacdn.shoofmax.com/rozana/ep3/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 4
+https://belugacdn.shoofmax.com/rozana/ep4/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 5
+https://belugacdn.shoofmax.com/rozana/ep5/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 6
+https://belugacdn.shoofmax.com/rozana/ep6/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 7
+https://belugacdn.shoofmax.com/rozana/ep7/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 8
+https://belugacdn.shoofmax.com/rozana/ep8/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 9
+https://belugacdn.shoofmax.com/rozana/ep9/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 10
+https://belugacdn.shoofmax.com/rozana/ep10/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 11
+https://belugacdn.shoofmax.com/rozana/ep11/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 12
+https://belugacdn.shoofmax.com/rozana/ep12/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 13
+https://belugacdn.shoofmax.com/rozana/ep13/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 14
+https://belugacdn.shoofmax.com/rozana/ep14/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 15
+https://belugacdn.shoofmax.com/rozana/ep15/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 16
+https://belugacdn.shoofmax.com/rozana/ep16/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 17
+https://belugacdn.shoofmax.com/rozana/ep17/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 18
+https://belugacdn.shoofmax.com/rozana/ep18/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 19
+https://belugacdn.shoofmax.com/rozana/ep19/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 20
+https://belugacdn.shoofmax.com/rozana/ep20/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 21
+https://belugacdn.shoofmax.com/rozana/ep21/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 22
+https://belugacdn.shoofmax.com/rozana/ep22/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 23
+https://belugacdn.shoofmax.com/rozana/ep23/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 24
+https://belugacdn.shoofmax.com/rozana/ep24/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 25
+https://belugacdn.shoofmax.com/rozana/ep25/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 26
+https://belugacdn.shoofmax.com/rozana/ep26/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 27
+https://belugacdn.shoofmax.com/rozana/ep27/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 28
+https://belugacdn.shoofmax.com/rozana/ep28/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 29
+https://belugacdn.shoofmax.com/rozana/ep29/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 30
+https://belugacdn.shoofmax.com/rozana/ep30/variant.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E1
+https://belugacdn.shoofmax.com/contac/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E2
+https://belugacdn.shoofmax.com/contac/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E3
+https://belugacdn.shoofmax.com/contac/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E4
+https://belugacdn.shoofmax.com/contac/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E5
+https://belugacdn.shoofmax.com/contac/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E6
+https://belugacdn.shoofmax.com/contac/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E7
+https://belugacdn.shoofmax.com/contac/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E8
+https://belugacdn.shoofmax.com/contac/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E9
+https://belugacdn.shoofmax.com/contac/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E10
+https://belugacdn.shoofmax.com/contac/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E11
+https://belugacdn.shoofmax.com/contac/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E12
+https://belugacdn.shoofmax.com/contac/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E13
+https://belugacdn.shoofmax.com/contac/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E14
+https://belugacdn.shoofmax.com/contac/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E15
+https://belugacdn.shoofmax.com/contac/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E16
+https://belugacdn.shoofmax.com/contac/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E17
+https://belugacdn.shoofmax.com/contac/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E18
+https://belugacdn.shoofmax.com/contac/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E19
+https://belugacdn.shoofmax.com/contac/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E20
+https://belugacdn.shoofmax.com/contac/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E21
+https://belugacdn.shoofmax.com/contac/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E22
+https://belugacdn.shoofmax.com/contac/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E23
+https://belugacdn.shoofmax.com/contac/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E24
+https://belugacdn.shoofmax.com/contac/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E25
+https://belugacdn.shoofmax.com/contac/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E26
+https://belugacdn.shoofmax.com/contac/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E27
+https://belugacdn.shoofmax.com/contac/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E28
+https://belugacdn.shoofmax.com/contac/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E29
+https://belugacdn.shoofmax.com/contac/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E30
+https://belugacdn.shoofmax.com/contac/ep30/720p/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E1
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E2
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E3
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E4
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E5
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E6
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E7
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E8
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E9
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E10
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E11
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E12
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E13
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E14
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E15
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E16
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E17
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E18
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E19
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E20
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E21
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E22
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E23
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E24
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E25
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E26
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E27
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E28
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E29
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E30
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E31
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep31/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E32
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep32/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E33
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep33/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E34
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep34/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E35
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep35/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E36
+https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep36/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 1
+https://belugacdn.shoofmax.com/wahm/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 2
+https://belugacdn.shoofmax.com/wahm/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 3
+https://belugacdn.shoofmax.com/wahm/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 4
+https://belugacdn.shoofmax.com/wahm/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 5
+https://belugacdn.shoofmax.com/wahm/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 6
+https://belugacdn.shoofmax.com/wahm/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 7
+https://belugacdn.shoofmax.com/wahm/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 8
+https://belugacdn.shoofmax.com/wahm/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 9
+https://belugacdn.shoofmax.com/wahm/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 10
+https://belugacdn.shoofmax.com/wahm/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",VWAHME 11
+https://belugacdn.shoofmax.com/wahm/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 12
+https://belugacdn.shoofmax.com/wahm/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 13
+https://belugacdn.shoofmax.com/wahm/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 14
+https://belugacdn.shoofmax.com/wahm/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 15
+https://belugacdn.shoofmax.com/wahm/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 16
+https://belugacdn.shoofmax.com/wahm/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 17
+https://belugacdn.shoofmax.com/wahm/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 18
+https://belugacdn.shoofmax.com/wahm/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 19
+https://belugacdn.shoofmax.com/wahm/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 20
+https://belugacdn.shoofmax.com/wahm/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 21
+https://belugacdn.shoofmax.com/wahm/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 22
+https://belugacdn.shoofmax.com/wahm/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 23
+https://belugacdn.shoofmax.com/wahm/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 24
+https://belugacdn.shoofmax.com/wahm/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 25
+https://belugacdn.shoofmax.com/wahm/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 26
+https://belugacdn.shoofmax.com/wahm/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 27
+https://belugacdn.shoofmax.com/wahm/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 28
+https://belugacdn.shoofmax.com/wahm/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 29
+https://belugacdn.shoofmax.com/wahm/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 30
+https://belugacdn.shoofmax.com/wahm/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 31
+https://belugacdn.shoofmax.com/wahm/ep31/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 32
+https://belugacdn.shoofmax.com/wahm/ep32/720p/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 1
+https://belugacdn.shoofmax.com/alghareeb/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 2
+https://belugacdn.shoofmax.com/alghareeb/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 3
+https://belugacdn.shoofmax.com/alghareeb/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 4
+https://belugacdn.shoofmax.com/alghareeb/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 5
+https://belugacdn.shoofmax.com/alghareeb/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 6
+https://belugacdn.shoofmax.com/alghareeb/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 7
+https://belugacdn.shoofmax.com/alghareeb/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 8
+https://belugacdn.shoofmax.com/alghareeb/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 9
+https://belugacdn.shoofmax.com/alghareeb/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 10
+https://belugacdn.shoofmax.com/alghareeb/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 11
+https://belugacdn.shoofmax.com/alghareeb/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 12
+https://belugacdn.shoofmax.com/alghareeb/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 13
+https://belugacdn.shoofmax.com/alghareeb/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 14
+https://belugacdn.shoofmax.com/alghareeb/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 15
+https://belugacdn.shoofmax.com/alghareeb/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 16
+https://belugacdn.shoofmax.com/alghareeb/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 17
+https://belugacdn.shoofmax.com/alghareeb/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 18
+https://belugacdn.shoofmax.com/alghareeb/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 19
+https://belugacdn.shoofmax.com/alghareeb/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 20
+https://belugacdn.shoofmax.com/alghareeb/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 21
+https://belugacdn.shoofmax.com/alghareeb/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 22
+https://belugacdn.shoofmax.com/alghareeb/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 23
+https://belugacdn.shoofmax.com/alghareeb/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 24
+https://belugacdn.shoofmax.com/alghareeb/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 25
+https://belugacdn.shoofmax.com/alghareeb/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 26
+https://belugacdn.shoofmax.com/alghareeb/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 27
+https://belugacdn.shoofmax.com/alghareeb/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 28
+https://belugacdn.shoofmax.com/alghareeb/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 29
+https://belugacdn.shoofmax.com/alghareeb/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 30
+https://belugacdn.shoofmax.com/alghareeb/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 31
+https://belugacdn.shoofmax.com/alghareeb/ep31/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 32
+https://belugacdn.shoofmax.com/alghareeb/ep32/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 1
+https://belugacdn.shoofmax.com/weld-alghalaba/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 2
+https://belugacdn.shoofmax.com/weld-alghalaba/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 3
+https://belugacdn.shoofmax.com/weld-alghalaba/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 4
+https://belugacdn.shoofmax.com/weld-alghalaba/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 5
+https://belugacdn.shoofmax.com/weld-alghalaba/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 6
+https://belugacdn.shoofmax.com/weld-alghalaba/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 7
+https://belugacdn.shoofmax.com/weld-alghalaba/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 8
+https://belugacdn.shoofmax.com/weld-alghalaba/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 9
+https://belugacdn.shoofmax.com/weld-alghalaba/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 10
+https://belugacdn.shoofmax.com/weld-alghalaba/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 11
+https://belugacdn.shoofmax.com/weld-alghalaba/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 12
+https://belugacdn.shoofmax.com/weld-alghalaba/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 13
+https://belugacdn.shoofmax.com/weld-alghalaba/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 14
+https://belugacdn.shoofmax.com/weld-alghalaba/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 15
+https://belugacdn.shoofmax.com/weld-alghalaba/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 16
+https://belugacdn.shoofmax.com/weld-alghalaba/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 17
+https://belugacdn.shoofmax.com/weld-alghalaba/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 18
+https://belugacdn.shoofmax.com/weld-alghalaba/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 19
+https://belugacdn.shoofmax.com/weld-alghalaba/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 20
+https://belugacdn.shoofmax.com/weld-alghalaba/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 21
+https://belugacdn.shoofmax.com/weld-alghalaba/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 22
+https://belugacdn.shoofmax.com/weld-alghalaba/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 23
+https://belugacdn.shoofmax.com/weld-alghalaba/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 24
+https://belugacdn.shoofmax.com/weld-alghalaba/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 25
+https://belugacdn.shoofmax.com/weld-alghalaba/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 26
+https://belugacdn.shoofmax.com/weld-alghalaba/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 27
+https://belugacdn.shoofmax.com/weld-alghalaba/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 28
+https://belugacdn.shoofmax.com/weld-alghalaba/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 29
+https://belugacdn.shoofmax.com/weld-alghalaba/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 30
+https://belugacdn.shoofmax.com/weld-alghalaba/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 1
+https://belugacdn.shoofmax.com/ikhtifaa/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 2
+https://belugacdn.shoofmax.com/ikhtifaa/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 3
+https://belugacdn.shoofmax.com/ikhtifaa/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 4
+https://belugacdn.shoofmax.com/ikhtifaa/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 5
+https://belugacdn.shoofmax.com/ikhtifaa/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 6
+https://belugacdn.shoofmax.com/ikhtifaa/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 7
+https://belugacdn.shoofmax.com/ikhtifaa/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 8
+https://belugacdn.shoofmax.com/ikhtifaa/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 9
+https://belugacdn.shoofmax.com/ikhtifaa/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 10
+https://belugacdn.shoofmax.com/ikhtifaa/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 11
+https://belugacdn.shoofmax.com/ikhtifaa/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 12
+https://belugacdn.shoofmax.com/ikhtifaa/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 13
+https://belugacdn.shoofmax.com/ikhtifaa/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 14
+https://belugacdn.shoofmax.com/ikhtifaa/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 15
+https://belugacdn.shoofmax.com/ikhtifaa/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 16
+https://belugacdn.shoofmax.com/ikhtifaa/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 17
+https://belugacdn.shoofmax.com/ikhtifaa/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 18
+https://belugacdn.shoofmax.com/ikhtifaa/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 19
+https://belugacdn.shoofmax.com/ikhtifaa/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 20
+https://belugacdn.shoofmax.com/ikhtifaa/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 21
+https://belugacdn.shoofmax.com/ikhtifaa/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 22
+https://belugacdn.shoofmax.com/ikhtifaa/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 23
+https://belugacdn.shoofmax.com/ikhtifaa/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 24
+https://belugacdn.shoofmax.com/ikhtifaa/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 25
+https://belugacdn.shoofmax.com/ikhtifaa/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 26
+https://belugacdn.shoofmax.com/ikhtifaa/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 27
+https://belugacdn.shoofmax.com/ikhtifaa/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 28
+https://belugacdn.shoofmax.com/ikhtifaa/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 29
+https://belugacdn.shoofmax.com/ikhtifaa/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 30
+https://belugacdn.shoofmax.com/ikhtifaa/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 1
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 2
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 3
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 4
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 5
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 6
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 7
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 8
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 9
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 10
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 11
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 12
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 13
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 14
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 15
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 16
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 17
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 18
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 19
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 20
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 21
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 22
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 23
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 24
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 25
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 26
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 27
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 28
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 29
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 30
+https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep30/720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة1
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep1/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة2
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep2/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة3
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep3/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة4
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep4/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة5
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep5/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة6
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep6/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة7
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep7/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة8
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep8/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة9
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep9/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة10
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep10/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة11
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep11/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة12
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep12/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة13
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep13/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة14
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep14/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة15
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep15/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة16
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep16/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة17
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep17/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة18
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep18/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة19
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep19/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة20
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep20/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة21
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep21/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة22
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep22/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة23
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep23/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة24
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep24/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة25
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep25/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة26
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep26/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة27
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep27/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة28
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep28/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة29
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep29/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",نسر الصعيد الحلقة30
+https://shoofmax.b-cdn.net/nisr-elsaeed/ep30/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 1
+https://shoofmax.b-cdn.net//kalabsh/ep1/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 2
+https://shoofmax.b-cdn.net//kalabsh/ep2/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 3
+https://shoofmax.b-cdn.net//kalabsh/ep3/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 4
+https://shoofmax.b-cdn.net//kalabsh/ep4/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 5
+https://shoofmax.b-cdn.net//kalabsh/ep5/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 6
+https://shoofmax.b-cdn.net//kalabsh/ep6/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 7
+https://shoofmax.b-cdn.net//kalabsh/ep7/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 8
+https://shoofmax.b-cdn.net//kalabsh/ep8/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 9
+https://shoofmax.b-cdn.net//kalabsh/ep9/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 10
+https://shoofmax.b-cdn.net//kalabsh/ep10/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 11
+https://shoofmax.b-cdn.net//kalabsh/ep11/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 12
+https://shoofmax.b-cdn.net//kalabsh/ep12/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 13
+https://shoofmax.b-cdn.net//kalabsh/ep13/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 14
+https://shoofmax.b-cdn.net//kalabsh/ep14/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 15
+https://shoofmax.b-cdn.net//kalabsh/ep15/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 16
+https://shoofmax.b-cdn.net//kalabsh/ep16/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 17
+https://shoofmax.b-cdn.net//kalabsh/ep17/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 18
+https://shoofmax.b-cdn.net//kalabsh/ep18/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 19
+https://shoofmax.b-cdn.net//kalabsh/ep19/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 20
+https://shoofmax.b-cdn.net//kalabsh/ep20/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 21
+https://shoofmax.b-cdn.net//kalabsh/ep21/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 22
+https://shoofmax.b-cdn.net//kalabsh/ep22/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 23
+https://shoofmax.b-cdn.net//kalabsh/ep23/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 24
+https://shoofmax.b-cdn.net//kalabsh/ep24/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 25
+https://shoofmax.b-cdn.net//kalabsh/ep25/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 26
+https://shoofmax.b-cdn.net//kalabsh/ep26/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 27
+https://shoofmax.b-cdn.net//kalabsh/ep27/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 28
+https://shoofmax.b-cdn.net//kalabsh/ep28/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 29
+https://shoofmax.b-cdn.net//kalabsh/ep29/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",كلبش الحلقة 30
+https://shoofmax.b-cdn.net//kalabsh/ep30/variant.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد1
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد2
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep2/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد3
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep3/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد4
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep4/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد5
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep5/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد6
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep6/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد7
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep7/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد8
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep8/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد9
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep9/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد10
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep10/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد11
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep11/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد12
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep12/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد13
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep13/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد14
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep14/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد15
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep15/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد16
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep16/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد17
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep17/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد18
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep18/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد19
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep19/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد20
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep20/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد21
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep21/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد22
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep22/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد23
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep23/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد24
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep24/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد25
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep25/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد26
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep26/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد27
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep27/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد28
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep28/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد29
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep29/fallback.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصر",مسلسل نسر الصعيد30
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep30/fallback.mp4
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 01
+https://belugacdn.shoofmax.com/ard-alnifaq/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 02
+https://belugacdn.shoofmax.com/ard-alnifaq/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 03
+https://belugacdn.shoofmax.com/ard-alnifaq/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 04
+https://belugacdn.shoofmax.com/ard-alnifaq/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 05
+https://belugacdn.shoofmax.com/ard-alnifaq/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 06
+https://belugacdn.shoofmax.com/ard-alnifaq/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 07
+https://belugacdn.shoofmax.com/ard-alnifaq/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 08
+https://belugacdn.shoofmax.com/ard-alnifaq/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 09
+https://belugacdn.shoofmax.com/ard-alnifaq/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 10
+https://belugacdn.shoofmax.com/ard-alnifaq/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 11
+https://belugacdn.shoofmax.com/ard-alnifaq/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 12
+https://belugacdn.shoofmax.com/ard-alnifaq/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 13
+https://belugacdn.shoofmax.com/ard-alnifaq/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 14
+https://belugacdn.shoofmax.com/ard-alnifaq/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 15
+https://belugacdn.shoofmax.com/ard-alnifaq/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل أرض النفاق 16
+https://belugacdn.shoofmax.com/ard-alnifaq/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  1
+https://belugacdn.shoofmax.com/khotout-hamraa/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  2
+https://belugacdn.shoofmax.com/khotout-hamraa/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  3
+https://belugacdn.shoofmax.com/khotout-hamraa/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  4
+https://belugacdn.shoofmax.com/khotout-hamraa/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  5
+https://belugacdn.shoofmax.com/khotout-hamraa/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  6
+https://belugacdn.shoofmax.com/khotout-hamraa/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  7
+https://belugacdn.shoofmax.com/khotout-hamraa/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  8
+https://belugacdn.shoofmax.com/khotout-hamraa/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  9
+https://belugacdn.shoofmax.com/khotout-hamraa/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  10
+https://belugacdn.shoofmax.com/khotout-hamraa/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  11
+https://belugacdn.shoofmax.com/khotout-hamraa/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  12
+https://belugacdn.shoofmax.com/khotout-hamraa/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  13
+https://belugacdn.shoofmax.com/khotout-hamraa/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  14
+https://belugacdn.shoofmax.com/khotout-hamraa/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  15
+https://belugacdn.shoofmax.com/khotout-hamraa/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  16
+https://belugacdn.shoofmax.com/khotout-hamraa/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  17
+https://belugacdn.shoofmax.com/khotout-hamraa/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  18
+https://belugacdn.shoofmax.com/khotout-hamraa/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  19
+https://belugacdn.shoofmax.com/khotout-hamraa/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  20
+https://belugacdn.shoofmax.com/khotout-hamraa/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  21
+https://belugacdn.shoofmax.com/khotout-hamraa/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  22
+https://belugacdn.shoofmax.com/khotout-hamraa/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  23
+https://belugacdn.shoofmax.com/khotout-hamraa/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  24
+https://belugacdn.shoofmax.com/khotout-hamraa/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  25
+https://belugacdn.shoofmax.com/khotout-hamraa/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  26
+https://belugacdn.shoofmax.com/khotout-hamraa/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  27
+https://belugacdn.shoofmax.com/khotout-hamraa/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  28
+https://belugacdn.shoofmax.com/khotout-hamraa/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  29
+https://belugacdn.shoofmax.com/khotout-hamraa/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل خطوط حمراء  30
+https://belugacdn.shoofmax.com/khotout-hamraa/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 1
+https://belugacdn.shoofmax.com/thol-raees/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 2
+https://belugacdn.shoofmax.com/thol-raees/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 3
+https://belugacdn.shoofmax.com/thol-raees/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 4
+https://belugacdn.shoofmax.com/thol-raees/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 5
+https://belugacdn.shoofmax.com/thol-raees/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 6
+https://belugacdn.shoofmax.com/thol-raees/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 7
+https://belugacdn.shoofmax.com/thol-raees/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 8
+https://belugacdn.shoofmax.com/thol-raees/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 9
+https://belugacdn.shoofmax.com/thol-raees/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 10
+https://belugacdn.shoofmax.com/thol-raees/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 11
+https://belugacdn.shoofmax.com/thol-raees/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 12
+https://belugacdn.shoofmax.com/thol-raees/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 13
+https://belugacdn.shoofmax.com/thol-raees/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 14
+https://belugacdn.shoofmax.com/thol-raees/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 15
+https://belugacdn.shoofmax.com/thol-raees/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 165
+https://belugacdn.shoofmax.com/thol-raees/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 17
+https://belugacdn.shoofmax.com/thol-raees/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 18
+https://belugacdn.shoofmax.com/thol-raees/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 19
+https://belugacdn.shoofmax.com/thol-raees/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 20
+https://belugacdn.shoofmax.com/thol-raees/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 21
+https://belugacdn.shoofmax.com/thol-raees/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 22
+https://belugacdn.shoofmax.com/thol-raees/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 23
+https://belugacdn.shoofmax.com/thol-raees/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 24
+https://belugacdn.shoofmax.com/thol-raees/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 25
+https://belugacdn.shoofmax.com/thol-raees/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 26
+https://belugacdn.shoofmax.com/thol-raees/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 27
+https://belugacdn.shoofmax.com/thol-raees/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 28
+https://belugacdn.shoofmax.com/thol-raees/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 29
+https://belugacdn.shoofmax.com/thol-raees/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل ظل الرئيس 30
+https://belugacdn.shoofmax.com/thol-raees/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 1
+https://belugacdn.shoofmax.com/elsayyad/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 2
+https://belugacdn.shoofmax.com/elsayyad/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 3
+https://belugacdn.shoofmax.com/elsayyad/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 4
+https://belugacdn.shoofmax.com/elsayyad/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 5
+https://belugacdn.shoofmax.com/elsayyad/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 6
+https://belugacdn.shoofmax.com/elsayyad/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 7
+https://belugacdn.shoofmax.com/elsayyad/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 8
+https://belugacdn.shoofmax.com/elsayyad/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 9
+https://belugacdn.shoofmax.com/elsayyad/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 10
+https://belugacdn.shoofmax.com/elsayyad/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 11
+https://belugacdn.shoofmax.com/elsayyad/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 12
+https://belugacdn.shoofmax.com/elsayyad/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 13
+https://belugacdn.shoofmax.com/elsayyad/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 14
+https://belugacdn.shoofmax.com/elsayyad/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 15
+https://belugacdn.shoofmax.com/elsayyad/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 16
+https://belugacdn.shoofmax.com/elsayyad/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 17
+https://belugacdn.shoofmax.com/elsayyad/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 18
+https://belugacdn.shoofmax.com/elsayyad/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 19
+https://belugacdn.shoofmax.com/elsayyad/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 20
+https://belugacdn.shoofmax.com/elsayyad/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 21
+https://belugacdn.shoofmax.com/elsayyad/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 22
+https://belugacdn.shoofmax.com/elsayyad/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 23
+https://belugacdn.shoofmax.com/elsayyad/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 24
+https://belugacdn.shoofmax.com/elsayyad/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 25
+https://belugacdn.shoofmax.com/elsayyad/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 26
+https://belugacdn.shoofmax.com/elsayyad/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 27
+https://belugacdn.shoofmax.com/elsayyad/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 28
+https://belugacdn.shoofmax.com/elsayyad/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 29
+https://belugacdn.shoofmax.com/elsayyad/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",مسلسل الصياد 30
+https://belugacdn.shoofmax.com/elsayyad/ep30/720p/index.m3u8
 
 
 
@@ -1046,29 +2521,6 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E05.Mp4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E06.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E07.Mp4
-
-
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 1
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/1.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/2.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 3
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/3.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 4
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/4.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 5
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/5.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 6
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/6.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 7
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/7.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 8
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/8.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 9
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Walking.10",Walking 10
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E01
 https://cdn.alarab.com/h264/152272_720p.mp4/index-v1-a1.m3u8
