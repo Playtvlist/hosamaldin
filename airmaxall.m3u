@@ -62,9 +62,7 @@ https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 2 low
 https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 3
-http://local.referrari.com/live/149087_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 4
-http://local.referrari.com/live/149086_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
