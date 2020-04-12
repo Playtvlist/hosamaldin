@@ -976,6 +976,8 @@ https://cdn.alarab.com/h264/151633_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/151607_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",AR:MV: فيلم Marriage Story مترجم
 https://cdn.alarab.com/h264/151638_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",▂ ▄ ▅ ▆☆ مسلسلات اجنبية مترجمة ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 1
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E01.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 2
@@ -992,7 +994,6 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E06.Mp4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E07.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية مترجمة",TheWitcher Ar 8
 http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E08.Mp4
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 2
@@ -1013,7 +1014,52 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/8.mp4/playlist
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",▂ ▄ ▅ ▆☆ مسلسلات سورية ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E01
+https://cdn.alarab.com/h264/152272_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E02
+https://cdn.alarab.com/h264/152273_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E03
+https://ostream1.panet.co.il/vod/596/596003/596003.mp4/chunk.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E04
+https://cdn.alarab.com/h264/152276_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E05
+https://cdn.alarab.com/h264/152277_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E06
+https://cdn.alarab.com/h264/152280_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E07
+https://cdn.alarab.com/h264/152281_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E08
+https://cdn.alarab.com/h264/152279_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E09
+https://cdn.alarab.com/h264/152282_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E010
+https://cdn.alarab.com/h264/152283_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E011
+https://cdn.alarab.com/h264/152284_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",العميدS01E012
+https://cdn.alarab.com/h264/152285_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E01
+https://cdn.alarab.com/h264/153024_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E02
+https://cdn.alarab.com/h264/153025_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E03
+https://cdn.alarab.com/h264/153332_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E04
+https://cdn.alarab.com/h264/153333_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E05
+https://cdn.alarab.com/h264/153334_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E06
+https://cdn.alarab.com/h264/153336_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E07
+https://cdn.alarab.com/h264/153501_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E08
+https://cdn.alarab.com/h264/153502_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E09
+https://cdn.alarab.com/h264/153652_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",عهد الدمS01E10
+https://cdn.alarab.com/h264/153776_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 1
 https://belugacdn.shoofmax.com/daqeeqat-samt/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 2
@@ -1074,7 +1120,6 @@ https://belugacdn.shoofmax.com/daqeeqat-samt/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/daqeeqat-samt/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل دقائق صمت 30
 https://belugacdn.shoofmax.com/daqeeqat-samt/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات1
 https://belugacdn.shoofmax.com/wamadat/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات2
@@ -1135,7 +1180,6 @@ https://belugacdn.shoofmax.com/wamadat/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/wamadat/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ومضات30
 https://belugacdn.shoofmax.com/wamadat/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 1
 https://belugacdn.shoofmax.com/nas-min-waraq/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 2
@@ -1196,7 +1240,6 @@ https://belugacdn.shoofmax.com/nas-min-waraq/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/nas-min-waraq/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ناس من ورق 30
 https://belugacdn.shoofmax.com/nas-min-waraq/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 1
 https://belugacdn.shoofmax.com/torjoman-alashwaq/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 2
@@ -1257,7 +1300,6 @@ https://belugacdn.shoofmax.com/torjoman-alashwaq/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/torjoman-alashwaq/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy-مسلسل ترجمان الأشواق 30
 https://belugacdn.shoofmax.com/torjoman-alashwaq/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 1
 https://belugacdn.shoofmax.com/athar-alfarasha/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",sy مسلسل أثر الفراشة 2
@@ -1563,7 +1605,6 @@ https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep27/variant.m3u8
 https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep28/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل غزلان في غابة الذئاب 29
 https://belugacdn.shoofmax.com/ghizlan-fe-ghabat-althiaab/ep29/variant.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 1
 https://belugacdn.shoofmax.com/rozana/ep1/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل روزنا 2
@@ -1685,10 +1726,6 @@ https://belugacdn.shoofmax.com/contac/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/contac/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل كونتاك E30
 https://belugacdn.shoofmax.com/contac/ep30/720p/index.m3u8
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E1
 https://belugacdn.shoofmax.com/zaman-albarghoot-1/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل زمن البرغوت P1 E2
@@ -1825,8 +1862,6 @@ https://belugacdn.shoofmax.com/wahm/ep30/720p/index.m3u8
 https://belugacdn.shoofmax.com/wahm/ep31/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل وهم 32
 https://belugacdn.shoofmax.com/wahm/ep32/720p/index.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 1
 https://belugacdn.shoofmax.com/alghareeb/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 2
@@ -1891,7 +1926,8 @@ https://belugacdn.shoofmax.com/alghareeb/ep30/720p/index.m3u8
 https://belugacdn.shoofmax.com/alghareeb/ep31/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",مسلسل الغريب 32
 https://belugacdn.shoofmax.com/alghareeb/ep32/720p/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",▂ ▄ ▅ ▆☆ مسلسلات مصر ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 1
 https://belugacdn.shoofmax.com/weld-alghalaba/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 2
@@ -1952,7 +1988,6 @@ https://belugacdn.shoofmax.com/weld-alghalaba/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/weld-alghalaba/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل ولد الغلابة 30
 https://belugacdn.shoofmax.com/weld-alghalaba/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 1
 https://belugacdn.shoofmax.com/ikhtifaa/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 2
@@ -2013,7 +2048,6 @@ https://belugacdn.shoofmax.com/ikhtifaa/ep28/720p/index.m3u8
 https://belugacdn.shoofmax.com/ikhtifaa/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل اختفاء 30
 https://belugacdn.shoofmax.com/ikhtifaa/ep30/720p/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 1
 https://belugacdn.shoofmax.com/ladayna-aqwal-okhra/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصر",eg مسلسل لدينا اقوال اخرى 2
@@ -2521,52 +2555,6 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E05.Mp4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E06.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S03E07
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E07.Mp4
-
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E01
-https://cdn.alarab.com/h264/152272_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E02
-https://cdn.alarab.com/h264/152273_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E03
-https://ostream1.panet.co.il/vod/596/596003/596003.mp4/chunk.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E04
-https://cdn.alarab.com/h264/152276_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E05
-https://cdn.alarab.com/h264/152277_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E06
-https://cdn.alarab.com/h264/152280_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E07
-https://cdn.alarab.com/h264/152281_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E08
-https://cdn.alarab.com/h264/152279_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E09
-https://cdn.alarab.com/h264/152282_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E010
-https://cdn.alarab.com/h264/152283_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E011
-https://cdn.alarab.com/h264/152284_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العميد",العميدS01E012
-https://cdn.alarab.com/h264/152285_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E01
-https://cdn.alarab.com/h264/153024_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E02
-https://cdn.alarab.com/h264/153025_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E03
-https://cdn.alarab.com/h264/153332_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E04
-https://cdn.alarab.com/h264/153333_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E05
-https://cdn.alarab.com/h264/153334_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E06
-https://cdn.alarab.com/h264/153336_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E07
-https://cdn.alarab.com/h264/153501_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E08
-https://cdn.alarab.com/h264/153502_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E09
-https://cdn.alarab.com/h264/153652_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عهد الدم",عهد الدمS01E10
-https://cdn.alarab.com/h264/153776_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
 https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8
