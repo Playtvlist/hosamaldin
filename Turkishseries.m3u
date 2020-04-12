@@ -479,16 +479,12 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.and.Salma-3.mp4/
 
 #EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",▂ ▄ ▅ ▆☆ افلام تركية مترجمه ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",
 
 #EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",
 
-
-#EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",
-
-
-#EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",
-
-
+#EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",فيلم وادي الذئاب - العراق
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/Valley.of.the.Wolves.Iraq.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",Siccin 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام تركية مترجمه",فيلم قصة حورية
