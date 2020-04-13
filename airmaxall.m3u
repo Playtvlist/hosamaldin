@@ -1030,6 +1030,10 @@ http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",المصرية 1
+https://msertupoc.streaming.mediaservices.windows.net/a43457da-8440-4ca0-9d33-08d77ecf2825/3a313504-c6ba-41e3-bf4b-f358c93a09c7.ism/QualityLevels(950000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",المصرية 2
+https://msertupoc.streaming.mediaservices.windows.net/79971fa8-0327-4906-810f-1b2e29ae2258/fffdad93-7478-4515-be9f-cc30ab8d7007.ism/QualityLevels(950000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
