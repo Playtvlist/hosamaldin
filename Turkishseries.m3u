@@ -1100,6 +1100,68 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/8.mp4/playlist
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 1
+https://roya-vod.ercdn.net/hls/4/lO/zyjqvqkbdmavhevijgfs0dqeaj5luhakxb92yc5s/zyjqvqkbdmavhevijgfs0dqeaj5luhakxb92yc5s.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 2
+https://roya-vod.ercdn.net/hls/C/qG/z5htjbcvkd4dabipspxnvl3iybkfypqpe1dfshbg/z5htjbcvkd4dabipspxnvl3iybkfypqpe1dfshbg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 3
+https://roya-vod.ercdn.net/hls/1/Mm/4xotrnkebaaq8uqimqfyp8ihfy99gl0emjoxj2s4/4xotrnkebaaq8uqimqfyp8ihfy99gl0emjoxj2s4.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 4
+https://roya-vod.ercdn.net/hls/h/CD/fbuho8ovkavtxlvemg8xvoognqz7bhqvzjl1jeau/fbuho8ovkavtxlvemg8xvoognqz7bhqvzjl1jeau.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 5
+https://roya-vod.ercdn.net/hls/z/_q/v3qlqpfqlshtazr79sqnhj1tczl6vtdtbkyin5ak/v3qlqpfqlshtazr79sqnhj1tczl6vtdtbkyin5ak.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 6
+https://roya-vod.ercdn.net/hls/W/5p/lhn3o5gduqvewp65ub4guv208cdmwne6wxxlocia/lhn3o5gduqvewp65ub4guv208cdmwne6wxxlocia.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 7
+https://roya-vod.ercdn.net/hls/_/kl/c5l5zjhv6iqstphppaiitqnvm2y3ywxenypvp7yd/c5l5zjhv6iqstphppaiitqnvm2y3ywxenypvp7yd.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 8
+https://roya-vod.ercdn.net/hls/5/Sw/yrrix4v2qozwixwcehd5obje4uqv3c29afwrrknc/yrrix4v2qozwixwcehd5obje4uqv3c29afwrrknc.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 9
+https://roya-vod.ercdn.net/hls/5/X1/odwwtm9qnb2vnl8xx8ua2vtmwe74wy19xjzyft1o/odwwtm9qnb2vnl8xx8ua2vtmwe74wy19xjzyft1o.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 10
+https://roya-vod.ercdn.net/hls/q/ea/kjlkcstgz9mza8ilh95srfgl9m0sfzvozfxee8tx/kjlkcstgz9mza8ilh95srfgl9m0sfzvozfxee8tx.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 11
+https://roya-vod.ercdn.net/hls/M/E7/o9lihowx4g4uslstwcwq1yqy1za3ukawthh0pogl/o9lihowx4g4uslstwcwq1yqy1za3ukawthh0pogl.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 12
+https://roya-vod.ercdn.net/hls/9/LU/d7pnvdvqudcvmdlfe3nzbf42jf5wejnfukdorbs1/d7pnvdvqudcvmdlfe3nzbf42jf5wejnfukdorbs1.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 13
+https://roya-vod.ercdn.net/hls/Z/yg/fyjk9753fvlkwemye2qptgk5ldofdy4lm8ibgo0o/fyjk9753fvlkwemye2qptgk5ldofdy4lm8ibgo0o.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 14
+https://roya-vod.ercdn.net/hls/n/KI/t21uf1i3dlkjdxecz6rsbzf4gsz7hrey8tmuzijb/t21uf1i3dlkjdxecz6rsbzf4gsz7hrey8tmuzijb.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 15
+https://roya-vod.ercdn.net/hls/I/o3/zhlbodilhh1h4by1crgqxt1iqqkfmedfqlu85y3f/zhlbodilhh1h4by1crgqxt1iqqkfmedfqlu85y3f.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 16
+https://roya-vod.ercdn.net/hls/7/Aj/ddyedhewtkaellmu1dnpr1wcbh3fipb1xyzakcds/ddyedhewtkaellmu1dnpr1wcbh3fipb1xyzakcds.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 17
+https://roya-vod.ercdn.net/hls/d/38/bgi44ghlpguhckhjkkmwi91eazoafxmpnobzscvw/bgi44ghlpguhckhjkkmwi91eazoafxmpnobzscvw.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 18
+https://roya-vod.ercdn.net/hls/C/wn/nj5d0aqhis1qgew59nfb4orkrxsvfhqhitk4knpy/nj5d0aqhis1qgew59nfb4orkrxsvfhqhitk4knpy.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 19
+https://roya-vod.ercdn.net/hls/W/b_/kpzsa5j9x2vbcuxqzziupes8gige0rltrwyknt4p/kpzsa5j9x2vbcuxqzziupes8gige0rltrwyknt4p.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 20
+https://roya-vod.ercdn.net/hls/7/LQ/8xn0qtlolpa8jeq5tilntpamad2mvfe0l5qtsred/8xn0qtlolpa8jeq5tilntpamad2mvfe0l5qtsred.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 21
+https://roya-vod.ercdn.net/hls/s/dC/esk33gvrswneqf6p4c8lmspdlpcfa8wpl1wx4hcj/esk33gvrswneqf6p4c8lmspdlpcfa8wpl1wx4hcj.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 22
+https://roya-vod.ercdn.net/hls/a/vg/2mcbkq3y3fy9zikqjkcn2el47ycw8rcxemwoqi24/2mcbkq3y3fy9zikqjkcn2el47ycw8rcxemwoqi24.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 23
+https://roya-vod.ercdn.net/hls/h/ME/g39ls9deae504n4aosfqpxougjk9khjjng3rq9yf/g39ls9deae504n4aosfqpxougjk9khjjng3rq9yf.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 24
+https://roya-vod.ercdn.net/hls/2/MD/ckqwwudxhzkmclexawc8eqc6mb8unqpr4ldii9ld/ckqwwudxhzkmclexawc8eqc6mb8unqpr4ldii9ld.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 25
+https://roya-vod.ercdn.net/hls/Q/aP/6prhjznotgmejwahjpzynu2rkfhsv0o5seuu4fyd/6prhjznotgmejwahjpzynu2rkfhsv0o5seuu4fyd.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 26
+https://roya-vod.ercdn.net/hls/P/Hb/j3qvbdrp6rafvjftpf1yxv7wnvwbl4jdn2ldotqn/j3qvbdrp6rafvjftpf1yxv7wnvwbl4jdn2ldotqn.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 27
+https://roya-vod.ercdn.net/hls/e/Dh/pciez3fwiul1zvgwt6htmif0iwxanjsbxopo0zbv/pciez3fwiul1zvgwt6htmif0iwxanjsbxopo0zbv.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 28
+https://roya-vod.ercdn.net/hls/S/Wj/i95tshg5axjozp0kigujacmb0m5bcamsd6gp08y3/i95tshg5axjozp0kigujacmb0m5bcamsd6gp08y3.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 29
+https://roya-vod.ercdn.net/hls/G/7i/cwkyga0uuprommqa8ra3jxunu4jpyjunu8sbgvw7/cwkyga0uuprommqa8ra3jxunu4jpyjunu8sbgvw7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 30
+https://roya-vod.ercdn.net/hls/x/Uz/5turuu6hn2xdyulkqykioli3axamafhz70lupeup/5turuu6hn2xdyulkqykioli3axamafhz70lupeup.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية",▂ ▄ ▅ ▆☆ مسلسلات سورية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية",مسلسل سرS01E01
