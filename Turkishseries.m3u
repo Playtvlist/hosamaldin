@@ -739,11 +739,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-K
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام آسيوية",
 
-#EXTINF:0 tvg-id="ext" group-title="افلام آسيوية",
-
-#EXTINF:0 tvg-id="ext" group-title="افلام آسيوية",
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",▂ ▄ ▅ ▆☆ افلام أجنبية مترجمه ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1101,7 +1096,122 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/9.mp4/playlist
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات اجنبية مترجمة",Walking 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Walking.10/10.mp4/playlist.m3u8
 
-#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E01
+https://roya-vod.ercdn.net/hls/2/Lf/o5hodu1er7mqgjjhuxvm0ojrmnzlzzgmhpaxiiqe/o5hodu1er7mqgjjhuxvm0ojrmnzlzzgmhpaxiiqe.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E02
+https://roya-vod.ercdn.net/hls/q/3g/xbczfsqd7ghygq09baqzvmrredwoxtagzpvgec74/xbczfsqd7ghygq09baqzvmrredwoxtagzpvgec74.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E03
+https://roya-vod.ercdn.net/hls/R/9A/tmbme22mv6w1rqlmepazssjcig3nez5hintitcf7/tmbme22mv6w1rqlmepazssjcig3nez5hintitcf7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E04
+https://roya-vod.ercdn.net/hls/r/5T/qbormxt3vxysyucxmkwqc0ytdgl5kfyeyuy3z4r7/qbormxt3vxysyucxmkwqc0ytdgl5kfyeyuy3z4r7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E05
+https://roya-vod.ercdn.net/hls/k/TL/ddu4fqux7suoyrw8srjh4r9b2cct11nuhbby6qxy/ddu4fqux7suoyrw8srjh4r9b2cct11nuhbby6qxy.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E06
+https://roya-vod.ercdn.net/hls/J/1q/06hwuecl6os8ip370tyd1vjngicv2ohkru2xrz6w/06hwuecl6os8ip370tyd1vjngicv2ohkru2xrz6w.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E07
+https://roya-vod.ercdn.net/hls/B/Z9/5xfzwr4znoxqdzhs0g8gpaxfcrfhg0o2pq8mr6xo/5xfzwr4znoxqdzhs0g8gpaxfcrfhg0o2pq8mr6xo.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E08
+https://roya-vod.ercdn.net/hls/e/KY/f0zl7pvompiufmtnjoe9nrup7dank7qpem6yllgg/f0zl7pvompiufmtnjoe9nrup7dank7qpem6yllgg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E09
+https://roya-vod.ercdn.net/hls/N/9s/dsibhb2zsmo0htjjndbxjk99znft6wefybcvavcg/dsibhb2zsmo0htjjndbxjk99znft6wefybcvavcg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E10
+https://roya-vod.ercdn.net/hls/X/k5/e6gln7njeh9fa2wdvxcjhdfbegksoqmxdpo2fmw8/e6gln7njeh9fa2wdvxcjhdfbegksoqmxdpo2fmw8.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E11
+https://roya-vod.ercdn.net/hls/F/GW/9gw8lmhvbn9xg053pb3nikluou85lbd2lky69qnp/9gw8lmhvbn9xg053pb3nikluou85lbd2lky69qnp.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E12
+https://roya-vod.ercdn.net/hls/n/sC/ejiqmivpllnp0nsrc2yfddfjkc4yn2cmokrc3f9o/ejiqmivpllnp0nsrc2yfddfjkc4yn2cmokrc3f9o.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E13
+https://roya-vod.ercdn.net/hls/d/0r/piiokrlfnpmzxk16n5peai2whyrv7nrmquf4k1b3/piiokrlfnpmzxk16n5peai2whyrv7nrmquf4k1b3.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E14
+https://roya-vod.ercdn.net/hls/F/QN/onxrvgadj28udmf0nxkzvidge78jqvccadshq7tl/onxrvgadj28udmf0nxkzvidge78jqvccadshq7tl.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E15
+https://roya-vod.ercdn.net/hls/N/L8/r4ctpcbmrtyuu8nyig6vktnjskkk7hlwlgscq4ww/r4ctpcbmrtyuu8nyig6vktnjskkk7hlwlgscq4ww.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E16
+https://roya-vod.ercdn.net/hls/G/Qu/k4rf81wfkqnhgcfgu81djyeuozsuah2znneo26em/k4rf81wfkqnhgcfgu81djyeuozsuah2znneo26em.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E17
+https://roya-vod.ercdn.net/hls/G/8T/m4xsfx1yt6im5ysoruhroyfjeuphqj7dgvigslfr/m4xsfx1yt6im5ysoruhroyfjeuphqj7dgvigslfr.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E18
+https://roya-vod.ercdn.net/hls/Q/44/8g9wpm9sgz3iz0bxcie3ryxyrdb8jnpa4oot2jrp/8g9wpm9sgz3iz0bxcie3ryxyrdb8jnpa4oot2jrp.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E19
+https://roya-vod.ercdn.net/hls/Q/4e/86wyesrlmixc0wz4yzgqptkfo483c4p9g4atbnhv/86wyesrlmixc0wz4yzgqptkfo483c4p9g4atbnhv.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E20
+https://roya-vod.ercdn.net/hls/5/tx/9grfxjpejqeawxao0fbti2xcgbo1gj8trmycpu0g/9grfxjpejqeawxao0fbti2xcgbo1gj8trmycpu0g.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E21
+https://roya-vod.ercdn.net/hls/e/XS/a9qvv4vmggmjwws8x4098y2dp9bfr9eg6x4sitan/a9qvv4vmggmjwws8x4098y2dp9bfr9eg6x4sitan.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E22
+https://roya-vod.ercdn.net/hls/C/_3/shgrdf1sbqin7lrpokkfrrj4ofazxtzl27osbbn0/shgrdf1sbqin7lrpokkfrrj4ofazxtzl27osbbn0.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E23
+https://roya-vod.ercdn.net/hls/Y/jC/tvybrya4b94mm96rddj7ujagqp4lfa3g1jsn2k98/tvybrya4b94mm96rddj7ujagqp4lfa3g1jsn2k98.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E24
+https://roya-vod.ercdn.net/hls/5/zQ/iaztagilqwijqdafhp3wtveve9eilz0lh86ye79v/iaztagilqwijqdafhp3wtveve9eilz0lh86ye79v.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E25
+https://roya-vod.ercdn.net/hls/P/KD/02hwqlnvschqmveuwbk3rg9jznrion8p3fi48qo7/02hwqlnvschqmveuwbk3rg9jznrion8p3fi48qo7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E26
+https://roya-vod.ercdn.net/hls/1/ZR/ihrsc0snlgqkhtqhc7dtzjih0mbwkbpkg8bxevqs/ihrsc0snlgqkhtqhc7dtzjih0mbwkbpkg8bxevqs.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S01E27
+https://roya-vod.ercdn.net/hls/y/wc/slnk2udkmmvvtvmlgcmzvtzv7bbmmojkxwfxhnlm/slnk2udkmmvvtvmlgcmzvtzv7bbmmojkxwfxhnlm.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E01
+https://roya-vod.ercdn.net/hls/R/gl/ljc0sektqugyo1tgksdwlum1ttbniqhyqdnigqxg/ljc0sektqugyo1tgksdwlum1ttbniqhyqdnigqxg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E02
+https://roya-vod.ercdn.net/hls/Y/vw/exrdmfaopauzwhd9ycmb4yxxryitxbgohdrbfh2s/exrdmfaopauzwhd9ycmb4yxxryitxbgohdrbfh2s.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E03
+https://roya-vod.ercdn.net/hls/6/dL/fd5gheharai1fxtlbzsvw25vhi1amxexwtraj2sg/fd5gheharai1fxtlbzsvw25vhi1amxexwtraj2sg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E04
+https://roya-vod.ercdn.net/hls/B/M3/x367gtxnnzmgu9mig6ev34jubgj5xlsz51isxywx/x367gtxnnzmgu9mig6ev34jubgj5xlsz51isxywx.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E05
+https://roya-vod.ercdn.net/hls/p/pA/vrttzikkfjtsnjhlarxjktmz4e1bykc9tzwui1ba/vrttzikkfjtsnjhlarxjktmz4e1bykc9tzwui1ba.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E06
+https://roya-vod.ercdn.net/hls/o/_A/pss77tum3kvvyqwvntdhgwz4vzsfjlnp12nncqhc/pss77tum3kvvyqwvntdhgwz4vzsfjlnp12nncqhc.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E07
+https://roya-vod.ercdn.net/hls/t/O8/hm9f55txkwfswjn0fpu0moxn2teae0fap7gca8lc/hm9f55txkwfswjn0fpu0moxn2teae0fap7gca8lc.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E08
+https://roya-vod.ercdn.net/hls/l/WV/q1y6hyue4aeaxpta64cg4upqhygugnjxc9wr90jy/q1y6hyue4aeaxpta64cg4upqhygugnjxc9wr90jy.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E09
+https://roya-vod.ercdn.net/hls/4/HD/9azdswpthzg2rtipqrcata2fhuyifw9j6c1syv8i/9azdswpthzg2rtipqrcata2fhuyifw9j6c1syv8i.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E10
+https://roya-vod.ercdn.net/hls/h/Nt/fthpsvt3ygzfbumzdal4a6zrofkmkbw2vzew0rv5/fthpsvt3ygzfbumzdal4a6zrofkmkbw2vzew0rv5.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E11
+https://roya-vod.ercdn.net/hls/Q/mz/dxgep4soii1cokmmglpnrrhwvpfiaywy8701bqvw/dxgep4soii1cokmmglpnrrhwvpfiaywy8701bqvw.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E12
+https://roya-vod.ercdn.net/hls/I/SM/zuyotf5k5gfdebnok46whabned45eqca40hfynms/zuyotf5k5gfdebnok46whabned45eqca40hfynms.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E13
+https://roya-vod.ercdn.net/hls/_/2y/zrggbbkwo9dklfn2fahypypv1d6e0ncds5sg1mxu/zrggbbkwo9dklfn2fahypypv1d6e0ncds5sg1mxu.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E14
+https://roya-vod.ercdn.net/hls/u/ID/pqtvvbfhqcs87o5q9j4zhwdbdl1p2s0krffdw42j/pqtvvbfhqcs87o5q9j4zhwdbdl1p2s0krffdw42j.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E15
+https://roya-vod.ercdn.net/hls/q/XQ/gthfv9zo3em9rpakmaosc9fg26ivpue8gcum1oee/gthfv9zo3em9rpakmaosc9fg26ivpue8gcum1oee.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E16
+https://roya-vod.ercdn.net/hls/U/rj/glrl40kisiw4ulkptuuuet45fksjcxqck222hnef/glrl40kisiw4ulkptuuuet45fksjcxqck222hnef.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E17
+https://roya-vod.ercdn.net/hls/W/IG/hydn8hfhe05kdessf6yxcvxe9czhksouwudwncdg/hydn8hfhe05kdessf6yxcvxe9czhksouwudwncdg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E18
+https://roya-vod.ercdn.net/hls/W/ag/px0uhtehpuugmhnc5lmizapiczrp9rwtukumpalr/px0uhtehpuugmhnc5lmizapiczrp9rwtukumpalr.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E19
+https://roya-vod.ercdn.net/hls/q/t_/wc0sdizzybf8fxjgzirzr2qrdtzaq1lvlc8k0umi/wc0sdizzybf8fxjgzirzr2qrdtzaq1lvlc8k0umi.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E20
+https://roya-vod.ercdn.net/hls/c/TE/15c9aqkhgwjewxehj1fk8qzgjixejhfpegshyjna/15c9aqkhgwjewxehj1fk8qzgjixejhfpegshyjna.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E21
+https://roya-vod.ercdn.net/hls/K/xp/ouu3bz4fzcjrinrzziapqrrmnafdtpm7uyyplqt1/ouu3bz4fzcjrinrzziapqrrmnafdtpm7uyyplqt1.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E22
+https://roya-vod.ercdn.net/hls/G/Mk/hgxf4iicldi0dq9lfokajhwrbmfiruvrpunnm2rw/hgxf4iicldi0dq9lfokajhwrbmfiruvrpunnm2rw.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E23
+https://roya-vod.ercdn.net/hls/T/Jr/swgp80wklvxb5wxtgciudddggy5z9bbjjqyqnpvk/swgp80wklvxb5wxtgciudddggy5z9bbjjqyqnpvk.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E24
+https://roya-vod.ercdn.net/hls/1/vW/hmj5ydxilt5gvduvqzgv7xftdxcovsrldjeclmk5/hmj5ydxilt5gvduvqzgv7xftdxcovsrldjeclmk5.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E25
+https://roya-vod.ercdn.net/hls/y/gS/cqsx2qofqnu74z9lm14i35aanibaw0sgf5rxs7gt/cqsx2qofqnu74z9lm14i35aanibaw0sgf5rxs7gt.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E26
+https://roya-vod.ercdn.net/hls/y/Q6/u1yisqzt4hsw5wnznpqcsswqelteemhyefzzinwt/u1yisqzt4hsw5wnznpqcsswqelteemhyefzzinwt.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E27
+https://roya-vod.ercdn.net/hls/P/L3/grpqhmeqla529fdvulmfbmgpict45k0qj9f7xp6s/grpqhmeqla529fdvulmfbmgpict45k0qj9f7xp6s.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E28
+https://roya-vod.ercdn.net/hls/t/2q/bc2sldej8sfjvmtbnwc0ukan9jcpzirt4ybl5fg8/bc2sldej8sfjvmtbnwc0ukan9jcpzirt4ybl5fg8.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E29
+https://roya-vod.ercdn.net/hls/x/nr/ti3ecf78enjitojlbw3d4dn1aylprrm6hkkrtq4f/ti3ecf78enjitojlbw3d4dn1aylprrm6hkkrtq4f.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ضيعة ضايعة كامل الأجزاء",ضيعة ضايعة S02E30
+https://roya-vod.ercdn.net/hls/Y/Tu/nm2tekkkgjlug2yzttqoepjkhf6gmmqotgldx0ws/nm2tekkkgjlug2yzttqoepjkhf6gmmqotgldx0ws.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 1
 https://roya-vod.ercdn.net/hls/4/lO/zyjqvqkbdmavhevijgfs0dqeaj5luhakxb92yc5s/zyjqvqkbdmavhevijgfs0dqeaj5luhakxb92yc5s.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل الهيبة 3",مسلسل الهيبة 2
