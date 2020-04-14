@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 1
-http://165.227.71.255:25461/live/BEST-LIVE/KHAZALEH13/765.ts
+http://144.76.102.19:8000/live/NawrasTVRestream/NawrasTVRestream/182.ts
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 2
-http://165.227.71.255:25461/live/BEST-LIVE/KHAZALEH13/771.ts
+http://144.76.102.19:8000/live/NawrasTVRestream/NawrasTVRestream/183.ts
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 3
-http://165.227.71.255:25461/live/BEST-LIVE/KHAZALEH13/769.ts
+
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 4
-http://165.227.71.255:25461/live/BEST-LIVE/KHAZALEH13/774.ts
+
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",NETFLIX 5
-http://165.227.71.255:25461/live/BEST-LIVE/KHAZALEH13/763.ts
+
