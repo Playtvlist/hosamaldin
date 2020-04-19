@@ -760,6 +760,9 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana روتانا كوميدي
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",MUS:AR-RADIO ROTANA
