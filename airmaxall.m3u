@@ -917,6 +917,10 @@ http://185.27.116.54:1935/livestream/amn/chunklist_w1062433089.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",ALmamlka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",A ONE
+http://82.212.74.99:8000/live/hls/8111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jasco
+http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan Sport
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",▂ ▄ ▅ ▆☆ قنوات العراق IRAQ ☆▆ ▅ ▄ ▂ ▁
@@ -1248,6 +1252,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناه 24
 http://82.212.74.99:8000/live/8117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",En TV
+http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
