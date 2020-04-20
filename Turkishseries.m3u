@@ -5808,9 +5808,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/3ahd/10.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/3ahd/11.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S01E12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/3ahd/12.mp4/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S02E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/ahed2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S02E02
@@ -5887,8 +5884,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/ahed2/36.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/ahed2/37.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S02E38
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/ahed2/38.mp4/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S03E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/alahed3/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S03E02
@@ -5958,7 +5953,52 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/alahed3/33.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل التركي العهد",مسلسل العهد S03E34
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/alahed3/34.mp4/playlist.m3u8
 
-
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/14.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/15.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/17.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/18.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/19.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/20.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/21.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسل التركي Sampiyon", Sampiyon S01E23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/23.mp4/playlist.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحافظ التركي",المحافظ S01E01
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E01.Mp4
