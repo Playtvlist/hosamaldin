@@ -782,7 +782,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
-https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA
 http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
