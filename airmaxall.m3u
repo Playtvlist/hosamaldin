@@ -1107,8 +1107,6 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
 http://109.236.92.216:9090/CanalAlgerie/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Ennahar TV
 http://80.241.212.158:25461/uss/axGFSC4zhv/1
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: PROGRAME NATIONAL
@@ -1155,8 +1153,6 @@ http://80.241.212.158:25461/uss/axGFSC4zhv/23
 http://80.241.212.158:25461/uss/axGFSC4zhv/24
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",NAH2
 http://80.241.212.158:25461/uss/axGFSC4zhv/25
-
-
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
@@ -1185,7 +1181,6 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",sudan_drama
 http://217.182.137.206/sudan_drama.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Bulsho TV
@@ -1234,6 +1229,9 @@ http://livecdnh3.tvanywhere.ae/hls/funoon/03.m3u8
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait العدالة
 rtmp://168.187.49.14/live//atv?v=
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait المعارف
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:0 tvg-id="ext" group-title="Oman TV",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
