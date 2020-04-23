@@ -6307,10 +6307,10 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/22.mp4/playlist.m3u
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل الحفرة",الحفرة  S03E24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS03E25
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الحفرة",الحفرة  S03E25
 https://cdn.alarab.com/h264/153438_720p.mp4/index-v1-a1.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="مسلسل الحفرة",الحفرة  S03E26
+https://cdn.alarab.com/h264/154291_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 1
 https://cdn.alarab.com/hdiphone/127884.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 2
