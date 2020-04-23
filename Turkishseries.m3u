@@ -6285,6 +6285,8 @@ https://cdn.alarab.com/hdiphone/151102.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/hdiphone/151259.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS03E13
 https://cdn.alarab.com/hdiphone/151427.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS03E13+
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/13.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS03E14
 https://cdn.alarab.com/hdiphone/151427.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة الجزء 1+2+3",مسلسل الحفرةS03E15
