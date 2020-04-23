@@ -1195,11 +1195,15 @@ https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/q_700030.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master30.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem_360p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_360p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar التعليمة 1
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500230.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar التعليمة 2
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
