@@ -782,9 +782,9 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
-https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA
-http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
+http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
@@ -1094,11 +1094,10 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w40821
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE tunisieimmob
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE Attesia TV
-http://web12.iptv-planet.com:8080/hls/attesiatv.m3u8?v=freedaily
+
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 1 TV
 http://54.36.122.126/tunisie1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 2 TV
-http://54.36.122.126/tunisie2.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
