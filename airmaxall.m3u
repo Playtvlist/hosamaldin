@@ -788,7 +788,9 @@ http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
-http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
