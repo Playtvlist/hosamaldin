@@ -260,7 +260,7 @@ http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids
-
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
@@ -777,6 +777,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana روتانا كوميدي
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
