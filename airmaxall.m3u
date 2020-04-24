@@ -722,8 +722,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC IRAQ HD
-http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC IRAQ HD
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
