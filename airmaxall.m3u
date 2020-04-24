@@ -731,10 +731,10 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Drama plus HD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr HD
+https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 HD
+https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-ZEE ALWAN
@@ -755,6 +755,16 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Drama SD
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr SD
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 SD
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",النسخة المدفوعة AirMax TV
