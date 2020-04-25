@@ -1143,52 +1143,55 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
 http://109.236.92.216:9090/CanalAlgerie/tracks-v1a1/mono.m3u8
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Ennahar TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/1
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/1
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: PROGRAME NATIONAL
-http://80.241.212.158:25461/uss/axGFSC4zhv/2
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/2
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Canal Algerie
-http://80.241.212.158:25461/uss/axGFSC4zhv/3
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/3
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Algeria 3
-http://80.241.212.158:25461/uss/axGFSC4zhv/4
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/4
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echourouk News
-http://80.241.212.158:25461/uss/axGFSC4zhv/5
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/5
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Biled News
-http://80.241.212.158:25461/uss/axGFSC4zhv/6
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/6
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Samira TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/7
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/7
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL FADJR TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/8
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL HAYAT TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/9
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/9
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Haddaf
-http://80.241.212.158:25461/uss/axGFSC4zhv/10
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/10
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 4
-http://80.241.212.158:25461/uss/axGFSC4zhv/11
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/11
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Al Anis TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/12
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/12
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Chams TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/13
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/13
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Berbere TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/14
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/14
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL Djazairia
-http://80.241.212.158:25461/uss/axGFSC4zhv/15
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/15
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Beur TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/16
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/16
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 5
-http://80.241.212.158:25461/uss/axGFSC4zhv/17
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/17
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Bahia TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/18
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/18
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",TUN: Nessma TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/19
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/19
 #EXTINF:0 tvg-id="NatGeoAD.net" group-title="ALGERIEN قنوات الجزائر",AR: Nat Geo AD
-http://80.241.212.158:25461/uss/axGFSC4zhv/20
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/20
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echorouk TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/23
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/23
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Numidia TV
-http://80.241.212.158:25461/uss/axGFSC4zhv/24
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",NAH2
-http://80.241.212.158:25461/uss/axGFSC4zhv/25
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/24
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="ALGERIEN قنوات الجزائر",canal
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/26
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Al Adjwaa
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/29
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
