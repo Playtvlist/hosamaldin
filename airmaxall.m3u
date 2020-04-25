@@ -828,6 +828,10 @@ https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
+http://82.137.248.16:1935/Drama/stream31122019/chunklist_w625374097.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV++
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
