@@ -1,61 +1,48 @@
-#EXTM3U
-#EXTINF:0,Bein Sport 1 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedTv2020Re06Hour/RaeedTv2020Re06Hour/180.ts
-#EXTINF:0,Bein Sport 2 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/14.ts
-#EXTINF:0,Bein Sport 3 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/15.ts
-#EXTINF:0,Bein Sport 4 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/16.ts
-#EXTINF:0,Bein Sport 5 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/17.ts
-#EXTINF:0,Bein Sport 6 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/18.ts
-#EXTINF:0,Bein Sport 7 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/19.ts
-#EXTINF:0,Bein Sport 8 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/20.ts
-#EXTINF:0,Bein Sport 9 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/21.ts
-#EXTINF:0,Bein Sport 10 SD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/22.ts
-#EXTINF:0,Bein Sport 1 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/3.ts
-#EXTINF:0,Bein Sport 2 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/4.ts
-#EXTINF:0,Bein Sport 3 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/5.ts
-#EXTINF:0,Bein Sport 4 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/6.ts
-#EXTINF:0,Bein Sport 5 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/7.ts
-#EXTINF:0,Bein Sport 6 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/8.ts
-#EXTINF:0,Bein Sport 7 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/9.ts
-#EXTINF:0,Bein Sport 8 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/10.ts
-#EXTINF:0,Bein Sport 9 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/11.ts
-#EXTINF:0,Bein Sport 10 HD
-#EXTVLCOPT:http-user-agent=raeed
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/12.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Ennahar TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/1
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: PROGRAME NATIONAL
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/2
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Canal Algerie
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/3
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Algeria 3
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/4
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echourouk News
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/5
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Biled News
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/6
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Samira TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/7
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL FADJR TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/8
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL HAYAT TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/9
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Haddaf
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/10
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 4
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/11
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Al Anis TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/12
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Chams TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/13
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Berbere TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/14
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL Djazairia
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/15
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Beur TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/16
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 5
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/17
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Bahia TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/18
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",TUN: Nessma TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/19
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="ALGERIEN قنوات الجزائر",AR: Nat Geo AD
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/20
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echorouk TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/23
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Numidia TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/24
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="ALGERIEN قنوات الجزائر",canal
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/26
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Al Adjwaa
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/29
