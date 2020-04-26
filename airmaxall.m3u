@@ -1040,6 +1040,8 @@ http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Sada-EL-Balad
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cairo-Dra
 http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CairoCine
@@ -1056,10 +1058,16 @@ http://95.170.215.107//hls/m3u8/ON-Drama.m3u8
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC Sofra
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Extra News
+http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc HD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc SD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",DmcDrama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera_nas.isml
 http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR
@@ -1068,8 +1076,6 @@ http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Watan TV
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",DmcDrama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",E قناه الفتح
@@ -1086,16 +1092,8 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
 http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cin
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mazzika
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC Sofra
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Extra News
-http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pano-Food
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
