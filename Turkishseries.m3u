@@ -952,6 +952,10 @@ https://cdn.alarab.com/h264/154575_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154416_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E01
 https://cdn.alarab.com/h264/154389_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E02
+https://cdn.alarab.com/h264/154463_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E03
+https://cdn.alarab.com/h264/154572_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",مامجي الحلقة S01E01
 https://cdn.alarab.com/h264/154101_240p.mp4/index-v1-a1.m3u8
