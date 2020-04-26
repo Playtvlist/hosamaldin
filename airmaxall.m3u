@@ -758,7 +758,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr SD
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 SD
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -1047,9 +1047,13 @@ http://95.170.215.109/hls/m3u8/Panorama2-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
 http://95.170.215.107//hls/m3u8/ON-Drama.m3u8
 #EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية",CBC
-http://95.170.215.109/hls/m3u8/CBC-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dmc
-http://95.170.215.109/hls/m3u8/dmc-Backup.m3u8
+http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc SD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera_nas.isml
 http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR
@@ -1066,8 +1070,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",hayat+
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera+
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv
