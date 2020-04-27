@@ -1160,7 +1160,6 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
 http://109.236.92.216:9090/CanalAlgerie/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
