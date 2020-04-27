@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="OSN",Bein drama
 http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/93.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",bein fatafeat
@@ -44,8 +43,6 @@ http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/45.ts
 http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/44.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",osn yahala 2
 http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/43.ts
-
-
 #EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="SPORT",النسخة المدفوعة AirMax TV
@@ -245,10 +242,6 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",History HD
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Bein:FATAFEAT
