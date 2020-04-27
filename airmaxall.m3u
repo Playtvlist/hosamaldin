@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein drama
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/93.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",bein fatafeat
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/92.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies HD1
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/89.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies HD2
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/88.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies HD3
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/87.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies HD4
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/86.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Series 1
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/85.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Series 2
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/84.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn art aflam 1
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/62.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn art aflam 2
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/61.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn hikayat 1
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/56.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn hikayat 2
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/55.ts
-#EXTINF:0 tvg-id="OSNFirst.net" group-title="OSN",osn movies first
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/53.ts
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="OSN",osn movies HD
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/52.ts
-#EXTINF:0 tvg-id="OSNMoviesKids.net" group-title="OSN",Osn Movies Kids
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/51.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Osn Movies Star
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/50.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn movies thriller
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/49.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Osn Movies world
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/48.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Osn On demand
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/46.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",Osn Wwe
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/45.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn yahala 1
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/44.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN",osn yahala 2
-http://yacine-tvapk.ddns.net:7777/live/arrryacinee001/arrryacinee001/43.ts
 #EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="SPORT",النسخة المدفوعة AirMax TV
