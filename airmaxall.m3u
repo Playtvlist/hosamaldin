@@ -194,7 +194,7 @@ http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/orienttv_chunks.m3u8
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/107.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
@@ -251,6 +251,8 @@ http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="Food طعام",Bein:FATAFEAT
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/126.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Panorama Food
@@ -261,6 +263,14 @@ http://82.212.74.99:8000/live/hls/8164.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:JUNIOR KIDS
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TOM & JERRY
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/79.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
@@ -731,6 +741,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Drama plus HD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC  Variety
+http://178.63.48.23:25461/live/osnbeinwww.vviruslove.com/jtkwYDBndF/108.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr HD
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 HD
