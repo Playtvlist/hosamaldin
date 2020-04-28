@@ -1003,6 +1003,8 @@ https://bit.ly/39YjahM
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Comedy
+http://tvsrv.orange.ps:8053/Nile%20Comedy?u=TV74:p=TV74
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Sada-EL-Balad
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
