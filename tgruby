@@ -39,6 +39,7 @@ http://yacine-tvapk.ddns.net:7777/live/arrryacine933/arrryacine933/85.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",Bein Series 2
 http://yacine-tvapk.ddns.net:7777/live/arrryacine933/arrryacine933/84.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",Osn FOX Rewayat HD
+#EXTVLCOPT:http-user-agent= www.yacineapp.tv
 http://yacine-tvapk.ddns.net:7777/live/arrryacine933/arrryacine933/75.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN",fox movies action
 http://yacine-tvapk.ddns.net:7777/live/arrryacine933/arrryacine933/74.ts
