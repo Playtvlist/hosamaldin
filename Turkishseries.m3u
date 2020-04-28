@@ -5,6 +5,8 @@ http://dl4.aflamy.ps/DLNASDELL/Ramadan.2020/Qalby.3/1.mp4
 http://dl4.aflamy.ps/DLNASDELL/Ramadan.2020/Qalby.3/2.mp4
 #EXTINF:0 tvg-id="ext" group-title="قلبي اطمأن",قلبي اطمأن الحلقة S03E03
 http://dl4.aflamy.ps/DLNASDELL/Ramadan.2020/Qalby.3/3.mp4
+#EXTINF:0 tvg-id="ext" group-title="قلبي اطمأن",قلبي اطمأن الحلقة S03E04
+http://dl4.aflamy.ps/DLNASDELL/Ramadan.2020/Qalby.3/4.mp4
 #EXTINF:0 tvg-id="ext" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E01
 https://cdn.alarab.com/h264/154443_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E02
@@ -29,6 +31,7 @@ https://cdn.alarab.com/h264/154543_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E03
 https://cdn.alarab.com/h264/154618_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E04
+https://cdn.alarab.com/h264/154731_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E05
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E07
@@ -164,6 +167,7 @@ https://cdn.alarab.com/h264/154516_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E03
 https://cdn.alarab.com/h264/154590_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E04
+https://cdn.alarab.com/h264/154725_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E05
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E07
@@ -199,6 +203,7 @@ https://cdn.alarab.com/h264/154588_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E04
 https://cdn.alarab.com/h264/154654_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E05
+https://cdn.alarab.com/h264/154754_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E08
@@ -227,9 +232,13 @@ https://cdn.alarab.com/h264/154654_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E01
 https://cdn.alarab.com/h264/154431_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E02
+https://cdn.alarab.com/h264/154741_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E03
+https://cdn.alarab.com/h264/154607_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E04
+https://cdn.alarab.com/h264/154691_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E05
+https://cdn.alarab.com/h264/154745_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E08
@@ -296,8 +305,9 @@ https://belugacdn.shoofmax.com/brokar/ep2/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E03
 https://belugacdn.shoofmax.com/brokar/ep3/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E04
-https://belugacdn.shoofmax.com/brokar/ep1/720p/index.m3u8
+https://belugacdn.shoofmax.com/brokar/ep4/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E05
+https://belugacdn.shoofmax.com/brokar/ep5/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E08
@@ -332,6 +342,7 @@ https://belugacdn.shoofmax.com/joker/ep3/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E04
 https://belugacdn.shoofmax.com/joker/ep4/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E05
+https://belugacdn.shoofmax.com/joker/ep5/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E08
@@ -366,6 +377,7 @@ https://cdn.alarab.com/h264/154580_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E04
 https://cdn.alarab.com/h264/154673_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E05
+https://cdn.alarab.com/h264/154750_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E08
@@ -400,6 +412,7 @@ https://cdn.alarab.com/h264/154628_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E04
 https://cdn.alarab.com/h264/154634_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E05
+https://cdn.alarab.com/h264/154751_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E06
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E08
