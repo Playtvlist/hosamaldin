@@ -231,15 +231,15 @@ https://cdn.alarab.com/h264/154840_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E30
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E31
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E01
-https://cdn.alarab.com/h264/154429_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E02
-https://cdn.alarab.com/h264/154506_480p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/2.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E03
-https://cdn.alarab.com/h264/154588_480p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/3.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E04
-https://cdn.alarab.com/h264/154654_480p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/4.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E05
-https://cdn.alarab.com/h264/154754_480p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/5.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E06
 https://cdn.alarab.com/h264/154821_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E07
@@ -269,14 +269,15 @@ https://cdn.alarab.com/h264/154821_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E01
 https://cdn.alarab.com/h264/154431_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E02
-https://cdn.alarab.com/h264/154741_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/154741_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E03
-https://cdn.alarab.com/h264/154607_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/154607_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E04
-https://cdn.alarab.com/h264/154691_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/154691_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E05
-https://cdn.alarab.com/h264/154745_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/154745_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E06
+https://cdn.alarab.com/h264/154854_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E07
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E08
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E10
@@ -841,6 +842,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/AlFotowa/5.
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/AlFotowa/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E07
+https://cdn.alarab.com/h264/154876_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E08
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E10
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E11
@@ -1021,6 +1023,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wilad.Embab
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wilad.Embaba/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E07
+https://cdn.alarab.com/h264/154871_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E08
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E10
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E11
@@ -1093,6 +1096,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alqamar.Akh
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alqamar.Akhir.Eldonia/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E07
+https://cdn.alarab.com/h264/154879_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E08
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E10
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E11
@@ -1345,6 +1349,8 @@ https://cdn.alarab.com/h264/154698_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154777_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E06
 https://cdn.alarab.com/h264/154783_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E07
+https://cdn.alarab.com/h264/154874_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",شهادة ميلاد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Shhadat.Milad/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات خليجيه رمضان",شهادة ميلاد الحلقة S01E02
