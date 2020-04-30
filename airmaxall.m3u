@@ -146,8 +146,6 @@ http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/107
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
@@ -202,8 +200,6 @@ http://livecdnh1.tvanywhere.ae/hls/h2/01.m3u8
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="Food طعام",Bein:FATAFEAT
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/126
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Panorama Food
@@ -216,18 +212,6 @@ https://bit.ly/39YjahM
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids SD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/125
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/147
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:JUNIOR KIDS
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/148
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",OSN HD : OSN Disney Channel HD
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/138
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
-http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/149
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TOM & JERRY
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/79
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
@@ -716,8 +700,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Drama plus HD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC  Variety
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/108
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr HD
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 HD
@@ -856,8 +838,6 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/107
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
 http://wowzacontrol.com:1935/8010/8010/chunklist_w278367314.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
