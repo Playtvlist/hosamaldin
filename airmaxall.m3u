@@ -1453,6 +1453,10 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568
 http://82.212.74.99:8000/live/8117.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",En TV
 http://82.212.74.100:8000/live/8130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Sbc TV
+http://178.63.48.23:25461/sbc/K6PHWOqM3I/150
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv", قناة ذكريات TV
+http://178.63.48.23:25461/sbc/K6PHWOqM3I/151
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
