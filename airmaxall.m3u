@@ -212,8 +212,10 @@ http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids SD
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/125
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
@@ -676,6 +678,26 @@ http://193.169.52.206/a-tom-jerry/1-162.mp4
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 FHD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 4 FHD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 5 FHD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-mbcdrama FHD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-mbcplusdrama FHD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC max FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC masr FHD
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC masr2 FHD
+https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC iraq FHD
+https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -723,7 +745,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr SD
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 SD
-
+https://shls-masr2-prod.shahid.net/masr2-prod_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -750,6 +772,26 @@ https://shls-masr-prod.shahid.net/masr-prod_4.m3u8
 https://shls-masr2-prod.shahid.net/masr2-prod_4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC IRAQ SD
 https://shls-iraq-prod.shahid.net/iraq-prod_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 لسرعه الضعيفة
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 لسرعه الضعيفة
+https://shls-mbc2-prod.shahid.net/mbc2-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 4 لسرعه الضعيفة
+https://shls-mbc4-prod.shahid.net/mbc4-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 5 لسرعه الضعيفة
+https://shls-mbc5-prod.shahid.net/mbc5-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-mbcdrama لسرعه الضعيفة
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-mbcplusdrama لسرعه الضعيفة
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC max لسرعه الضعيفة
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC masr لسرعه الضعيفة
+https://shls-masr-prod.shahid.net/masr-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC masr2 لسرعه الضعيفة
+https://shls-masr2-prod.shahid.net/masr2-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC iraq لسرعه الضعيفة
+https://shls-iraq-prod.shahid.net/iraq-prod_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",النسخة المدفوعة AirMax TV
@@ -770,9 +812,10 @@ http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana روتانا كوميدي
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana Kids
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:Rotana Kids SD
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",MUS:AR-RADIO ROTANA
