@@ -1317,18 +1317,23 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",Sahel TV
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",elhiwar TV
+https://live.vimeocdn.com/1588296539-0xaa4ce959125535305add4c2a0d93f257a9eae045/13633b5a-01bd-45da-bc10-83e676255021/chunklist_b416000.m3u8?max_segments=1000
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية 
+http://92.222.93.75:1935/live2/samir/chunklist_w2080476669.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE صوت الساحل
-https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w408214174.m3u8?v=
+
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE tunisieimmob
-http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE Attesia TV
 
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 1 TV
-http://54.36.122.126/tunisie1.m3u8
-
+http://178.63.48.23:25461/Tunisia/zlczyGR3WY/153
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 2 TV
+http://178.63.48.23:25461/Tunisia/zlczyGR3WY/154
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
