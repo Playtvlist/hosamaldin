@@ -1,20 +1,34 @@
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 1
-http://tvsrv.orange.ps:8053/%20beIN%20Movies%201%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 2
-http://tvsrv.orange.ps:8053/beIN%20Movies%202%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 3
-http://tvsrv.orange.ps:8053/beIN%20Movies%203%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 4
-http://tvsrv.orange.ps:8053/beIN%20Movies%204%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Comedy
-http://tvsrv.orange.ps:8053/OSN%20Comedy%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Kids
-http://tvsrv.orange.ps:8053/OSN%20Kids?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Cinema
-http://tvsrv.orange.ps:8053/OSN%20Ya%20Hala%20Cinema?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Movies Action
-http://tvsrv.orange.ps:8053/OSN%20Movies%20Action%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Movies +2h
-http://tvsrv.orange.ps:8053/OSN%20Movies%20%2B2h?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Fatafeat
-http://tvsrv.orange.ps:8053/Fatafeat?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON E
+http://tvsrv.orange.ps:8053/ON%20%20E.m3u8?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON Live
+http://tvsrv.orange.ps:8053/ON%20%20Live.m3u8?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Comedy
+http://tvsrv.orange.ps:8053/Nile%20Comedy?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Life
+http://tvsrv.orange.ps:8053/Nile%20Life?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Culture
+http://tvsrv.orange.ps:8053/Nile%20Culture?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Family
+http://tvsrv.orange.ps:8053/Nile%20Family?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 1
+http://tvsrv.orange.ps:8053/Panorama%20Drama%202?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 2
+http://tvsrv.orange.ps:8053/Panorama%20Drama?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-HEKAYAT
+http://tvsrv.orange.ps:8053/APPLE%20HEKAYAT?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-TODAY
+http://tvsrv.orange.ps:8053/APPLE%20TODAY?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-CINEMA
+http://tvsrv.orange.ps:8053/APPLE%20CINEMA?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-MOSALSALAT
+http://tvsrv.orange.ps:8053/APPLE%20MOSALSALAT?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-AFLAM
+http://tvsrv.orange.ps:8053/APPLE%20AFLAM?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-COMEDY
+http://tvsrv.orange.ps:8053/APPLE%20COMEDY?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Maspero Zaman
+http://tvsrv.orange.ps:8053/Maspero%20Zaman?u=TV74:p=TV74
