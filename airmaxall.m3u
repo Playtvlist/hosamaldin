@@ -168,16 +168,16 @@ http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/103
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/104
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",HOME CINEMA AR 7
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/105
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Ajyal TV
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/60.ts
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",AlFajer 1
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",AlFajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",AlFajer 4
+http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="SPORT",النسخة المدفوعة AirMax TV
@@ -1089,7 +1089,7 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:LBN-AL MAYADEEN TV
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",LBC UND LDC
-http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1841632771_b644100_slen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",Nabaa TV
@@ -1106,8 +1106,6 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?fluxustv.m3u8&f
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 3
-http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 4
 http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine
@@ -1120,22 +1118,28 @@ http://82.212.74.99:8000/live/hls/8170.m3u8
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Nbc Alnajah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Awdeh Palestine
-http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Watar TV1
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Audeh
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",An-Najah Nbc
-http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Al Aqsa
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Al Mahd
 http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",halaTV
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",hala TV
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Wattan TV
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",مكان TV
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",RayaHD TV
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestinian TV
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestinian اليوم TV
+http://live.paltoday.tv:1935/paltv/live/chunklist_w1146409111.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
@@ -1319,7 +1323,7 @@ http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",Sahel TV
 
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",elhiwar TV
-https://live.vimeocdn.com/1588296539-0xaa4ce959125535305add4c2a0d93f257a9eae045/13633b5a-01bd-45da-bc10-83e676255021/chunklist_b416000.m3u8?max_segments=1000
+
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية 
@@ -1339,7 +1343,7 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
-http://109.236.92.216:9090/CanalAlgerie/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
