@@ -1094,7 +1094,6 @@ http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1841632771_b644100_slen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",النسخة المدفوعة AirMax TV
@@ -1164,13 +1163,11 @@ https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA SPORT
 http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ
-http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA HD
 http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL KAWTHAR
-http://178.252.143.156:1935/live/myStream/chunklist_w745004163.m3u8
+https://cdn1live.irib.ir/live-channels/smil:alkosar/chunklist_b307200_slFa.m3u8?s=fGq-EI4UjlIgA711W5AAQQ&t=1588299510
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ- karbala
 https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ahd
@@ -1214,7 +1211,7 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AL HURRA IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",HonaBaghdad
-http://109.236.92.216:9090/HonaBaghdad/tracks-v1a1/mono.m3u8
+http://38.99.146.37:7777/HonaBagdad_HD/HonaBagdad_HD.m3u8?user=sgls540839&session=52245b7d8ec5ccde268114c3e07604e83524adf68905c799140b148cb6ec0d91&hlsid=HTTP_ID_5&starttime=20200415T185104.335362
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
