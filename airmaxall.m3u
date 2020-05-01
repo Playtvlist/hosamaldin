@@ -114,6 +114,27 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
 http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPwZJpuQwq
 #EXTINF:0 tvg-id="ext" group-title="OSN",OSN Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 1
+http://tvsrv.orange.ps:8053/%20beIN%20Movies%201%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 2
+http://tvsrv.orange.ps:8053/beIN%20Movies%202%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 3
+http://tvsrv.orange.ps:8053/beIN%20Movies%203%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein MOVIES 4
+http://tvsrv.orange.ps:8053/beIN%20Movies%204%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Comedy
+http://tvsrv.orange.ps:8053/OSN%20Comedy%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Kids
+http://tvsrv.orange.ps:8053/OSN%20Kids?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Cinema
+http://tvsrv.orange.ps:8053/OSN%20Ya%20Hala%20Cinema?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Movies Action
+http://tvsrv.orange.ps:8053/OSN%20Movies%20Action%20HD?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Hala Movies +2h
+http://tvsrv.orange.ps:8053/OSN%20Movies%20%2B2h?u=out:p=out
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN Fatafeat
+http://tvsrv.orange.ps:8053/Fatafeat?u=out:p=out
+
 #EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
@@ -1220,12 +1241,6 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 http://38.99.146.37:7777/HonaBagdad_HD/HonaBagdad_HD.m3u8?user=sgls540839&session=52245b7d8ec5ccde268114c3e07604e83524adf68905c799140b148cb6ec0d91&hlsid=HTTP_ID_5&starttime=20200415T185104.335362
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Comedy
-http://tvsrv.orange.ps:8053/Nile%20Comedy?u=TV74:p=TV74
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Sada-EL-Balad
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
@@ -1236,10 +1251,6 @@ http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
 http://95.170.215.109/hls/m3u8/CairoCine-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
 http://95.170.215.107/hls/m3u8/Cima-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 1
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 2
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
 http://95.170.215.107//hls/m3u8/ON-Drama.m3u8
 #EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية",CBC
@@ -1284,6 +1295,41 @@ http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pano-Food
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON E
+http://tvsrv.orange.ps:8053/ON%20%20E.m3u8?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON Live
+http://tvsrv.orange.ps:8053/ON%20%20Live.m3u8?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Comedy
+http://tvsrv.orange.ps:8053/Nile%20Comedy?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Life
+http://tvsrv.orange.ps:8053/Nile%20Life?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Culture
+http://tvsrv.orange.ps:8053/Nile%20Culture?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Family
+http://tvsrv.orange.ps:8053/Nile%20Family?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 1
+http://tvsrv.orange.ps:8053/Panorama%20Drama%202?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 2
+http://tvsrv.orange.ps:8053/Panorama%20Drama?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-HEKAYAT
+http://tvsrv.orange.ps:8053/APPLE%20HEKAYAT?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-TODAY
+http://tvsrv.orange.ps:8053/APPLE%20TODAY?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-CINEMA
+http://tvsrv.orange.ps:8053/APPLE%20CINEMA?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-MOSALSALAT
+http://tvsrv.orange.ps:8053/APPLE%20MOSALSALAT?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-AFLAM
+http://tvsrv.orange.ps:8053/APPLE%20AFLAM?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-COMEDY
+http://tvsrv.orange.ps:8053/APPLE%20COMEDY?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Maspero Zaman
+http://tvsrv.orange.ps:8053/Maspero%20Zaman?u=TV74:p=TV74
+
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
@@ -1347,6 +1393,14 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
 http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CanalAlgerie
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELJAZAIRIA
+http://tvsrv.orange.ps:8053/EL%20DJAZAIRIA%20TV?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Beur TV
+http://tvsrv.orange.ps:8053/Beur%20TV?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELFADJR
+http://tvsrv.orange.ps:8053/EL%20FADJR%20TV%20DZ?u=TV75:p=TV75
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELBILAD
+http://tvsrv.orange.ps:8053/EL%20BILAD?u=TV75:p=TV75
 
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
