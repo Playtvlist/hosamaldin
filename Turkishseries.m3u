@@ -890,6 +890,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/AlFotowa/6.
 https://cdn.alarab.com/h264/154876_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E08
 https://cdn.alarab.com/h264/154948_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E09
+https://cdn.alarab.com/h264/155019_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E10
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E11
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E12
@@ -1079,6 +1081,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wilad.Embab
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E07
 https://cdn.alarab.com/h264/154871_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E08
+https://cdn.alarab.com/h264/154953_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E09
+https://cdn.alarab.com/h264/155020_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E10
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E11
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E12
