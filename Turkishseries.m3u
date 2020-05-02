@@ -47,7 +47,8 @@ https://roya-vod.ercdn.net/hls/E/LE/x4uakxno5y7enpiyjvsiujtwrznp6qcukhbrujlc/x4u
 https://roya-vod.ercdn.net/hls/E/LE/x4uakxno5y7enpiyjvsiujtwrznp6qcukhbrujlc/x4uakxno5y7enpiyjvsiujtwrznp6qcukhbrujlc.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E08
 https://roya-vod.ercdn.net/hls/b/kv/oqvelyoyocrj1zooe96semjhuwzktobdgrnk8uyv/oqvelyoyocrj1zooe96semjhuwzktobdgrnk8uyv.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E09
+https://roya-vod.ercdn.net/hls/u/qc/nbng2r1kv7gpag3xoqp87aam2jqcbtpstrqnk4tj/nbng2r1kv7gpag3xoqp87aam2jqcbtpstrqnk4tj.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E02
