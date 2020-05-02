@@ -1565,7 +1565,7 @@ http://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",fujtv
-http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",peacetv
