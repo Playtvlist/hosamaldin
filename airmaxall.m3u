@@ -710,6 +710,8 @@ http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
+
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA SD
@@ -734,6 +736,8 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b3500
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w462992071_b1392000_slAR.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 SD
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w462992071_b1042000_slAR.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-marahFM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- alkompis
 https://tv.stream.alkompis.se/hls/live_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Al Khabar
@@ -750,7 +754,6 @@ http://82.137.248.16:1935/Drama/stream31122019/chunklist_w625374097.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",▂ ▄ ▅ ▆☆ LEBANON قنوات لبنان ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1052,7 +1055,8 @@ http://92.222.93.75:1935/live2/samir/chunklist_w2080476669.m3u8
 http://178.63.48.23:25461/Tunisia/zlczyGR3WY/153
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 2 TV
 http://178.63.48.23:25461/Tunisia/zlczyGR3WY/154
-
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الحوار
+http://195.154.136.160:8080/hls/at.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
