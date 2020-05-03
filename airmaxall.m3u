@@ -728,6 +728,10 @@ http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 HD
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w462992071_b1392000_slAR.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 SD
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w462992071_b1042000_slAR.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- alkompis
 https://tv.stream.alkompis.se/hls/live_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Al Khabar
