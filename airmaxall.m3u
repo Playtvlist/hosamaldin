@@ -710,8 +710,8 @@ http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
-
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA HD
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA SD
@@ -748,6 +748,8 @@ http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
 http://95.170.215.107/hls/m3u8/Publitools.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",راديو مرح
 http://radio.farah.fm:8015/
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA SD
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
 http://82.137.248.16:1935/Drama/stream31122019/chunklist_w625374097.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA+
