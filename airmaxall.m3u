@@ -748,16 +748,6 @@ http://radio.farah.fm:8015/
 http://82.137.248.16:1935/Drama/stream31122019/chunklist_w625374097.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA+
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SATELLITE
-http://tvsrv.orange.ps:8053/SYRIA%20SATELLITE%20TV?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-ALEKHBARIYA
-http://tvsrv.orange.ps:8053/AL%20EKHBARIYA%20AL%20SORIYA?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS+
-http://tvsrv.orange.ps:8053/Lana%20Plus%20HD?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
-http://tvsrv.orange.ps:8053/Syria%20TV%20HD.m3u8?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby +
-http://tvsrv.orange.ps:8053/AL%20ARABY%20TV.m3u8?u=TV75:p=TV75
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
