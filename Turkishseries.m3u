@@ -18,6 +18,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-01/studioSYGUP.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="قلبي اطمأن",قلبي اطمأن الحلقة S03E09
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/studioHTUUW.smil/chunklist_b1111761.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قلبي اطمأن",قلبي اطمأن الحلقة S03E10
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/studioZIYNV.smil/chunklist_b1177647.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ramez.Majnoon.Rasmi/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E02
@@ -56,6 +57,8 @@ https://roya-vod.ercdn.net/hls/E/LE/x4uakxno5y7enpiyjvsiujtwrznp6qcukhbrujlc/x4u
 https://roya-vod.ercdn.net/hls/b/kv/oqvelyoyocrj1zooe96semjhuwzktobdgrnk8uyv/oqvelyoyocrj1zooe96semjhuwzktobdgrnk8uyv.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E09
 https://roya-vod.ercdn.net/hls/u/qc/nbng2r1kv7gpag3xoqp87aam2jqcbtpstrqnk4tj/nbng2r1kv7gpag3xoqp87aam2jqcbtpstrqnk4tj.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E10
+https://roya-vod.ercdn.net/hls/W/IE/1erzbrdcr3e9iuk3xoze8lzz3eyfp8rggqshv2p5/1erzbrdcr3e9iuk3xoze8lzz3eyfp8rggqshv2p5.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E02
@@ -132,6 +135,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-01/studioUOMBK.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-02/studioRHUJH.smil/chunklist_b662450.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E09
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/studioRFXYR.smil/chunklist_b652204.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E10
+https://cdn.alarab.com/h264/155148_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Hares.Alquds/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E02
@@ -797,7 +802,10 @@ https://roya-vod.ercdn.net/hls/H/aR/uexgudy2xmmpogg7evshqbeqwkvsfi7k1unnwgre/uex
 https://roya-vod.ercdn.net/hls/-/2W/bptcdf6csmv31wahz0twsgh9blyek6tiwwgzlgjd/bptcdf6csmv31wahz0twsgh9blyek6tiwwgzlgjd.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E08
 https://roya-vod.ercdn.net/hls/P/pp/e1a05agqj5pfgkrmpfbg5uvzjciqmoizlm1hzigx/e1a05agqj5pfgkrmpfbg5uvzjciqmoizlm1hzigx.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E09
+https://roya-vod.ercdn.net/hls/j/01/sqavmch6howbkjvfzzvgh5otq3gkjzny0hafaf2s/sqavmch6howbkjvfzzvgh5otq3gkjzny0hafaf2s.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E10
+https://roya-vod.ercdn.net/hls/a/uF/ak3g7p05rkcctrdab8wfayyfa5de4wih7uoaxrjc/ak3g7p05rkcctrdab8wfayyfa5de4wih7uoaxrjc.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
