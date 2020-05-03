@@ -972,10 +972,6 @@ http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pano-Food
 http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON E
-http://tvsrv.orange.ps:8053/ON%20%20E%20HD.m3u8?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON Live
-http://tvsrv.orange.ps:8053/ON%20%20Live.m3u8?u=TV74:p=TV74
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
