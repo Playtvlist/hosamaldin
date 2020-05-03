@@ -704,18 +704,14 @@ http://188.247.86.67:8002/3
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby HD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby SD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY SD
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w135700122.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA TV SD
 http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV SD
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
+
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA SD
 http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA SD
@@ -728,6 +724,12 @@ http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY SD
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w135700122.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby SD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 HD
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w462992071_b1392000_slAR.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 SD
@@ -757,7 +759,6 @@ http://tvsrv.orange.ps:8053/Syria%20TV%20HD.m3u8?u=TV75:p=TV75
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-alaraby +
 http://tvsrv.orange.ps:8053/AL%20ARABY%20TV.m3u8?u=TV75:p=TV75
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS
-#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM
