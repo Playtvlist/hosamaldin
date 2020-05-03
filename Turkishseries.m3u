@@ -36,6 +36,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ramez.Majno
 https://cdn.alarab.com/h264/154985_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E09
 https://cdn.alarab.com/h264/155056_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="رامز مجنون رسمي",رامز مجنون رسمي الحلقة S01E10
+https://cdn.alarab.com/h264/155126_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E01
 https://roya-vod.ercdn.net/hls/5/ok/49pdssz1fbwuhxekvae8mxoiov0nndzqjdgeixtx/49pdssz1fbwuhxekvae8mxoiov0nndzqjdgeixtx.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E02
