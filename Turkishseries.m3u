@@ -332,6 +332,8 @@ https://cdn.alarab.com/h264/154977_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155046_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E10
 https://cdn.alarab.com/h264/155115_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E11
+https://cdn.alarab.com/h264/155198_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Mayada.We.Wlada/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E02
