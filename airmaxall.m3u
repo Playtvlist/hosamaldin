@@ -1213,6 +1213,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Emarat HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALWousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Sharjah
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALAN
@@ -1220,8 +1222,9 @@ http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
 http://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+http://livecdnh2.tvanywhere.ae/hls/ajman/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",fujtv
+rtmp://ccfz.dyndns.org/fujtv//livestream1?v=
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",peacetv
