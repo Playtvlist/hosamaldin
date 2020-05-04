@@ -326,6 +326,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Awlad.Adam/
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Awlad.Adam/10.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E11
+https://cdn.alarab.com/h264/155234_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Yawmn.Ma/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E02
@@ -678,6 +679,8 @@ https://cdn.alarab.com/h264/155020_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155096_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E11
 https://cdn.alarab.com/h264/155175_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E12
+https://cdn.alarab.com/h264/155236_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Lo3bat.Alnesian/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E02
@@ -700,6 +703,8 @@ https://cdn.alarab.com/h264/155016_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155087_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E11
 https://cdn.alarab.com/h264/155160_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E12
+https://cdn.alarab.com/h264/155237_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alqamar.Akhir.Eldonia/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",القمر آخر الدنيا الحلق S01E02
@@ -1025,6 +1030,8 @@ https://cdn.alarab.com/h264/155015_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155085_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",شهادة ميلاد الحلقة S01E14
 https://cdn.alarab.com/h264/155161_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",شهادة ميلاد الحلقة S01E15
+https://cdn.alarab.com/h264/155235_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام انمي",▂ ▄ ▅ ▆☆ افلام انمي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
