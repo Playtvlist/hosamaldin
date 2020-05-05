@@ -267,6 +267,8 @@ https://belugacdn.shoofmax.com/brokar/ep9/720p/index.m3u8
 https://belugacdn.shoofmax.com/brokar/ep10/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E11
 https://belugacdn.shoofmax.com/brokar/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E12
+https://belugacdn.shoofmax.com/brokar/ep12/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E01
 https://belugacdn.shoofmax.com/joker/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E02
@@ -289,6 +291,8 @@ https://belugacdn.shoofmax.com/joker/ep9/720p/index.m3u8
 https://belugacdn.shoofmax.com/joker/ep10/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E11
 https://belugacdn.shoofmax.com/joker/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E12
+https://belugacdn.shoofmax.com/joker/ep12/720p/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E02
