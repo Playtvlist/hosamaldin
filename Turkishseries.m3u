@@ -131,6 +131,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-02/vidLX7JiUQ62j.smil/
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/vidZKkvbt8EOr.smil/chunklist_b918201.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E11
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/vid9whZ1FY0Ou.smil/chunklist_b863872.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E12
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/vidj17EqmTaGo.smil/chunklist_b935746.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist_b646832.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -173,6 +175,8 @@ https://cdn.alarab.com/h264/155032_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155101_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E10
 https://cdn.alarab.com/h264/155133_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E11
+https://cdn.alarab.com/h264/155248_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E02
@@ -239,6 +243,8 @@ https://cdn.alarab.com/h264/155033_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155102_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E11
 https://cdn.alarab.com/h264/155178_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E12
+https://cdn.alarab.com/h264/155250_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E01
 https://belugacdn.shoofmax.com/brokar/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E02
@@ -371,6 +377,8 @@ https://cdn.alarab.com/h264/155029_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155103_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E11
 https://cdn.alarab.com/h264/155191_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E12
+https://cdn.alarab.com/h264/155251_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E01
 https://cdn.alarab.com/h264/154418_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E02
@@ -1029,6 +1037,8 @@ https://cdn.alarab.com/h264/155030_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155097_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E11
 https://cdn.alarab.com/h264/155182_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E12
+https://cdn.alarab.com/h264/155255_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E01
 https://cdn.alarab.com/h264/154389_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E02
