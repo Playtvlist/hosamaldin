@@ -1389,6 +1389,8 @@ https://cdn.alarab.com/h264/155156_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155233_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E16
 https://cdn.alarab.com/h264/155309_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E17
+https://cdn.alarab.com/h264/155388_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام انمي",▂ ▄ ▅ ▆☆ افلام انمي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
@@ -7446,7 +7448,8 @@ http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP18.mkv
 http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/otman/Osman.E18.360p2.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 19
 http://www.turkiflix.com/files/e/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2019%20-%20%D9%85%D9%88%D9%82%D8%B9%20%D9%82%D8%B5%D8%A9%20%D8%B9%D8%B4%D9%82.mp4
-
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 20
+http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP20.mkv
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
