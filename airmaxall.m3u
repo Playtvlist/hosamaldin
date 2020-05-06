@@ -201,14 +201,10 @@ http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 HD
-http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 SD
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 1 low
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 2 HD
-http://95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 2 SD
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",KSA SPORTS 2 low
@@ -929,9 +925,9 @@ http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA DRAMA
-http://streamxcode.ddns.net:25461/load/desiboyz150/724.mpegts
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA FLIM
-http://streamxcode.ddns.net:25461/load/desiboyz150/726.mpegts
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
 http://95.170.215.107/hls/m3u8/Cima-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
