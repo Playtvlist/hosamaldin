@@ -125,6 +125,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/studioKJIJO.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/studioRPRWW.smil/chunklist_b797687.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioLRBXI.smil/chunklist_b745699.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E13
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioYXMFT.smil/chunklist_b717095.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/vidE197YTqQi8.smil/chunklist_b945576.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E02
@@ -175,6 +177,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/studioMDQUT.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioRZQLZ.smil/chunklist_b744154.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioXISCH.smil/chunklist_b686290.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E13
+https://admv.cdn.mangomolo.com/vod/_definst_/mp4:2020-05-07/studioJHLOP.mp4/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Hares.Alquds/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E02
@@ -632,6 +636,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-03/studioYLHWI.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/studioBUTGX.smil/chunklist_b1753734.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioNQPZN.smil/chunklist_b1075268.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E13
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioUMKDB.smil/chunklist_b1043952.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -1219,7 +1225,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/studioYMMMQ.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioIOLKC.smil/chunklist_b936569.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E13
-
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioEXBGH.smil/chunklist_b910465.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E14
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E15
