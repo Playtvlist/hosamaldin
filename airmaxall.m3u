@@ -928,10 +928,10 @@ https://bit.ly/39YjahM
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cairo-Dra
-http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CairoCine
-http://95.170.215.109/hls/m3u8/CairoCine-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA DRAMA
+http://streamxcode.ddns.net:25461/load/desiboyz150/724.mpegts
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA FLIM
+http://streamxcode.ddns.net:25461/load/desiboyz150/726.mpegts
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
 http://95.170.215.107/hls/m3u8/Cima-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
@@ -976,8 +976,8 @@ http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mazzika
 http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pano-Food
-http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON SPORTS
+http://streamxcode.ddns.net:25461/load/desiboyz150/7586.mpegts
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
@@ -1179,8 +1179,10 @@ http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",نوبل TV
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناه 24
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناه 22
 http://82.212.74.99:8000/live/8117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناه 24
+http://streamxcode.ddns.net:25461/load/desiboyz150/6516.mpegts
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",En TV
 http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Sbc TV
