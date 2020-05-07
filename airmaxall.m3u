@@ -98,7 +98,7 @@ http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/137
 #EXTINF:0 tvg-id="ext" group-title="OSN",OSN_BINGE_HD
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/139
 #EXTINF:0 tvg-id="ext" group-title="OSN",Mix-Hollywood
-http://95.170.215.107/hls/m3u8/Mix-Hollywood.m3u8
+
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="OSN",STAR MOVIES HD
 http://livecdnh1.TVanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN",OSN Fox-HD
@@ -326,7 +326,7 @@ http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic
-http://95.170.215.107/hls/Sky-New-A-Backup-M.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic SD
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:0 tvg-id="BBCArabic.net" group-title="NEWS قنوات الاخبار",AR:BBC Arabic
@@ -402,7 +402,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Panorama Food
-http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Food طعام",Osn Beity
 http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
@@ -744,7 +744,7 @@ http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",Publitools
-http://95.170.215.107/hls/m3u8/Publitools.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",راديو مرح
 http://radio.farah.fm:8015/
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 SD
@@ -939,9 +939,9 @@ http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA FLIM
 
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
-http://95.170.215.107/hls/m3u8/Cima-Backup.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
-http://95.170.215.107//hls/m3u8/ON-Drama.m3u8
+
 #EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية",CBC
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
@@ -1296,7 +1296,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurmanci-TV
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",iraqia kurdi-TV
-http://95.170.215.107/hls/Iraqia-Kurd-M.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Amozhgary
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",line
