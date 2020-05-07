@@ -387,6 +387,8 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="docubox-hd" group-title="قنوات الوثائقية",H2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:0 tvg-id="docubox-hd" group-title="قنوات الوثائقية",DocuBOX HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:0 tvg-id="animal_rus" group-title="قنوات الوثائقية",AnimalPlanet
@@ -724,7 +726,7 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY SD
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w135700122.m3u8?v=
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM FHD
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Alqanat9 HD
@@ -1195,6 +1197,8 @@ http://178.63.48.23:25461/sbc/K6PHWOqM3I/152
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w1879095448.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Sunna TV
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Ahl-Alquran TV
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
@@ -1249,6 +1253,8 @@ http://82.212.74.3:8000/live/hls/7512.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Yemen tv",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",Aden TV
+https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
