@@ -81,6 +81,9 @@ https://roya-vod.ercdn.net/hls/N/Be/vx9pjp2qzqr8qutv9go8sx72yqnxrunkfwuska2c/vx9
 https://roya-vod.ercdn.net/hls/k/hh/8veaqiwplpzqw1r6km6qyjm71otgpbqkbfypt3ma/8veaqiwplpzqw1r6km6qyjm71otgpbqkbfypt3ma.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E13
 https://roya-vod.ercdn.net/hls/r/dz/dugnsgo9mo1dywyxpoxro5vgghn8w6bm130e8cqz/dugnsgo9mo1dywyxpoxro5vgghn8w6bm130e8cqz.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E14
+https://roya-vod.ercdn.net/hls/0/CV/f1lq9izvrbwv4nirss6flwfot1kjmh4cdzxol3mr/f1lq9izvrbwv4nirss6flwfot1kjmh4cdzxol3mr.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E15
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E02
@@ -697,6 +700,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-04/studioBUTGX.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioNQPZN.smil/chunklist_b1075268.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E13
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioUMKDB.smil/chunklist_b1043952.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E14
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioLXGJI.smil/chunklist_b1273975.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -1214,6 +1219,8 @@ https://roya-vod.ercdn.net/hls/_/nO/pffstnkc6prguvhifxztvlknek89xvdj1hqdicmw/pff
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E13
 https://roya-vod.ercdn.net/hls/B/XO/aitxmuq4oczyy8o1vktwhginmghm0yzvvuqkz2or/aitxmuq4oczyy8o1vktwhginmghm0yzvvuqkz2or.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E14
+https://roya-vod.ercdn.net/hls/h/TE/bvwyme94oj4i2y5dtwab600f1qchnvrigf1im7ef/bvwyme94oj4i2y5dtwab600f1qchnvrigf1im7ef.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E15
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
@@ -1327,7 +1334,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioIOLKC.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E13
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioEXBGH.smil/chunklist_b910465.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E14
-
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioQLBBO.smil/chunklist_b1003158.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E15
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E16
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E01
