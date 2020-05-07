@@ -110,6 +110,8 @@ https://cdn.alarab.com/h264/155229_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155312_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E13
 https://cdn.alarab.com/h264/155386_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E14
+https://cdn.alarab.com/h264/155465_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioCNBDL.smil/chunklist_b1018974.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E02
@@ -191,7 +193,9 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioRZQLZ.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioXISCH.smil/chunklist_b686290.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E13
-https://admv.cdn.mangomolo.com/vod/_definst_/mp4:2020-05-07/studioJHLOP.mp4/chunklist.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioJHLOP.smil/chunklist_b764685.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E14
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioNORPE.smil/chunklist_b661293.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Hares.Alquds/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E02
@@ -414,6 +418,8 @@ https://cdn.alarab.com/h264/155234_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155299_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E13
 https://cdn.alarab.com/h264/155382_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E14
+https://cdn.alarab.com/h264/155463_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Yawmn.Ma/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E02
@@ -1118,6 +1124,8 @@ https://cdn.alarab.com/h264/155222_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155303_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E17
 https://cdn.alarab.com/h264/155378_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E18
+https://cdn.alarab.com/h264/155462_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
@@ -1409,6 +1417,8 @@ https://cdn.alarab.com/h264/155230_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155307_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E14
 https://cdn.alarab.com/h264/155385_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E15
+https://cdn.alarab.com/h264/155466_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Shhadat.Milad/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E02
