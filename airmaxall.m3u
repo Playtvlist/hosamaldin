@@ -569,6 +569,8 @@ https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Bolleywod FHD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC FM FHD
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC  Variety
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/108
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
@@ -595,6 +597,8 @@ https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Bolleywod HD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC FM HD
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-ZEE ALWAN
