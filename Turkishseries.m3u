@@ -144,6 +144,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioLRBXI.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioYXMFT.smil/chunklist_b717095.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E14
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioNVKWL.smil/chunklist_b712031.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E15
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioGPCQH.smil/chunklist_b697681.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/vidE197YTqQi8.smil/chunklist_b945576.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E02
@@ -440,6 +442,8 @@ https://cdn.alarab.com/h264/155299_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155382_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E14
 https://cdn.alarab.com/h264/155463_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E15
+https://cdn.alarab.com/h264/155532_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Yawmn.Ma/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E02
@@ -574,6 +578,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioDRSVL.smil/ch
 https://cdn.alarab.com/h264/155373_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E14
 https://cdn.alarab.com/h264/155452_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E15
+https://cdn.alarab.com/h264/155523_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E02
@@ -748,6 +754,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioNQPZN.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioUMKDB.smil/chunklist_b1043952.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E14
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioLXGJI.smil/chunklist_b1273975.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E15
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioZYXRW.smil/chunklist_b1205349.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -1173,6 +1181,8 @@ https://cdn.alarab.com/h264/155303_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155378_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E18
 https://cdn.alarab.com/h264/155462_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E19
+https://cdn.alarab.com/h264/155531_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
