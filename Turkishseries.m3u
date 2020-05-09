@@ -93,7 +93,8 @@ https://roya-vod.ercdn.net/hls/r/dz/dugnsgo9mo1dywyxpoxro5vgghn8w6bm130e8cqz/dug
 https://roya-vod.ercdn.net/hls/0/CV/f1lq9izvrbwv4nirss6flwfot1kjmh4cdzxol3mr/f1lq9izvrbwv4nirss6flwfot1kjmh4cdzxol3mr.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E15
 https://roya-vod.ercdn.net/hls/T/z0/d0mzpxq5wodjtc6jxju5umjzjfhaf42dqitfbtf0/d0mzpxq5wodjtc6jxju5umjzjfhaf42dqitfbtf0.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
-#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E16
+https://roya-vod.ercdn.net/hls/R/lS/smmfmgxzxlx7kvkdelifr9baj2ji7hzl2yshtf2o/smmfmgxzxlx7kvkdelifr9baj2ji7hzl2yshtf2o.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S2
@@ -404,6 +405,8 @@ https://belugacdn.shoofmax.com/brokar/ep13/720p/index.m3u8
 https://belugacdn.shoofmax.com/brokar/ep14/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E15
 https://belugacdn.shoofmax.com/brokar/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E16
+https://belugacdn.shoofmax.com/brokar/ep16/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E01
 https://belugacdn.shoofmax.com/joker/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E02
@@ -434,6 +437,8 @@ https://belugacdn.shoofmax.com/joker/ep13/720p/index.m3u8
 https://belugacdn.shoofmax.com/joker/ep14/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E15
 https://belugacdn.shoofmax.com/joker/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E16
+https://belugacdn.shoofmax.com/joker/ep16/720p/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E02
@@ -967,6 +972,8 @@ https://roya-vod.ercdn.net/hls/Q/lf/vh0qugbbwlvir0b1qadlhuejgzesdq7nroh9zzol/vh0
 https://roya-vod.ercdn.net/hls/L/6S/rkq183qsse9hz1mel25oorcoprbael9mlfubbeba/rkq183qsse9hz1mel25oorcoprbael9mlfubbeba.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E15
 https://roya-vod.ercdn.net/hls/-/xB/wniajhkuaygxdzzz9fatvrq2qfvndzeo6ecmm31x/wniajhkuaygxdzzz9fatvrq2qfvndzeo6ecmm31x.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E16
+https://roya-vod.ercdn.net/hls/R/9-/promos5ocjw8yahz4j6yg3tykv5lrtzpakotb3vvzxmvjm/promos5ocjw8yahz4j6yg3tykv5lrtzpakotb3vvzxmvjm.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alprince/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E02
@@ -1030,7 +1037,7 @@ https://roya-vod.ercdn.net/hls/f/z6/d9n9d5cnbujbayvnspmyqvw8ohd98irssiukfd6n/d9n
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E15
 https://roya-vod.ercdn.net/hls/D/le/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E16
-https://cdn.alarab.com/h264/155570_720p.mp4/index-v1-a1.m3u8
+https://roya-vod.ercdn.net/hls/4/BE/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E01
 https://cdn.alarab.com/h264/154434_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E02
@@ -1427,6 +1434,8 @@ https://roya-vod.ercdn.net/hls/B/XO/aitxmuq4oczyy8o1vktwhginmghm0yzvvuqkz2or/ait
 https://roya-vod.ercdn.net/hls/h/TE/bvwyme94oj4i2y5dtwab600f1qchnvrigf1im7ef/bvwyme94oj4i2y5dtwab600f1qchnvrigf1im7ef.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E15
 https://roya-vod.ercdn.net/hls/j/AF/u1lgwx13se07hxsqrbrsdwfkvea88wpsuoxaxyeh/u1lgwx13se07hxsqrbrsdwfkvea88wpsuoxaxyeh.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E16
+https://roya-vod.ercdn.net/hls/U/zf/8ic8mezuouqcsda0hav2rdll1mgceba7imqlyjun/8ic8mezuouqcsda0hav2rdll1mgceba7imqlyjun.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
