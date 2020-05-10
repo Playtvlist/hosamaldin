@@ -343,9 +343,9 @@ http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8?v
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",IraqiaNew TV SD
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8?v
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn HD
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",cgtn HD
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn SD
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",cgtn SD
 https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",EXtra-New TV
 
