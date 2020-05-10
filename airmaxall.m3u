@@ -576,9 +576,11 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
-
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
 #EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u aflam+
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/03.m3u8
 #EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod SD
