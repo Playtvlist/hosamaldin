@@ -165,6 +165,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhare
 https://cdn.alarab.com/h264/155542_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E16
 https://cdn.alarab.com/h264/155604_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E17
+https://cdn.alarab.com/h264/155685_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioCNBDL.smil/chunklist_b1018974.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E02
@@ -197,6 +199,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioNVKWL.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioGPCQH.smil/chunklist_b697681.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E16
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-09/studioNLBEX.smil/chunklist_b800873.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E17
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioEFRGQ.smil/chunklist_b651877.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/vidE197YTqQi8.smil/chunklist_b945576.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E02
@@ -620,39 +624,39 @@ https://cdn.alarab.com/h264/154427_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E11
 https://cdn.alarab.com/h264/154464_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E01
-https://cdn.alarab.com/h264/154457_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E02
-https://cdn.alarab.com/h264/154535_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/2.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E03
-https://cdn.alarab.com/h264/154598_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/3.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E04
-https://cdn.alarab.com/h264/154686_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/4.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E05
-https://cdn.alarab.com/h264/154768_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/5.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E06
-https://cdn.alarab.com/h264/154832_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/6.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E07
-https://cdn.alarab.com/h264/154917_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/7.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E08
-https://cdn.alarab.com/h264/154992_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/8.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E09
-https://cdn.alarab.com/h264/155063_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/10.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E11
-https://cdn.alarab.com/h264/155333_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/11.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E12
-https://cdn.alarab.com/h264/155282_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/12.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E13
-https://cdn.alarab.com/h264/155363_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/13.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E14
-https://cdn.alarab.com/h264/155446_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/14.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E15
-https://cdn.alarab.com/h264/155597_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/15.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E16
-https://cdn.alarab.com/h264/155591_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/16.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E17
-https://cdn.alarab.com/h264/155668_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/17.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/We.neheb.Tani.Leh/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E02
@@ -678,13 +682,13 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-05/studioMPAQY.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E12
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-06/studioDRSVL.smil/chunklist_b681150.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E13
-https://cdn.alarab.com/h264/155373_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioOZDZJ.smil/chunklist_b738767.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E14
-https://cdn.alarab.com/h264/155452_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioCPHYR.smil/chunklist_b731571.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E15
-https://cdn.alarab.com/h264/155523_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-09/studioFSPFV.smil/chunklist_b747411.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E16
-https://cdn.alarab.com/h264/155598_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioKYWOF.smil/chunklist_b707879.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E17
 https://cdn.alarab.com/h264/155674_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E01
@@ -702,23 +706,25 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/6
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/7.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E08
-https://cdn.alarab.com/h264/155006_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/8.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E09
-https://cdn.alarab.com/h264/155076_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E10
-https://cdn.alarab.com/h264/155152_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/10.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E11
-https://cdn.alarab.com/h264/155225_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/11.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E12
-https://cdn.alarab.com/h264/155302_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/12.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E13
-https://cdn.alarab.com/h264/155380_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/13.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E14
-https://cdn.alarab.com/h264/155461_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/14.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E15
-https://cdn.alarab.com/h264/155533_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/15.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E16
-https://cdn.alarab.com/h264/155600_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/17.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E02
@@ -734,23 +740,25 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/6.m
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/7.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E08
-https://cdn.alarab.com/h264/155009_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/8.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E09
-https://cdn.alarab.com/h264/155082_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E10
-https://cdn.alarab.com/h264/155151_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/10.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E11
-https://cdn.alarab.com/h264/155227_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/11.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E12
-https://cdn.alarab.com/h264/155305_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/12.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E13
-https://cdn.alarab.com/h264/155395_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/13.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E14
-https://cdn.alarab.com/h264/155471_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/14.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E15
-https://cdn.alarab.com/h264/155536_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/15.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E16
-https://cdn.alarab.com/h264/155612_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/17.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E01
 https://cdn.alarab.com/h264/154570_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E02
@@ -817,6 +825,8 @@ https://cdn.alarab.com/h264/155458_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155534_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E16
 https://cdn.alarab.com/h264/155603_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E17
+https://cdn.alarab.com/h264/155682_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E02
@@ -832,25 +842,25 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Than
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/7.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E08
-https://cdn.alarab.com/h264/154990_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/8.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E09
-https://cdn.alarab.com/h264/155053_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/9.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E10
-https://cdn.alarab.com/h264/155121_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/10.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E11
-https://cdn.alarab.com/h264/155213_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/11.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E12
-https://cdn.alarab.com/h264/155281_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/12.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E13
-https://cdn.alarab.com/h264/155352_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/13.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E14
-https://cdn.alarab.com/h264/155434_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/14.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E15
-https://cdn.alarab.com/h264/155500_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/15.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E16
-https://cdn.alarab.com/h264/155576_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/16.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E17
-https://cdn.alarab.com/h264/155654_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/17.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioQILWN.smil/chunklist_b1091315.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E02
@@ -885,6 +895,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-07/studioLXGJI.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioZYXRW.smil/chunklist_b1205349.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E16
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-09/studioGEKFY.smil/chunklist_b1061633.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E17
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioMBVFK.smil/chunklist_b1079953.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -1363,6 +1375,8 @@ https://cdn.alarab.com/h264/155462_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155531_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E20
 https://cdn.alarab.com/h264/155602_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E21
+https://cdn.alarab.com/h264/155679_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
@@ -1709,6 +1723,8 @@ https://cdn.alarab.com/h264/155466_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155541_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E17
 https://cdn.alarab.com/h264/155610_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E18
+https://cdn.alarab.com/h264/155688_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Shhadat.Milad/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E02
@@ -1789,6 +1805,8 @@ https://cdn.alarab.com/h264/155467_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155540_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E20
 https://cdn.alarab.com/h264/155605_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E21
+https://cdn.alarab.com/h264/155690_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام انمي",▂ ▄ ▅ ▆☆ افلام انمي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
