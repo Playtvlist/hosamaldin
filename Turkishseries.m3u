@@ -100,6 +100,8 @@ https://roya-vod.ercdn.net/hls/T/z0/d0mzpxq5wodjtc6jxju5umjzjfhaf42dqitfbtf0/d0m
 #EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E16
 https://roya-vod.ercdn.net/hls/R/lS/smmfmgxzxlx7kvkdelifr9baj2ji7hzl2yshtf2o/smmfmgxzxlx7kvkdelifr9baj2ji7hzl2yshtf2o.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S1
+#EXTINF:0 tvg-id="ext" group-title="وطن ع وتر الجزء الثالث",وطن ع وتر S03E17
+https://roya-vod.ercdn.net/hls/-/8I/oxyraumaa5iftxokagzqfnnh33zoeusvgumustlj/oxyraumaa5iftxokagzqfnnh33zoeusvgumustlj.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/2.mp4/playlist.m3u8
@@ -1003,6 +1005,8 @@ https://roya-vod.ercdn.net/hls/L/6S/rkq183qsse9hz1mel25oorcoprbael9mlfubbeba/rkq
 https://roya-vod.ercdn.net/hls/-/xB/wniajhkuaygxdzzz9fatvrq2qfvndzeo6ecmm31x/wniajhkuaygxdzzz9fatvrq2qfvndzeo6ecmm31x.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E16
 https://roya-vod.ercdn.net/hls/K/C7/2f8t9xncvgpfgtp1t06xzoxp7d1fftodencj5gaj/2f8t9xncvgpfgtp1t06xzoxp7d1fftodencj5gaj.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E17
+https://roya-vod.ercdn.net/hls/8/bi/uevlrgp2siygkdag9qa9aduilg7fc82mddlohe6x/uevlrgp2siygkdag9qa9aduilg7fc82mddlohe6x.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alprince/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E02
@@ -1477,6 +1481,8 @@ https://roya-vod.ercdn.net/hls/h/TE/bvwyme94oj4i2y5dtwab600f1qchnvrigf1im7ef/bvw
 https://roya-vod.ercdn.net/hls/j/AF/u1lgwx13se07hxsqrbrsdwfkvea88wpsuoxaxyeh/u1lgwx13se07hxsqrbrsdwfkvea88wpsuoxaxyeh.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E16
 https://roya-vod.ercdn.net/hls/U/zf/8ic8mezuouqcsda0hav2rdll1mgceba7imqlyjun/8ic8mezuouqcsda0hav2rdll1mgceba7imqlyjun.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E17
+https://roya-vod.ercdn.net/hls/t/-E/ssmogcfm2emtlye4cjvh601ef0v2kekk7x0szqrg/ssmogcfm2emtlye4cjvh601ef0v2kekk7x0szqrg.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
