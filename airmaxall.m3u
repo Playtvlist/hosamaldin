@@ -623,6 +623,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Masr2 SD
 https://shls-masr2-prod.shahid.net/masr2-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC FM SD
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC 2 HD
@@ -669,6 +671,8 @@ https://shls-masr-prod.shahid.net/masr-prod_5.m3u8
 https://shls-masr2-prod.shahid.net/masr2-prod_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC iraq لسرعه الضعيفة
 https://shls-iraq-prod.shahid.net/iraq-prod_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",AR:MY-MBC Bolleywod لسرعه الضعيفة
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ROTANA HD",النسخة المدفوعة AirMax TV
