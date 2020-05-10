@@ -326,11 +326,11 @@ http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic
-
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic SD
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:0 tvg-id="BBCArabic.net" group-title="NEWS قنوات الاخبار",AR:BBC Arabic
-http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
+http://livecdnh2.tvanywhere.ae/hls/bbc_ar/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:RT Arabic (Russia Today)
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Watan TV
@@ -342,7 +342,7 @@ http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/107
+
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
@@ -350,7 +350,7 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b25000
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alhiwar News
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8?v&__mn_sid=17174366775755575437
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1296000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Hurra
@@ -359,12 +359,12 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",ANN
 http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",Alhiwar TV
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",IraqiaNew TV
-http://95.170.215.109/hls/m3u8/IraqiaNew-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",IraqiaNew TV HD
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8?v
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",IraqiaNew TV SD
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8?v
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",EXtra-New TV
-http://95.170.215.109/hls/EXtra-New-Backup-M.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",▂ ▄ ▅ ▆☆ قنوات الوثائقية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi
@@ -397,20 +397,16 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/01.m3u8
 #EXTINF:0 tvg-id="HistoryHD.ru" group-title="قنوات الوثائقية",History HD
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Food طعام",▂ ▄ ▅ ▆☆ Food طعام ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="Food طعام",CBC Sofra
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Food طعام",Panorama Food
-
-#EXTINF:0 tvg-id="ext" group-title="Food طعام",Osn Beity
-http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids SD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn HD
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn SD
+https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
@@ -432,29 +428,25 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar Karameesh
-http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1794372416_b1000000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:Sat7_Kids
 http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids SD
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",boomerang Kids (EN)
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",كـرتـون بـالـعـربـي HD
-http://95.170.215.109:80/hls/CNArabica-Backup-M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Cartoon World
-http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",duck Kids 
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",تــوم و جــيـري 1
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:0 tvg-id="DisneyJunior.uk" group-title="قنوات أطفال",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0 tvg-id="BABYFIRST.sp" group-title="قنوات أطفال",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",3ABN قنوات أطفال
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TUNTUNIK
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",مستر بن
@@ -732,7 +724,7 @@ http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
-http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
+http://82.137.248.16:1935/Snews/stream31122019/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY SD
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM FHD
@@ -826,7 +818,7 @@ http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Musawa tv
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Hona Alquds
-http://82.212.74.99:8000/live/hls/8170.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Nbc Alnajah TV
@@ -938,22 +930,12 @@ https://bit.ly/39YjahM
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA DRAMA
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA FLIM
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
-
 #EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية",CBC
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC Sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Extra News
-http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc HD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Dmc SD
@@ -977,47 +959,23 @@ http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera+
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv+
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mekameleen مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",AL dream2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
-http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mazzika
-http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON SPORTS
-http://streamxcode.ddns.net:25461/load/desiboyz150/7586.mpegts
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Comedy
-http://tvsrv.orange.ps:8053/Nile%20Comedy?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Life
-http://tvsrv.orange.ps:8053/Nile%20Life?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Culture
-http://tvsrv.orange.ps:8053/Nile%20Culture?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Family
-http://tvsrv.orange.ps:8053/Nile%20Family?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 1
-http://tvsrv.orange.ps:8053/Panorama%20Drama%202?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Pan-Drama 2
-http://tvsrv.orange.ps:8053/Panorama%20Drama?u=TV74:p=TV74
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-HEKAYAT
-http://tvsrv.orange.ps:8053/APPLE%20HEKAYAT?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-TODAY
-http://tvsrv.orange.ps:8053/APPLE%20TODAY?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-CINEMA
-http://tvsrv.orange.ps:8053/APPLE%20CINEMA?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-MOSALSALAT
-http://tvsrv.orange.ps:8053/APPLE%20MOSALSALAT?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-AFLAM
-http://tvsrv.orange.ps:8053/APPLE%20AFLAM?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",APPLE-COMEDY
-http://tvsrv.orange.ps:8053/APPLE%20COMEDY?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Maspero Zaman
-http://tvsrv.orange.ps:8053/Maspero%20Zaman?u=TV74:p=TV74
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Extra News
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA DRAMA
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",PANORAMA FLIM
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Cima
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ON-Drama
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al AOULA
@@ -1072,15 +1030,8 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
-http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELJAZAIRIA
-http://tvsrv.orange.ps:8053/EL%20DJAZAIRIA%20TV?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Beur TV
-http://tvsrv.orange.ps:8053/Beur%20TV?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELFADJR
-http://tvsrv.orange.ps:8053/EL%20FADJR%20TV%20DZ?u=TV75:p=TV75
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ELBILAD
-http://tvsrv.orange.ps:8053/EL%20BILAD?u=TV75:p=TV75
+
+
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
@@ -1124,15 +1075,17 @@ https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
-http://qatartv.akamaized.net/hls/live/691843/NewLiveTest/index30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV SD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 SD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem_360p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN SD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_360p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar التعليمة 1
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500230.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar التعليمة 2
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN HD
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
@@ -1199,8 +1152,6 @@ http://82.212.74.100:8000/live/8130.m3u8
 http://178.63.48.23:25461/sbc/K6PHWOqM3I/150
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناة ذكريات TV
 http://178.63.48.23:25461/sbc/K6PHWOqM3I/151
-#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",قناة السعودية الإخبارية
-http://178.63.48.23:25461/sbc/K6PHWOqM3I/152
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Quran TV
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w1879095448.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Sunna TV
@@ -1212,6 +1163,8 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE SD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
