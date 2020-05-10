@@ -113,26 +113,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
 http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPwZJpuQwq
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein MOVIES 1
-http://tvsrv.orange.ps:8053/%20beIN%20Movies%201%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein MOVIES 2
-http://tvsrv.orange.ps:8053/beIN%20Movies%202%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein MOVIES 3
-http://tvsrv.orange.ps:8053/beIN%20Movies%203%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein MOVIES 4
-http://tvsrv.orange.ps:8053/beIN%20Movies%204%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Comedy
-http://tvsrv.orange.ps:8053/OSN%20Comedy%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Kids
-http://tvsrv.orange.ps:8053/OSN%20Kids?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Hala Cinema
-http://tvsrv.orange.ps:8053/OSN%20Ya%20Hala%20Cinema?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Hala Movies Action
-http://tvsrv.orange.ps:8053/OSN%20Movies%20Action%20HD?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Hala Movies +2h
-http://tvsrv.orange.ps:8053/OSN%20Movies%20%2B2h?u=out:p=out
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Fatafeat
-http://tvsrv.orange.ps:8053/Fatafeat?u=out:p=out
 #EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
