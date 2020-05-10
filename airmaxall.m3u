@@ -363,6 +363,10 @@ http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8?v
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",IraqiaNew TV SD
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8?v
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn HD
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn SD
+https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",EXtra-New TV
 
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",▂ ▄ ▅ ▆☆ قنوات الوثائقية ☆▆ ▅ ▄ ▂ ▁
@@ -403,10 +407,6 @@ https://bit.ly/39YjahM
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids SD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn HD
-https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",cgtn SD
-https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
