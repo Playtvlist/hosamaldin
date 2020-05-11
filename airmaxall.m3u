@@ -764,10 +764,8 @@ http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC 2 International" tvg-logo="https://pbs.twimg.com/profile_images/776806340790476800/CMdKBI7R.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-LBC 2 International
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC 2 International" tvg-logo="https://yt3.ggpht.com/a/AATXAJxHwyj-DaZ7mmDu-PgOgysR6BIY5_hAABfgyQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LEBANON قنوات لبنان",AR:LBN-LBC International
 http://188.160.0.148:1935/5b2a414908b7162/_definst_/smil:myStream.smil/chunklist_w1981358346_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="LEBANON قنوات لبنان",AR:LBN-LDC
-http://flusonic-13.platinum-tv.com/LDC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN SD
@@ -792,8 +790,10 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ALAAN HD" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",AR:LBN-ALAAN HD
 http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="https://image.winudf.com/v2/image1/aXIuaWZpbG10di5hcmFiaWNfaWNvbl8xNTQyMTQwMDg3XzA3OA/icon.png?w=170&fakeurl=1" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM
-https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1841632771_b644100_slen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="https://image.winudf.com/v2/image1/aXIuaWZpbG10di5hcmFiaWNfaWNvbl8xNTQyMTQwMDg3XzA3OA/icon.png?w=170&fakeurl=1" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM HD
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1590162126_b944100_slen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="https://image.winudf.com/v2/image1/aXIuaWZpbG10di5hcmFiaWNfaWNvbl8xNTQyMTQwMDg3XzA3OA/icon.png?w=170&fakeurl=1" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM SD
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1590162126_b644100_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Hawacom TV" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="LEBANON قنوات لبنان",AR:LBN-Hawacom TV
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/03/12417677_1126976907312973_432228068824476498_n-500x300.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED
@@ -807,6 +807,7 @@ http://52.31.121.58/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC Europe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NRgTbBfkSjxTQD86dMAQ10g6hNXlmCBl9Uqlp_Fc36Ql9TNr" group-title="LEBANON قنوات لبنان",AR:LBN-LBC Europe HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="LEBANON قنوات لبنان",AR:LBN-LDC
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN:ONE 1 TV" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2016/03/tv-net.co_14.jpg" group-title="LEBANON قنوات لبنان",AR:LBN:ONE 1 TV
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
