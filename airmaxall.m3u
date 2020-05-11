@@ -531,6 +531,8 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
@@ -569,6 +571,8 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
 #EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah HD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ HD
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max HD
@@ -603,6 +607,8 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_4.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 SD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah SD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ SD
 https://shls-iraq-prod.shahid.net/iraq-prod_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max SD
@@ -637,6 +643,8 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_5.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_5.m3u8
 #EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 LOW
 https://shls-mbc5-prod.shahid.net/mbc5-prod_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah LOW
+https://shls-wanasah-prod.shahid.net/wanasah-prod_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ LOW
 https://shls-iraq-prod.shahid.net/iraq-prod_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max LOW
