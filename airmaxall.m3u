@@ -701,9 +701,9 @@ http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Clip" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
+#EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana Aflam
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Masria" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Masria
@@ -732,11 +732,11 @@ http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
 http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SHAM.FM TV" tvg-logo="https://4.bp.blogspot.com/-FzvoKHJPHc8/Wv4i_bc6BPI/AAAAAAAAB9Q/v2bZQQJTQCAQ9erFXNE1s5ORcPsYH_MrwCLcBGAs/s1600/98.PNG" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
 http://5.39.218.151:8400/;
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SOURYANA" tvg-logo="https://hashtagsyria.com/wp-content/uploads/2018/01/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D9%86%D8%A7-331x219.jpg" group-title="Syria قنوات سورية",AR:SYR-SOURYANA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SOURYANA" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Souryana-100x47.jpg" group-title="Syria قنوات سورية",AR:SYR-SOURYANA
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ANN" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/06/ANN-TV-600x380.jpg" group-title="Syria قنوات سورية",AR:SYR-ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-AL EKHBARIYA" tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280362.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-AL EKHBARIYA" tvg-logo="https://sana.sy/en/wp-content/uploads/2019/06/Al-Ikhbariya-310x165.jpg" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
@@ -748,8 +748,6 @@ https://live.parstoday.com/live/alam/chunklist_w919495701.m3u8
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-HALAB TODAY" tvg-logo="https://p7.hiclipart.com/preview/941/903/592/aleppo-today-syria-tv-television-bein-sports-fostak-halab.jpg" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-Al KHABAR TV" tvg-logo="http://aya.sy/images/services/iptv/syria_education.png" group-title="Syria قنوات سورية",AR:SYR-Al KHABAR TV
-https://alkhabar-sy.com:8443/stream.mp3?fbclid;audio.mp3
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM SD
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014_480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",راديو مرح
@@ -760,9 +758,9 @@ https://tv.stream.alkompis.se/hls/live_720/index.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-MTV" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="LEBANON قنوات لبنان",AR:LBN-MTV
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-MTV" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",AR:LBN-MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
@@ -788,19 +786,19 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 https://manar.live/iptv/chunklist_w403461183_b500000.m3u8?v=
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL HD
 http://cdn.catiacast.video/tl/cad9e8dcbf3eca0f7c2af160b1913cf4.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- AL-IMAN-TV" tvg-logo="" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- AL-IMAN-TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL Mayadeen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ALAAN HD" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",AR:LBN-ALAAN HD
 http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="https://image.winudf.com/v2/image1/aXIuaWZpbG10di5hcmFiaWNfaWNvbl8xNTQyMTQwMDg3XzA3OA/icon.png?w=170&fakeurl=1" group-title="LEBANON قنوات لبنان",AR:LBN-IFILM
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1841632771_b644100_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Hawacom TV" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="LEBANON قنوات لبنان",AR:LBN-Hawacom TV
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/03/12417677_1126976907312973_432228068824476498_n-500x300.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Arabica TV" tvg-logo="" group-title="LEBANON قنوات لبنان",AR:LBN-Arabica TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Arabica TV" tvg-logo="https://www.nilesat7.com/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%B1%D8%A7%D8%A8%D9%8A%D9%83%D8%A7-Arabica1.png" group-title="LEBANON قنوات لبنان",AR:LBN-Arabica TV
 http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ALWIFAK TV" tvg-logo="http://watchfomny.tv/Video/Lebanon/Radio-moyen-orient-canada/radio.gif" group-title="LEBANON قنوات لبنان",AR:LBN-ALWIFAK TV
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
