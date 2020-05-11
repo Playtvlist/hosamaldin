@@ -689,7 +689,7 @@ https://bit.ly/34ooolI
 https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana COMEDY HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" group-title="قنوات روتانا ROTANA",AR:Rotana COMEDY SD
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema 
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
