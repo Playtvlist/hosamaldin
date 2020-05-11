@@ -721,35 +721,6 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Khalijia" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Comedy HD
-https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Comedy SD
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Kids HD
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Kids SD
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:0 tvg-id="RotanaCinema.il" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Music HD
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia HD
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
-http://188.247.86.67:8008/3
-#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
-http://188.247.86.67:8002/3
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
