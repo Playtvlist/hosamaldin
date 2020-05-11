@@ -867,20 +867,24 @@ http://live.paltoday.tv:1935/paltv/live/chunklist_w1146409111.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Roya TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Roya TV" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",AR:JR-Roya TV HD
 https://roya-live.ercdn.net/roya/roya_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Roya TV" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",AR:JR-Roya TV SD
+http://roya-live.ercdn.net/roya/roya_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan TV" tvg-logo="" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV
 http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",عمان TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Amman TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBqEOaU3jt-j8BG0Fj0a2KxgD_b2JrynnYzLQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="JORDAN قنوات الاردن",AR:JR-Amman TV HD
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",ALmamlka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
-#EXTINF:0 tvg-id="tnt-music" group-title="JORDAN قنوات الاردن",A ONE
-http://82.212.74.99:8000/live/hls/8111.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jasco
-http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan Sport
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Amman TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBqEOaU3jt-j8BG0Fj0a2KxgD_b2JrynnYzLQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="JORDAN قنوات الاردن",AR:JR-Amman TV SD
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_640x360_800k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan Sport" tvg-logo="https://cache.eremnews.com/wp-content/uploads/2018/08/JORDAN-SPORT-540x268.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan Sport
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Al-Mamlaka_TV_logo.png/250px-Al-Mamlaka_TV_logo.png" group-title="JORDAN قنوات الاردن",ALmamlka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan Sport" tvg-logo="https://4.bp.blogspot.com/-4tmXKe62IC4/XFBLkwSv_vI/AAAAAAAAAaE/FEkYUdJD_RErMvSFnCFwoGvM0q-r9ZIMQCLcBGAs/s1600/download.jpg" group-title="JORDAN قنوات الاردن",A ONE
+http://82.212.74.99:8000/live/hls/8111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan Sport" tvg-logo="https://i.ytimg.com/vi/Rws6AEMvnZw/hqdefault.jpg" group-title="JORDAN قنوات الاردن",Jasco
+http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",▂ ▄ ▅ ▆☆ قنوات العراق IRAQ ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",النسخة المدفوعة AirMax TV
