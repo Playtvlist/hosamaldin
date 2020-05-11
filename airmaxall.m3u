@@ -553,14 +553,10 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxCms7GmbX-yzXAP6gH72PitMJ8wr9n9bhTR-Lgg8NIqTWXSe" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
 
-
 #EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 HD
@@ -689,38 +685,27 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana COMEDY HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" group-title="قنوات روتانا ROTANA",AR:Rotana COMEDY HD
 https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana COMEDY HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" group-title="قنوات روتانا ROTANA",AR:Rotana COMEDY SD
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema 
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music HD
-http://zalhdplus.com:2095/Hosamaldin_80289140/9502170621/215
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music 
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Classic HD" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Classic HD
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Khalijia HD" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Khalijia HD" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia 
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam HD" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana Aflam HD
-
-#EXTINF:-1 tvg-id="" tvg-name="AR:قنوات روتانا ROTANA" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:قنوات روتانا ROTANA
-
-#EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
-http://188.247.86.67:8008/3
-#EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
-http://188.247.86.67:8002/3
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana Aflam
-
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Classic" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Cinema-logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Masria" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Masria
-
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Clip" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Khalijia" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
+http://188.247.86.67:8008/3
+#EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
+http://188.247.86.67:8002/3
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana Aflam
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Masria" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Masria
+#EXTINF:-1 tvg-id="" tvg-name="AR:قنوات روتانا ROTANA" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:قنوات روتانا ROTANA
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
