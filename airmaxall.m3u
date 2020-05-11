@@ -527,7 +527,7 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 FHD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FHD
+#EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
@@ -535,11 +535,11 @@ https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://1.bp.blogspot.com/-XEwSGY63VfY/Xd0CqlJfBaI/AAAAAAAAJ28/HdV1GQdWhukF6LB4yAaDx_0XD_wfnonDACLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D9%2581%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AA%25D9%258A%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.webp" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY 4K
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://1.bp.blogspot.com/-XEwSGY63VfY/Xd0CqlJfBaI/AAAAAAAAJ28/HdV1GQdWhukF6LB4yAaDx_0XD_wfnonDACLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D9%2581%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AA%25D9%258A%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.webp" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/108
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="http://gobx.com/wp-content/uploads/2018/05/mbc_plus_drama.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
