@@ -742,7 +742,7 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ALAM-SYRIA-TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_aljesr-tv.png" group-title="Syria قنوات سورية",AR:SYR-ALAM-SYRIA-TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ALAM-SYRIA-TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-syria-ir-sy.png" group-title="Syria قنوات سورية",AR:SYR-ALAM-SYRIA-TV
 https://live.parstoday.com/live/alam/chunklist_w919495701.m3u8
 #EXTINF:-1 tvg-id="orienttv.sy" tvg-name="AR:SYR-ORIENT.NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
