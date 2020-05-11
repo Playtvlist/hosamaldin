@@ -712,43 +712,43 @@ http://188.247.86.67:8002/3
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA +" tvg-logo="https://arab4channels.com/wp-content/uploads/2019/04/47369629_2275306422794563_6956932285975232512_n.jpg" group-title="SYRIEA HD ",AR:SYR-LANA +
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA +" tvg-logo="https://arab4channels.com/wp-content/uploads/2019/04/47369629_2275306422794563_6956932285975232512_n.jpg" group-title="Syria قنوات سورية ",AR:SYR-LANA +
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="SYRIEA HD ",AR:SYR-LANA HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية ",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA PLUS" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="SYRIEA HD ",AR:SYR-LANA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA PLUS" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية ",AR:SYR-LANA PLUS
 http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="SYRIEA HD ",AR:SYR-SAMA SYRIA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="Syria قنوات سورية ",AR:SYR-SAMA SYRIA
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="SYRIEA HD ",AR:SYR-DRAMA TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية ",AR:SYR-DRAMA TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA AL AOULA" tvg-logo="https://www.wataan.com/uploads/1062019-061503AM.png" group-title="SYRIEA HD ",AR:SYR-SYRIA AL AOULA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA AL AOULA" tvg-logo="https://www.wataan.com/uploads/1062019-061503AM.png" group-title="Syria قنوات سورية ",AR:SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-EL TARBAOUIA" tvg-logo="https://2.bp.blogspot.com/-yfUsQdiUvs0/XCcqSUT_c2I/AAAAAAAABUQ/XESFvTzw5QUx76qkMXUV2omf_ffT6qerQCLcBGAs/s1600/images.jpg" group-title="SYRIEA HD ",AR:SYR-EL TARBAOUIA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-EL TARBAOUIA" tvg-logo="https://2.bp.blogspot.com/-yfUsQdiUvs0/XCcqSUT_c2I/AAAAAAAABUQ/XESFvTzw5QUx76qkMXUV2omf_ffT6qerQCLcBGAs/s1600/images.jpg" group-title="Syria قنوات سورية ",AR:SYR-EL TARBAOUIA
 http://82.137.248.16:1935/SEdu/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-NOUR ELSHAM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/xsy-nour-el-sham-tv.jpg.pagespeed.ic.9Eoi0D8lIN.jpg" group-title="",AR:SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SATELLITE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBEHJQ_kbpJhQVy5xVMl-vtvBn-S02Qq90pEg=s900-mo-c-c0xffffffff-rj-k-no" group-title="SYRIEA HD ",AR:SYR-SATELLITE TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SATELLITE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBEHJQ_kbpJhQVy5xVMl-vtvBn-S02Qq90pEg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية ",AR:SYR-SATELLITE TV
 http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SHAM.FM TV" tvg-logo="https://4.bp.blogspot.com/-FzvoKHJPHc8/Wv4i_bc6BPI/AAAAAAAAB9Q/v2bZQQJTQCAQ9erFXNE1s5ORcPsYH_MrwCLcBGAs/s1600/98.PNG" group-title="SYRIEA HD ",AR:SYR-SHAM.FM TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SHAM.FM TV" tvg-logo="https://4.bp.blogspot.com/-FzvoKHJPHc8/Wv4i_bc6BPI/AAAAAAAAB9Q/v2bZQQJTQCAQ9erFXNE1s5ORcPsYH_MrwCLcBGAs/s1600/98.PNG" group-title="Syria قنوات سورية ",AR:SYR-SHAM.FM TV
 http://5.39.218.151:8400/;
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SOURYANA" tvg-logo="https://hashtagsyria.com/wp-content/uploads/2018/01/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D9%86%D8%A7-331x219.jpg" group-title="SYRIEA HD ",AR:SYR-SOURYANA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SOURYANA" tvg-logo="https://hashtagsyria.com/wp-content/uploads/2018/01/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D9%86%D8%A7-331x219.jpg" group-title="Syria قنوات سورية ",AR:SYR-SOURYANA
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ANN" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/06/ANN-TV-600x380.jpg" group-title="SYRIEA HD ",AR:SYR-ANN
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ANN" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/06/ANN-TV-600x380.jpg" group-title="Syria قنوات سورية ",AR:SYR-ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-AL EKHBARIYA" tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280362.png" group-title="SYRIEA HD ",AR:SYR-AL EKHBARIYA
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-AL EKHBARIYA" tvg-logo="http://www.ortas.gov.sy/archive/news/n1502280362.png" group-title="Syria قنوات سورية ",AR:SYR-AL EKHBARIYA
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SYRIEA HD ",AR:SYR-SYRIA PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية ",AR:SYR-SYRIA PLUS HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SYRIEA HD ",AR:SYR-SYRIA PLUS SD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية ",AR:SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ALAM-SYRIA-TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_aljesr-tv.png" group-title="SYRIEA HD ",AR:SYR-ALAM-SYRIA-TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-ALAM-SYRIA-TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_aljesr-tv.png" group-title="Syria قنوات سورية ",AR:SYR-ALAM-SYRIA-TV
 https://live.parstoday.com/live/alam/chunklist_w919495701.m3u8
-#EXTINF:-1 tvg-id="orienttv.sy" tvg-name="AR:SYR-ORIENT.NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="SYRIEA HD ",AR:SYR-ORIENT.NEWS
+#EXTINF:-1 tvg-id="orienttv.sy" tvg-name="AR:SYR-ORIENT.NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية ",AR:SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-HALAB TODAY" tvg-logo="https://p7.hiclipart.com/preview/941/903/592/aleppo-today-syria-tv-television-bein-sports-fostak-halab.jpg" group-title="SYRIEA HD ",AR:SYR-HALAB TODAY
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-HALAB TODAY" tvg-logo="https://p7.hiclipart.com/preview/941/903/592/aleppo-today-syria-tv-television-bein-sports-fostak-halab.jpg" group-title="Syria قنوات سورية ",AR:SYR-HALAB TODAY
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-Al KHABAR TV" tvg-logo="http://aya.sy/images/services/iptv/syria_education.png" group-title="SYRIEA HD ",AR:SYR-Al KHABAR TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-Al KHABAR TV" tvg-logo="http://aya.sy/images/services/iptv/syria_education.png" group-title="Syria قنوات سورية ",AR:SYR-Al KHABAR TV
 https://alkhabar-sy.com:8443/stream.mp3?fbclid;audio.mp3
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM SD
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014_480p.m3u8
