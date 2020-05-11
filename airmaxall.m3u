@@ -1175,15 +1175,15 @@ http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI ONE SD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-NOOR DUBAI HD" tvg-logo="" group-title="قنوات الامارات EMIRATES",AR:DUB-NOOR DUBAI HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-NOOR DUBAI HD" tvg-logo="https://www.ntd-ngonetwork.org/sites/nnn/files/styles/grid-6-mobile-logo/public/content/organisation/logos/2019-05-16/noor.jpg?itok=WPm90QAP&timestamp=1557993811" group-title="قنوات الامارات EMIRATES",AR:DUB-NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-SAMA DUBAI" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAijISsrve1jN6nvfB29t0oNujEBwcszgcn8w=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-SAMA DUBAI
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI.ZAMAN" tvg-logo="https://pbs.twimg.com/profile_images/998876539365212162/ioniP4ka_400x400.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI.ZAMAN
+#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI.ZAMAN" tvg-logo="https://www.wataan.com/uploads/2422018-050034PM.png" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI.ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI Racing" tvg-logo="https://pbs.twimg.com/profile_images/993899145990729730/wifDLmuI_400x400.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI Racing
+#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI Racing" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Abu Dhabi TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1022026747401969664/qeLYRPXW_400x400.jpg" group-title="قنوات الامارات EMIRATES",AR:Abu Dhabi TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Abu Dhabi TV HD" tvg-logo="https://i2.wp.com/zezeze12.us/wp-content/uploads/2020/05/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-Abu-Dhabi-TV-2020-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB.jpeg?fit=1280%2C720&ssl=1" group-title="قنوات الامارات EMIRATES",AR:Abu Dhabi TV HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="" tvg-name="AR:Abu Dhabi Drama HD" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/4.jpg" group-title="قنوات الامارات EMIRATES",AR:Abu Dhabi Drama HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
