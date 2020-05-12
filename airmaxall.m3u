@@ -304,7 +304,7 @@ http://livecdnh3.tvanywhere.ae/hls/alarabiya/index.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ALMAMLKA HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SKY NEWS ARABIC HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SKY NEWS ARABIC HD" tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:BBC ARABIC HD" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",AR:BBC ARABIC HD
 http://livecdnh2.tvanywhere.ae/hls/bbc_ar/index.m3u8
@@ -318,7 +318,7 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DW ARABIC HD" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="NEWS قنوات الاخبار",AR:DW ARABIC HD
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:AL KHALIJ HD" tvg-logo="" group-title="NEWS قنوات الاخبار",AR:AL KHALIJ HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL KHALIJ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRTPxsEVvY5ClBHp7gqAC5SzZ2wevNFxDkN56I9LACrkqEABJI&usqp=CAU" group-title="NEWS قنوات الاخبار",AR:AL KHALIJ HD
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:TRT ARABIC HD" tvg-logo="https://pbs.twimg.com/profile_images/1046697395701108736/JY6De9Aa.jpg" group-title="NEWS قنوات الاخبار",AR:TRT ARABIC HD
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
