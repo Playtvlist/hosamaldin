@@ -914,6 +914,8 @@ https://cdn.alarab.com/h264/155603_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155682_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E18
 https://cdn.alarab.com/h264/155763_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E19
+https://cdn.alarab.com/h264/155832_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E02
@@ -1530,6 +1532,8 @@ https://cdn.alarab.com/h264/155602_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155679_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E22
 https://cdn.alarab.com/h264/155760_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E23
+https://cdn.alarab.com/h264/155830_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
