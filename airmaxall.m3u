@@ -699,24 +699,42 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-AlQuds" tvg-logo="https://www.wataan.com/uploads/642018-120523PM.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-AlQuds
+http://zalhdplus.com:2095/Hosamaldin_80289140/9502170621/521
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Ajyal TV" tvg-logo="https://www.fa2da.com/wp-content/uploads/2018/08/ajyal_tv_sa.png" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Ajyal TV
+http://zalhdplus.com:2095/Hosamaldin_80289140/9502170621/515
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Al-FAJER TV 1 HD" tvg-logo="https://i2.wp.com/mixawy.online/wp-content/uploads/2020/02/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%AC%D8%B1-1-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-El-Fadjer.jpg?fit=601%2C600" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Al-FAJER TV 1 HD
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Al-FAJER TV 2 HD" tvg-logo="https://1.bp.blogspot.com/-45PDXFbElGM/XYXI4Yl9vpI/AAAAAAAAGQ4/MZyzW7VIaY0xTPdFFqppRzBw0jSeieUqQCLcBGAsYHQ/s1600/Al%2BFajer%2B2%2BTV.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Al-FAJER TV 2 HD
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Al-FAJER TV 2 HD" tvg-logo="https://www.wataan.com/uploads/642018-120153PM.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Al-FAJER TV 4 HD
+http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Raya TV" tvg-logo="https://lh3.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Raya TV
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-AL YAUM" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/al_yawm.png" group-title="PALESTINE قنوات فلسيطين",AR:PAL-AL YAUM
+http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Palestine" tvg-logo="http://www.injaz-pal.org/site_content_images/sponsors593929737.png" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Musawa tv" tvg-logo="https://gulf365.co/content/uploads/2019/10/08/675aac9d3e.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Musawa tv
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Maan News" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCOyfmbmymEBbEW6pJVIzc5QgXXmmHbqs0F_w=s900-mo-c-c0xffffffff-rj-k-no" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Maan News
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Palestine live" tvg-logo="https://www.wataan.com/uploads/642018-012040PM.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Palestinee TV" tvg-logo="https://www.wataan.com/uploads/642018-012006PM.png" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Palestinee TV
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Nbc Alnajah TV" tvg-logo="" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Nbc Alnajah TV
+http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Awdeh Palestine" tvg-logo="https://i1.wp.com/tv-net.co/channels-frequencys/wp-content/uploads/2016/12/CAcrR0iUkAA9h7j.jpg?resize=310%2C205" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Awdeh Palestine
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Watar" tvg-logo="http://thewatchtv.com/wp-content/uploads/2014/07/Watch-Al-Hurria-TV-Live-TV-from-Iraq.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Watar
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Bethlehem TV" tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Bethlehem TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Palestine Sport" tvg-logo="https://www.wataan.com/uploads/642018-012940PM-1.jpg" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Palestine Sport
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Nablus Live" tvg-logo="" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Nablus Live
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Hona Alquds" tvg-logo="" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Hona Alquds
+#EXTINF:-1 tvg-id="" tvg-name="AR:PAL-Al Salam" tvg-logo="" group-title="PALESTINE قنوات فلسيطين",AR:PAL-Al Salam
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 1
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?fluxustv.m3u8&fbclid=IwAR0exKCRp9di0t9Aq2DYOy--Xm6x7YzJTZBpswQoKUU-mo_o98hzKDiW9Mg
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 1
-http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 2
-http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 4
-http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Musawa tv
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Hona Alquds
-
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine live
-http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Nbc Alnajah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Watar TV1
@@ -735,12 +753,6 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",مكان TV
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",RayaHD TV
-http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestinian TV
-http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestinian اليوم TV
-http://live.paltoday.tv:1935/paltv/live/chunklist_w1146409111.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
