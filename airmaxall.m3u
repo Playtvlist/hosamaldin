@@ -974,57 +974,51 @@ https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",Qatar TV HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",Qatar TV SD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/master360p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",Al RAYAN 2 SD
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem_360p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",Al RAYAN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBVMlDxZDkwof5PpF3r3tLDreJYfJuf8B2XFg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات قطر Qatar",Qatar TV HD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/92/a1/93/92a193f8-b6e7-fa77-f934-f41a1b0dda4b/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.jpeg/246x0w.jpg" group-title="قنوات قطر Qatar",Al RAYAN 2 HD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",ALRAYAN SD
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_360p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",ALRAYAN HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALRAYAN" tvg-logo="http://www.qatarendurance.com.qa/web/images/Al-Rayyan.jpg" group-title="قنوات قطر Qatar",ALRAYAN HD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kuwait 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait 1 TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png" group-title="قنوات الكويت Kuwait",AR:Kuwait 1 TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kuwait 2 TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait 2 TV" tvg-logo="" group-title="قنوات الكويت Kuwait",AR:Kuwait 2 TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت اثراء
+#EXTINF:-1 tvg-id="" tvg-name="AR:kuwait ETHRAA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="قنوات الكويت Kuwait",AR:kuwait ETHRAA HD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت العربي
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait AL Arabi TV" tvg-logo="https://4.bp.blogspot.com/-1i0CWywR1UM/WObGNdg3yTI/AAAAAAAAE2E/9LduJQ_uDgk5LkmuXq5h05w86uiNifE6ACLcB/s1600/ktv_al_araby.png" group-title="قنوات الكويت Kuwait",AR:Kuwait AL Arabi TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت المجلس
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait AL Majlis TV" tvg-logo="https://pbs.twimg.com/profile_images/804033693895430144/pMtS9KlM.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait AL Majlis TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت القرين
+#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",قناة القرين - Al Qurain
 https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت بلس
+#EXTINF:-1 tvg-id="" tvg-name="AR:kuwait S.plus HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCULgfvUA1itreqyk9A24dtrgMrA4KTws-tNQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الكويت Kuwait",AR:kuwait S.plus HD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت الرياضة
+#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت  الطفل
+#EXTINF:-1 tvg-id="" tvg-name="AR:kuwait Kids HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCcAixDfRWLGMK7f8sPCImY0jTq3b6e7DO85g=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الكويت Kuwait",AR:kuwait Kids HD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kقناة الكويت فنون
-http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kuwait Alrai TV
-https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kuwait العدالة
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="" group-title="قنوات الكويت Kuwait",Kقناة الكويت فنون
+http://livecdnh3.tvanywhere.ae/hls/funoon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://img.favpng.com/18/17/11/kuwait-al-rai-newspaper-iphone-png-favpng-tHDnsDmHsZ2B96idrx1x9QnLN.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",Kuwait العدالة
 rtmp://168.187.49.14:1935/live//atv?v=
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait ",Kuwait المعارف
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",Kuwait المعارف
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="قنوات الكويت Kuwait ",Kuwait MarinaFM
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/MarinaFM_logo_2016.png" group-title="قنوات الكويت Kuwait",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",Oman TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://pbs.twimg.com/profile_images/763501374655107072/dTG_VDhE_400x400.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",Oman Mubasher
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman Mubasher" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/01/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B9%D9%85%D8%A7%D9%86.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman Mubasher
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",Oman الاستقامة
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",Oman الرياضية
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://muwatin.net/wp-content/uploads/2015/11/istiqama-LOGO.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman AListiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://muwatin.net/wp-content/uploads/2015/11/istiqama-LOGO.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman Sport TV
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات السعودية Saudi-Arabia",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1062,8 +1056,6 @@ https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI OLA HD" tvg-logo="http://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI ONE HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI ONE SD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-NOOR DUBAI HD" tvg-logo="https://www.ntd-ngonetwork.org/sites/nnn/files/styles/grid-6-mobile-logo/public/content/organisation/logos/2019-05-16/noor.jpg?itok=WPm90QAP&timestamp=1557993811" group-title="قنوات الامارات EMIRATES",AR:DUB-NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?
