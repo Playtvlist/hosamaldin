@@ -1151,18 +1151,18 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات السعودية Saudi-Arabia",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 1 HD" tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 1 HD" tvg-logo="https://fekrawe.com/wp-content/uploads/2019/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 1 SD
 https://edge-1192-ch-gv.filmon.com/live/1775.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 1 HD" tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 1 LOW
+#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 1 HD" tvg-logo="https://fekrawe.com/wp-content/uploads/2019/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 1 LOW
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 2 HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Saudi2TV.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 2 HD
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 2 HD" tvg-logo="https://miro.medium.com/max/660/0*OjKxlLf3wI7PeQCP." group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Beity TV HD
 http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi 24" tvg-logo="https://i2.wp.com/tv-net.co/channels-frequencys/wp-content/uploads/2016/03/ClPNyzo0.png?zoom=2.625&resize=368%2C169" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 24
 http://streamxcode.ddns.net:25461/load/desiboyz150/6516.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-22 TV" tvg-logo="" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-22 TV" tvg-logo="https://pbs.twimg.com/profile_images/928727626998599681/ZwMaNIAd_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
 http://82.212.74.99:8000/live/8117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-THIKRAYAT HD" tvg-logo="" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-THIKRAYAT HD" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
 http://178.63.48.23:25461/sbc/K6PHWOqM3I/151
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi Quran HD" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w1879095448.m3u8
@@ -1176,7 +1176,7 @@ http://82.212.74.100:8000/live/8130.m3u8
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="قنوات السعودية Saudi-Arabia",مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات السعودية Saudi-Arabia",نوبل TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://pbs.twimg.com/profile_images/1042657536804102144/-eF3cQtP_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",نوبل TV
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://pbs.twimg.com/profile_images/1212534614994178048/aTsKCDkp_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",wesal
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
