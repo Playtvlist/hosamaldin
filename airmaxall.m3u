@@ -977,9 +977,13 @@ https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBVMlDxZDkwof5PpF3r3tLDreJYfJuf8B2XFg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات قطر Qatar",Qatar TV HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/92/a1/93/92a193f8-b6e7-fa77-f934-f41a1b0dda4b/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.jpeg/246x0w.jpg" group-title="قنوات قطر Qatar",Al RAYAN 2 HD
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALRAYAN" tvg-logo="http://www.qatarendurance.com.qa/web/images/Al-Rayyan.jpg" group-title="قنوات قطر Qatar",ALRAYAN HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil#EXTINF:-1 tvg-id="" tvg-/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" group-title="قنوات قطر Qatar",ALRAYAN HD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKs-6oGjkXkucJ80esRRxBsLWMXlnZc5rGIHtWCMLpXUPK8b2P&usqp=CAU" group-title="قنوات قطر Qatar",قطر التعملية 1
+http://qtv-i.akamaihd.net/hls/live/1019478/QTVEdu1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://el-3rb.com/wp-content/uploads/2020/04/download-1-1280x720.jpg" group-title="قنوات قطر Qatar",قطر التعملية 2
+http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait 1 TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png" group-title="قنوات الكويت Kuwait",AR:Kuwait 1 TV
