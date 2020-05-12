@@ -972,7 +972,7 @@ https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
 https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",Somali National TV
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar ",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBVMlDxZDkwof5PpF3r3tLDreJYfJuf8B2XFg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات قطر Qatar",Qatar TV HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/master.m3u8
@@ -1010,15 +1010,15 @@ http://livecdnh3.tvanywhere.ae/hls/funoon/index.m3u8
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/MarinaFM_logo_2016.png" group-title="قنوات الكويت Kuwait",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
-#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman ",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://pbs.twimg.com/profile_images/763501374655107072/dTG_VDhE_400x400.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://3.bp.blogspot.com/-MavFYvvSTWA/W4OG_fYk8YI/AAAAAAAAA_o/7mOUG89XeAk8m0DhITjvbQ5vQLv9cLZxgCLcBGAs/s1600/omantv.png" group-title="قنوات سلطنة عمان Oman",AR:Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman Mubasher" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/01/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B9%D9%85%D8%A7%D9%86.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman Mubasher
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://muwatin.net/wp-content/uploads/2015/11/istiqama-LOGO.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman AListiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://muwatin.net/wp-content/uploads/2015/11/istiqama-LOGO.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://www.masralyoum.net/content/uploads/2019/09/02/e90aef7a87.jpg" group-title="قنوات سلطنة عمان Oman",AR:Oman Sport TV
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات السعودية Saudi-Arabia",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
