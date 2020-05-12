@@ -934,22 +934,40 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",قناه سلام
-https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist_b200000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 1
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 24
-https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",AR:LIB-Tanasuh
-http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w1070110891.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 218
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya 1" tvg-logo="https://i0.wp.com/ksa5.net/wp-content/uploads/2018/08/Libya-One-Tv.jpg?resize=300%2C200&ssl=1" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 1
+http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Daawa" tvg-logo="http://www.1arablive.com/livetv/assets/images/1525615454.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Daawa
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya 24" tvg-logo="https://pbs.twimg.com/profile_images/954366753299222534/dBgDQ3n-.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 24
+http://zalhdplus.com:2095/Hosamaldin_80289140/9502170621/501
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Tanasuh" tvg-logo="https://pbs.twimg.com/profile_images/1073919770259542016/o8bBRvtX.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Tanasuh
+http://m.live.net.sa:1935/m/tanasuhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Al Nabaa" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDoDY-dfQCXda-y1BlgRtm5IYNVEeBCadIBjA=s900-mo-c-c0xffffffff-rj-k-no" group-title="LIBYA قنوات ليبيا",AR:LIB-Al Nabaa
+https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya 218" tvg-logo="https://pbs.twimg.com/profile_images/798923648778338304/_5jZ0I1l.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya Alhadath
-http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya News " tvg-logo="https://lh3.googleusercontent.com/99_ks6mxAe9jZV2uNIvKgit1WE3YzAbcHHfbNHjPptAxXaqgjnWM1vHmH4zxkrVuMmo=h800" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya News
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya Alahrar" tvg-logo="https://pbs.twimg.com/profile_images/953959542928412673/wYWx5MRY.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Alahrar
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-libya Alhadath" tvg-logo="http://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-libya Alhadath
+https://master.starmena-cloud.com/hls/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya Channel" tvg-logo="http://www.1arablive.com/livetv/assets/images/1524006480.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-JAMAHIRIA-TV" tvg-logo="https://www.libyaakhbar.com/wp-content/uploads/2017/05/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%D9%8A%D8%A9.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-JAMAHIRIA-TV
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-AL HADATH HD" tvg-logo="http://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-AL HADATH HD
+https://master.starmena-cloud.com/hls/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-AL HADATH HD" tvg-logo="https://pbs.twimg.com/profile_images/378800000693480290/72d76b132872a65ad22d1e85868df2c9_400x400.jpeg" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
 http://82.212.74.2:8000/live/7321.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-AL HADATH HD" tvg-logo="https://www.banat5.com/wp-content/uploads/2019/10/channel-8.jpg" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-AL HADATH HD" tvg-logo="https://www.salam.ly/paronia/img/logo2.png" group-title="LIBYA قنوات ليبيا",قناه السلام
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-AL WATNYAH HD" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-AL WATNYAH HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya Alwatan" tvg-logo="" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Alwatan
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya Rasmia" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/Libya-ALrasmia-TV.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Rasmia
+#EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya TV" tvg-logo="" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya TV
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",▂ ▄ ▅ ▆☆ SUDAN قنوات السودان ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",sudantv
