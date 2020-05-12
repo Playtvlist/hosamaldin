@@ -580,19 +580,19 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana COMEDY HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" group-title="قنوات روتانا ROTANA",AR:Rotana COMEDY HD
-https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_720p/chunks.m3u8
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana COMEDY HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" group-title="قنوات روتانا ROTANA",AR:Rotana COMEDY SD
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema 
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music 
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Classic HD" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Classic HD
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Khalijia HD" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Khalijia 
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Clip" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
