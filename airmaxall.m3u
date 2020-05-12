@@ -1003,7 +1003,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_480p/chun
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="" group-title="قنوات الكويت Kuwait",Kقناة الكويت فنون
 http://livecdnh3.tvanywhere.ae/hls/funoon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://img.favpng.com/18/17/11/kuwait-al-rai-newspaper-iphone-png-favpng-tHDnsDmHsZ2B96idrx1x9QnLN.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV
-https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
+http://stream02.fasttelco.net:1935/live/_definst_/alrai.stream/chunklist_w898119211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",Kuwait العدالة
 rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait Alrai TV" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",Kuwait المعارف
