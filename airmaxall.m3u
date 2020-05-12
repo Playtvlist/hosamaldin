@@ -1042,9 +1042,9 @@ http://82.212.74.99:8000/live/8117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-THIKRAYAT HD" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
 http://178.63.48.23:25461/sbc/K6PHWOqM3I/151
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi Quran HD" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Quran HD
-https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w1879095448.m3u8
+https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-Saudi Sunna Nabawiya" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Sunna Nabawiya
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+http://livecdnh2.tvanywhere.ae/hls/sunnah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DirecTV_logo.svg/1280px-DirecTV_logo.svg.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-SBC HD
 http://178.63.48.23:25461/sbc/K6PHWOqM3I/150
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://www.almuheet.net/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-ENTV-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9.png" group-title="قنوات السعودية Saudi-Arabia",En TV
@@ -1052,55 +1052,55 @@ http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://www.alahlam.net/wp-content/uploads/2020/02/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.png" group-title="قنوات السعودية Saudi-Arabia",Ayaat TV
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="قنوات السعودية Saudi-Arabia",مكة TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://pbs.twimg.com/profile_images/1042657536804102144/-eF3cQtP_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",نوبل TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SAU-SBC HD" tvg-logo="https://pbs.twimg.com/profile_images/1212534614994178048/aTsKCDkp_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",wesal
-http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI OLA HD" tvg-logo="http://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI OLA HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI ONE HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI ONE SD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-NOOR DUBAI HD" tvg-logo="https://www.ntd-ngonetwork.org/sites/nnn/files/styles/grid-6-mobile-logo/public/content/organisation/logos/2019-05-16/noor.jpg?itok=WPm90QAP&timestamp=1557993811" group-title="قنوات الامارات EMIRATES",AR:DUB-NOOR DUBAI HD
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-SAMA DUBAI" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAijISsrve1jN6nvfB29t0oNujEBwcszgcn8w=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-SAMA DUBAI
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI.ZAMAN" tvg-logo="https://www.wataan.com/uploads/2422018-050034PM.png" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI.ZAMAN
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI Racing" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Abu Dhabi TV HD" tvg-logo="https://i2.wp.com/zezeze12.us/wp-content/uploads/2020/05/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-Abu-Dhabi-TV-2020-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB.jpeg?fit=1280%2C720&ssl=1" group-title="قنوات الامارات EMIRATES",AR:Abu Dhabi TV HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Abu Dhabi Drama HD" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/4.jpg" group-title="قنوات الامارات EMIRATES",AR:Abu Dhabi Drama HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-AL Emarat HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBm65GWlpgqXSffnSG4HAJ2RYHVYXR6hIv9bg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-AL Emarat HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-FUJAIRA HD" tvg-logo="https://2.bp.blogspot.com/-UULrI1stC1E/W2sn2gUcW_I/AAAAAAAAIMQ/P_FCRyc_wo4gF139ee0MmKXUS5rVo-3dACLcBGAs/s250-c/amakendrama.png" group-title="قنوات الامارات EMIRATES",AR:DUB-FUJAIRA HD
 rtmp://ccfz.dyndns.org/fujtv//livestream1?v=
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-HAWAS" tvg-logo="https://pbs.twimg.com/profile_images/971736978847920128/hkx-kHgk.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-HAWAS
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-Sharjah" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD7SLzGLhWfvOjl4NHhSD5Dqppkosid9i85Pg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-Sharjah
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALAN" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="قنوات الامارات EMIRATES",AR:DUB-ALAN HD
 https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xt3YIGkwTfHoKs6Gy9X89ZM)/dm/3/x74wje5/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALAN" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="قنوات الامارات EMIRATES",AR:DUB-ALAN SD
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-Al Wousta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="قنوات الامارات EMIRATES",AR:DUB-Al Wousta HD
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
-http://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/05.m3u8
+http://livecdnh2.tvanywhere.ae/hls/ajman/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",peacetv
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Wanasah TV
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+http://livecdnh2.tvanywhere.ae/hls/wanasah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-AL Dafrah TV" tvg-logo="" group-title="قنوات الامارات EMIRATES",AR:DUB-AL Dafrah TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-AL SHALLAL HD" tvg-logo="" group-title="قنوات الامارات EMIRATES",AR:DUB-AL SHALLAL HD
 #EXTINF:0 tvg-id="ext" group-title="قنوات اليمن Yemen",▂ ▄ ▅ ▆☆ Yemen tv ☆▆ ▅ ▄ ▂ ▁
