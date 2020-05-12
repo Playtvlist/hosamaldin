@@ -611,7 +611,7 @@ https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA PLUS" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
-http://livecdnh1.tvanywhere.ae/hls/lanatv/index.m3u8
+http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
