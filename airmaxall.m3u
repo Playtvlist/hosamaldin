@@ -992,7 +992,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_480p/
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait AL Majlis TV" tvg-logo="https://pbs.twimg.com/profile_images/804033693895430144/pMtS9KlM.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait AL Majlis TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الكويت Kuwait",قناة القرين - Al Qurain
+#EXTINF:-1 tvg-id="" tvg-name="AR:Kuwait AL Majlis TV" tvg-logo="http://ma.heytv.org/wp-content/uploads/2019/03/ACSszfFR83d15ahCQ_AeS61JKYFzlNMaM8Vz9953Gws800-mo-c-c0xffffffff-rj-k-no-1-1.jpeg" group-title="قنوات الكويت Kuwait",Al Qurain TV
 https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:kuwait S.plus HD" tvg-logo="https://www.zarkachat.com/wp-content/uploads/2020/02/kuwait-sport-plus.jpg" group-title="قنوات الكويت Kuwait",AR:kuwait S.plus HD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_480p/chunks.m3u8
