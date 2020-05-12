@@ -290,7 +290,7 @@ http://51.158.176.190/hls/stream.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://ocdn.eu/program-tv/adm/de6f513042e32f70e0606c467cc0cbd49ce216144d39db23eccf411e78df5196" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA HD
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA MUBASHER HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA MUBASHER HD
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -301,7 +301,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL ARABIYA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AR:AL ARABIYA SD
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL HADATH HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD
-http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ALMAMLKA HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SKY NEWS ARABIC HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
@@ -312,23 +312,21 @@ http://livecdnh2.tvanywhere.ae/hls/bbc_ar/index.m3u8
 https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL ALAM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/200px-Al-Alam_logo.svg.png" group-title="NEWS قنوات الاخبار",AR:AL ALAM HD
 https://live2.alalamtv.net/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:WATAN HD" tvg-logo="https://pbs.twimg.com/profile_images/1009105127209349120/JEVMamn-.jpg" group-title="NEWS قنوات الاخبار",AR:WATAN HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:WATAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/14/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86.jpg" group-title="NEWS قنوات الاخبار",AR:WATAN HD
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:FRANCE 24 HD" tvg-logo="https://pbs.twimg.com/profile_images/875648957451345921/OUjlwj62_400x400.jpg" group-title="NEWS قنوات الاخبار",AR:FRANCE 24 HD
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DW ARABIC HD" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="NEWS قنوات الاخبار",AR:DW ARABIC HD
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:ALHADATH NEWS قنوات الاخبار" tvg-logo="https://lh4.ggpht.com/z27PkpQtGH3J8Mgbq1m2YVq1VEdtRDleoOeQdYN1TqeUf-l3B0JVFSoK862m-nJ7KUE" group-title="NEWS قنوات الاخبار",AR:ALHADATH NEWS قنوات الاخبار
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL KHALIJ HD" tvg-logo="" group-title="NEWS قنوات الاخبار",AR:AL KHALIJ HD
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:TRT ARABIC HD" tvg-logo="https://pbs.twimg.com/profile_images/1046697395701108736/JY6De9Aa.jpg" group-title="NEWS قنوات الاخبار",AR:TRT ARABIC HD
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ORIENT HD" tvg-logo="https://i0.wp.com/frequencieschannels.info/wp-content/uploads/2018/07/%D8%A7%D9%88%D8%B1%D9%8A%D9%86%D8%AA-%D9%86%D9%8A%D9%88%D8%B2.jpg" group-title="NEWS قنوات الاخبار",AR:ORIENT FM
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:CGTN News" tvg-logo="" group-title="NEWS قنوات الاخبار",AR:CGTN NEWS قنوات الاخبار
+#EXTINF:-1 tvg-id="" tvg-name="AR:CGTN News" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",AR:CGTN NEWS قنوات الاخبار
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:CGTN News" tvg-logo="" group-title="NEWS قنوات الاخبار",AR:CGTN News SD
+#EXTINF:-1 tvg-id="" tvg-name="AR:CGTN News" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",AR:CGTN News SD
 https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ALARABY TV HD" tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=s180" group-title="NEWS قنوات الاخبار",AR:ALARABY TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
