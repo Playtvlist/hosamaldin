@@ -556,32 +556,25 @@ https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://image.winudf.com/v2/image/Y29tLnplZWUuYWZsYW0ubW9zYWxzYWxhdHNfaWNvbl8xNTE4ODY4NTg1XzAyOQ/icon.png?w=170&fakeurl=1&type=.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8
-#EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u aflam
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://static.wixstatic.com/media/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.png/v1/fill/w_318,h_278,al_c,q_85,usm_0.66_1.00_0.01/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.webp" group-title="قنوات أم بي سيMBC",b4u aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
-#EXTINF:0 tvg-id="B4UAflam.net" group-title="قنوات أم بي سيMBC",b4u plus
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/Q9VQEhviRoM/hqdefault.jpg" group-title="قنوات أم بي سيMBC",b4u plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 SD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 SD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max SD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC Action SD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama SD
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",AR:MY-MBC Masr SD
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.lmalshaml.com/upload/photos/2018/01/ORdN8CSRx2vFjKaduze2_05_ccc3a83e127219d946f33f5e78230b86_image.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxCms7GmbX-yzXAP6gH72PitMJ8wr9n9bhTR-Lgg8NIqTWXSe" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
