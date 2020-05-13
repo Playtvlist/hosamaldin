@@ -929,9 +929,18 @@ http://178.63.48.23:25461/Tunisia/zlczyGR3WY/154
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
-
-
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:ALGERIA 2
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/170
+#EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="ALGERIEN قنوات الجزائر",AR:ALGERIA 3
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/165
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR_ALGERIA 4
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/166
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR_SAMIRA TV
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/167
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Elheddaf TV
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/168
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:ENNAHAR TV
+http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/169
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya 1" tvg-logo="https://i0.wp.com/ksa5.net/wp-content/uploads/2018/08/Libya-One-Tv.jpg?resize=300%2C200&ssl=1" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 1
