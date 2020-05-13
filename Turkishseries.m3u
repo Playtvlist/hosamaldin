@@ -37,6 +37,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioMTUBP.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-11/studioANQNH.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E19
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/studioUYPFZ.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E20
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioQWTON.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ramez.Majnoon.Rasmi/1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E02
@@ -75,6 +77,8 @@ https://cdn.alarab.com/h264/155662_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155732_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E19
 https://cdn.alarab.com/h264/155812_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E20
+https://cdn.alarab.com/h264/155888_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E01
 https://roya-vod.ercdn.net/hls/5/ok/49pdssz1fbwuhxekvae8mxoiov0nndzqjdgeixtx/49pdssz1fbwuhxekvae8mxoiov0nndzqjdgeixtx.hb.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E02
@@ -113,6 +117,8 @@ https://roya-vod.ercdn.net/hls/-/8I/oxyraumaa5iftxokagzqfnnh33zoeusvgumustlj/oxy
 https://roya-vod.ercdn.net/hls/n/6B/eebu1sd1xctcvam13avplgtlhbpttynxw8t1a3bk/eebu1sd1xctcvam13avplgtlhbpttynxw8t1a3bk.hb.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E19
 https://roya-vod.ercdn.net/hls/S/PS/82rgqhbquwkoxvvatfon4u0jnselc2yqmked58xh/82rgqhbquwkoxvvatfon4u0jnselc2yqmked58xh.hb.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E20
+https://roya-vod.ercdn.net/hls/m/R2/iwppt199fiajtyl3yedk5csc74ywryrvwjosvagu/iwppt199fiajtyl3yedk5csc74ywryrvwjosvagu.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S2
@@ -151,6 +157,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsa
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/19.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S20
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E02
@@ -225,7 +233,6 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-08/studioGPCQH.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-09/studioNLBEX.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E17 الاخيره
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioEFRGQ.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E19
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/vidE197YTqQi8.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E02
@@ -264,6 +271,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/vidvQo5U6kLpX.smil/
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-11/vidMlmSRUK9kv.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E19
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/vidUZycEGV9sg.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E20
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/vidLVmwrzdO9G.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -330,6 +339,11 @@ https://cdn.alarab.com/h264/155589_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155669_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E18
 https://cdn.alarab.com/h264/155744_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E19
+https://cdn.alarab.com/h264/155860_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E20
+https://cdn.alarab.com/h264/155893_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E02
@@ -368,6 +382,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ahla.Ayam/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E19
 https://cdn.alarab.com/h264/155820_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E20
+https://cdn.alarab.com/h264/155887_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E01
 https://cdn.alarab.com/h264/154431_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E02
@@ -406,6 +423,8 @@ https://cdn.alarab.com/h264/155756_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155755_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E19
 
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E20
+https://cdn.alarab.com/h264/155902_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E01
 https://cdn.alarab.com/h264/154403_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E02
@@ -558,6 +577,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E19
 https://cdn.alarab.com/h264/155794_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E20
+https://cdn.alarab.com/h264/155871_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Awlad.Adam/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E02
@@ -596,6 +618,9 @@ https://cdn.alarab.com/h264/155660_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155713_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E19
 https://cdn.alarab.com/h264/155796_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E20
+https://cdn.alarab.com/h264/155875_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Yawmn.Ma/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E02
@@ -632,6 +657,11 @@ https://cdn.alarab.com/h264/155584_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155655_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E18
 https://cdn.alarab.com/h264/155725_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E19
+https://cdn.alarab.com/h264/155805_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E20
+https://cdn.alarab.com/h264/155883_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Mayada.We.Wlada/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E02
@@ -730,6 +760,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Amr.We.Diab/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E19
 https://cdn.alarab.com/h264/155818_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E20
+https://cdn.alarab.com/h264/155891_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioVLMMA.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E02
@@ -767,7 +800,10 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-11/studioHFDLA.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E18
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/studioLHXUS.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E19
-https://cdn.alarab.com/h264/155827_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioVHYEZ.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E20
+https://cdn.alarab.com/h264/155906_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E02
@@ -806,6 +842,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E19
 https://cdn.alarab.com/h264/155828_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E20
+https://cdn.alarab.com/h264/155901_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/The.End/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E02
@@ -882,6 +921,9 @@ https://cdn.alarab.com/h264/155676_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155750_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E19
 https://cdn.alarab.com/h264/155823_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E20
+https://cdn.alarab.com/h264/155898_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E01
 https://cdn.alarab.com/h264/154478_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E02
@@ -958,6 +1000,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Than
 https://cdn.alarab.com/h264/155728_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E19
 https://cdn.alarab.com/h264/155811_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E20
+https://cdn.alarab.com/h264/155882_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioQILWN.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E02
@@ -998,6 +1043,9 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioMBVFK.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-11/studioWFHUG.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E19
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/studioLRCHL.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E20
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioBTINE.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -1036,6 +1084,10 @@ https://cdn.alarab.com/h264/155670_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155745_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E19
 https://cdn.alarab.com/h264/155819_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E20
+https://cdn.alarab.com/h264/155894_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E21
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Be.100.Wesh/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E02
@@ -1074,6 +1126,9 @@ https://cdn.alarab.com/h264/155671_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155748_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E19
 https://cdn.alarab.com/h264/155825_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E20
+https://cdn.alarab.com/h264/155899_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/AlFotowa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الفتوة الحلقة S01E02
@@ -1153,6 +1208,8 @@ https://roya-vod.ercdn.net/hls/8/bi/uevlrgp2siygkdag9qa9aduilg7fc82mddlohe6x/uev
 https://roya-vod.ercdn.net/hls/m/B5/j3swxohrghql8wllvvtsr6ctimfxx6rvorrx2s0l/j3swxohrghql8wllvvtsr6ctimfxx6rvorrx2s0l.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E19
 https://roya-vod.ercdn.net/hls/L/1Q/rmxcyh9ygbzhyosui6tfolpd9khhycnen83bsjmi/rmxcyh9ygbzhyosui6tfolpd9khhycnen83bsjmi.hb.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E20
+https://roya-vod.ercdn.net/hls/P/oY/p3jjxxhlt58c0grjfh72i9ui59tbgaigconsqufx/p3jjxxhlt58c0grjfh72i9ui59tbgaigconsqufx.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alprince/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E02
@@ -1191,44 +1248,49 @@ https://cdn.alarab.com/h264/155673_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155749_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E19
 https://cdn.alarab.com/h264/155821_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E20
+https://cdn.alarab.com/h264/155900_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E01
-https://roya-vod.ercdn.net/hls/D/yK/seu1h6ce5e6bymigxpbvvoishwhhenwi01bkivdx/seu1h6ce5e6bymigxpbvvoishwhhenwi01bkivdx.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/D/yK/seu1h6ce5e6bymigxpbvvoishwhhenwi01bkivdx/seu1h6ce5e6bymigxpbvvoishwhhenwi01bkivdx.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E02
-https://roya-vod.ercdn.net/hls/Y/9j/nlk1kpxz90eiumkna1fcsajlipfjj6cjwpjw0mx2/nlk1kpxz90eiumkna1fcsajlipfjj6cjwpjw0mx2.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/Y/9j/nlk1kpxz90eiumkna1fcsajlipfjj6cjwpjw0mx2/nlk1kpxz90eiumkna1fcsajlipfjj6cjwpjw0mx2.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E03
-https://roya-vod.ercdn.net/hls/P/f6/oc8yhmddy0twoeocexhqjm7xm20xopq18kefvl6t/oc8yhmddy0twoeocexhqjm7xm20xopq18kefvl6t.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/P/f6/oc8yhmddy0twoeocexhqjm7xm20xopq18kefvl6t/oc8yhmddy0twoeocexhqjm7xm20xopq18kefvl6t.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E04
-https://roya-vod.ercdn.net/hls/Z/to/fhi3ozngbdw3elqrcr1pr7kuqtkzefxpd3yc8iun/fhi3ozngbdw3elqrcr1pr7kuqtkzefxpd3yc8iun.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/Z/to/fhi3ozngbdw3elqrcr1pr7kuqtkzefxpd3yc8iun/fhi3ozngbdw3elqrcr1pr7kuqtkzefxpd3yc8iun.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E05
-https://roya-vod.ercdn.net/hls/n/6r/lhhltaeh6pkbha9kvrahqh7vjqprteb2qof2y436/lhhltaeh6pkbha9kvrahqh7vjqprteb2qof2y436.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/n/6r/lhhltaeh6pkbha9kvrahqh7vjqprteb2qof2y436/lhhltaeh6pkbha9kvrahqh7vjqprteb2qof2y436.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E06
-https://roya-vod.ercdn.net/hls/9/fZ/0zsjr53bpeinqrhyipqdnsrpi7a2mll72etum4ux/0zsjr53bpeinqrhyipqdnsrpi7a2mll72etum4ux.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/9/fZ/0zsjr53bpeinqrhyipqdnsrpi7a2mll72etum4ux/0zsjr53bpeinqrhyipqdnsrpi7a2mll72etum4ux.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E07
-https://roya-vod.ercdn.net/hls/a/tK/rfmsgriq9hrizicsvp5t3kk0tcfwn8lt5gusm534/rfmsgriq9hrizicsvp5t3kk0tcfwn8lt5gusm534.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/a/tK/rfmsgriq9hrizicsvp5t3kk0tcfwn8lt5gusm534/rfmsgriq9hrizicsvp5t3kk0tcfwn8lt5gusm534.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E08
-https://roya-vod.ercdn.net/hls/u/dh/ou0pdhfaipbov4xandcg5tcqh10srosnvv3zoyuh/ou0pdhfaipbov4xandcg5tcqh10srosnvv3zoyuh.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/u/dh/ou0pdhfaipbov4xandcg5tcqh10srosnvv3zoyuh/ou0pdhfaipbov4xandcg5tcqh10srosnvv3zoyuh.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E09
-https://roya-vod.ercdn.net/hls/8/aP/86pwsiq9zetwkebuxydpudtz0ieydclval3ltkgf/86pwsiq9zetwkebuxydpudtz0ieydclval3ltkgf.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/8/aP/86pwsiq9zetwkebuxydpudtz0ieydclval3ltkgf/86pwsiq9zetwkebuxydpudtz0ieydclval3ltkgf.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E10
-https://roya-vod.ercdn.net/hls/3/8R/vphhxfmznnsyfasl8usmnz2vnune999h2uiegzza/vphhxfmznnsyfasl8usmnz2vnune999h2uiegzza.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/3/8R/vphhxfmznnsyfasl8usmnz2vnune999h2uiegzza/vphhxfmznnsyfasl8usmnz2vnune999h2uiegzza.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E11
-https://roya-vod.ercdn.net/hls/R/iN/c6qhqtlysqndls8iqgbpfxwate6aoh2sbehr55w7/c6qhqtlysqndls8iqgbpfxwate6aoh2sbehr55w7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/R/iN/c6qhqtlysqndls8iqgbpfxwate6aoh2sbehr55w7/c6qhqtlysqndls8iqgbpfxwate6aoh2sbehr55w7.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E12
-https://roya-vod.ercdn.net/hls/p/WC/4churxbc9cxoasj1bvlu6xp1pdh6hr9i0jor8mey/4churxbc9cxoasj1bvlu6xp1pdh6hr9i0jor8mey.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/p/WC/4churxbc9cxoasj1bvlu6xp1pdh6hr9i0jor8mey/4churxbc9cxoasj1bvlu6xp1pdh6hr9i0jor8mey.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E13
-https://roya-vod.ercdn.net/hls/p/4G/wrxt6lpg0vqgpeowtxuusjoej6tjte7pm0pr7gr7/wrxt6lpg0vqgpeowtxuusjoej6tjte7pm0pr7gr7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/p/4G/wrxt6lpg0vqgpeowtxuusjoej6tjte7pm0pr7gr7/wrxt6lpg0vqgpeowtxuusjoej6tjte7pm0pr7gr7.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E14
-https://roya-vod.ercdn.net/hls/f/z6/d9n9d5cnbujbayvnspmyqvw8ohd98irssiukfd6n/d9n9d5cnbujbayvnspmyqvw8ohd98irssiukfd6n.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/f/z6/d9n9d5cnbujbayvnspmyqvw8ohd98irssiukfd6n/d9n9d5cnbujbayvnspmyqvw8ohd98irssiukfd6n.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E15
-https://roya-vod.ercdn.net/hls/D/le/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/D/le/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky/zx13yggypasr4d9fni6a5avwfzo3cnzjrop3caky.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E16
-https://roya-vod.ercdn.net/hls/4/BE/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/4/BE/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl/pskpqwygbjkorbuqxicmgk4vprkody1mw8589ykl.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E17
-https://roya-vod.ercdn.net/hls/d/FO/iyibx6dbnl8hl7jhzvojji0m09ga10rwz5ikkct7/iyibx6dbnl8hl7jhzvojji0m09ga10rwz5ikkct7.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/d/FO/iyibx6dbnl8hl7jhzvojji0m09ga10rwz5ikkct7/iyibx6dbnl8hl7jhzvojji0m09ga10rwz5ikkct7.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E18
-https://roya-vod.ercdn.net/hls/_/DX/kh8hm5wm7smmaibobctqztjfhjxas818q6dyu19a/kh8hm5wm7smmaibobctqztjfhjxas818q6dyu19a.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/_/DX/kh8hm5wm7smmaibobctqztjfhjxas818q6dyu19a/kh8hm5wm7smmaibobctqztjfhjxas818q6dyu19a.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E19
-https://roya-vod.ercdn.net/hls/J/df/vjhygokiqcrucaskowhlzyi3ztrbaabzdnieto10/vjhygokiqcrucaskowhlzyi3ztrbaabzdnieto10.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
+https://roya-vod.ercdn.net/hls/J/df/vjhygokiqcrucaskowhlzyi3ztrbaabzdnieto10/vjhygokiqcrucaskowhlzyi3ztrbaabzdnieto10.hb.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E20
+https://roya-vod.ercdn.net/hls/M/BS/n8ra1gbuckbxtixbhtcn1itwpgc9czacef2kqmci/n8ra1gbuckbxtixbhtcn1itwpgc9czacef2kqmci.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E01
 https://cdn.alarab.com/h264/154434_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E02
@@ -1267,6 +1329,9 @@ https://cdn.alarab.com/h264/155746_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155743_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E19
 https://cdn.alarab.com/h264/155817_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E20
+https://cdn.alarab.com/h264/155903_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wilad.Embaba/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E02
@@ -1497,6 +1562,9 @@ https://cdn.alarab.com/h264/155663_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155740_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فلانتينو الحلقة S01E19
 https://cdn.alarab.com/h264/155814_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فلانتينو الحلقة S01E20
+https://cdn.alarab.com/h264/155889_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فلانتينو الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E01
 https://cdn.alarab.com/h264/154372_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E02
@@ -1543,6 +1611,8 @@ https://cdn.alarab.com/h264/155679_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155760_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E23
 https://cdn.alarab.com/h264/155830_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E24
+https://cdn.alarab.com/h264/155910_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
@@ -1623,6 +1693,9 @@ https://cdn.alarab.com/h264/155666_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155739_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E19
 https://cdn.alarab.com/h264/155815_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E20
+https://cdn.alarab.com/h264/155895_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E01
 https://cdn.alarab.com/h264/154444_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E02
@@ -1659,6 +1732,11 @@ https://cdn.alarab.com/h264/155575_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155651_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E18
 https://cdn.alarab.com/h264/155722_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E19
+https://cdn.alarab.com/h264/155803_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E20
+https://cdn.alarab.com/h264/155873_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E21
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E01
 https://roya-vod.ercdn.net/hls/q/rp/ylhj4sj13x7l6mzpgd6zmawbw0yjbkpndihwpzjt/ylhj4sj13x7l6mzpgd6zmawbw0yjbkpndihwpzjt.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E02
@@ -1697,6 +1775,8 @@ https://roya-vod.ercdn.net/hls/t/-E/ssmogcfm2emtlye4cjvh601ef0v2kekk7x0szqrg/ssm
 https://roya-vod.ercdn.net/hls/6/Gp/itsjqulhyna6bmgf4tjfdzq2k08tzavvwaqitsqf/itsjqulhyna6bmgf4tjfdzq2k08tzavvwaqitsqf.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E19
 https://roya-vod.ercdn.net/hls/w/hy/2ht0vil7c92zoc4mebnswvbaxuoe4agmpd9qk2nr/2ht0vil7c92zoc4mebnswvbaxuoe4agmpd9qk2nr.hb.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E20
+https://roya-vod.ercdn.net/hls/l/By/promosxt5w4f0x2ta6vjgrt5zz6jaxmi6xpgxlejjo52ra/promosxt5w4f0x2ta6vjgrt5zz6jaxmi6xpgxlejjo52ra.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
@@ -1737,6 +1817,8 @@ https://cdn.alarab.com/h264/155646_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155715_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E19
 https://cdn.alarab.com/h264/155798_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E20
+https://cdn.alarab.com/h264/155874_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Makhraj.7/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E02
@@ -1775,6 +1857,9 @@ https://cdn.alarab.com/h264/155661_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155731_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E19
 https://cdn.alarab.com/h264/155810_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E20
+https://cdn.alarab.com/h264/155886_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E01
 https://cdn.alarab.com/h264/154433_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E02
@@ -1813,6 +1898,9 @@ https://cdn.alarab.com/h264/155641_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155711_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E19
 https://cdn.alarab.com/h264/155793_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E20
+https://cdn.alarab.com/h264/155869_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E21
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioXJCPY.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E02
@@ -1851,6 +1939,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-10/studioMFKYI.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-11/studioBRWRZ.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E19
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/studioPSVFC.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E20
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioZDPJV.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Heia.Wa.Banatha/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E02
