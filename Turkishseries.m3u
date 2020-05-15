@@ -41,6 +41,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-12/studioUYPFZ.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioQWTON.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E21
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/studioCATBH.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E22
+https://admv.cdn.mangomolo.com/vod/_definst_/mp4:2020-05-15/studioBKYZD.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ramez.Majnoon.Rasmi/1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E02
@@ -341,6 +343,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/vidLVmwrzdO9G.smil/
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E21
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/vidldSxQgLcnR.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E22
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-15/vidAujtaeMDQ7.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -1178,6 +1181,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioBTINE.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E21
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/studioLTSTI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E22
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-15/studioCBFMF.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Khenayet.Ahd/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E02
@@ -2058,6 +2062,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioHSKIO.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E21
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/studioMJHII.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E22
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-15/studioFEYJY.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alkon.Fe.Kaffa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E02
@@ -2232,6 +2237,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-13/studioZDPJV.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E21
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/studioHLHFB.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E22
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-15/studioLRCZK.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Heia.Wa.Banatha/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E02
