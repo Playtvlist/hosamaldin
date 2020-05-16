@@ -134,6 +134,8 @@ https://roya-vod.ercdn.net/hls/m/R2/iwppt199fiajtyl3yedk5csc74ywryrvwjosvagu/iwp
 https://roya-vod.ercdn.net/hls/k/C_/emgsnxeta5s4wnkh2vz7m97lbjfkqnetnva0f1ca/emgsnxeta5s4wnkh2vz7m97lbjfkqnetnva0f1ca.hb.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E22
 https://roya-vod.ercdn.net/hls/t/SZ/3hirob8njh7ifdrv9r3xrocwkbuhfr9tnup14ypq/3hirob8njh7ifdrv9r3xrocwkbuhfr9tnup14ypq.hb.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E23
+https://roya-vod.ercdn.net/hls/E/4M/tcqhwpky0kep7kfa65wofmjibnxnyiixwpohcrq2/tcqhwpky0kep7kfa65wofmjibnxnyiixwpohcrq2.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S2
@@ -2034,6 +2036,7 @@ https://roya-vod.ercdn.net/hls/d/oi/xjdhdm2sno3wymvfpgpzjckohwzlrroi2m1ltrbc/xjd
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E22
 https://roya-vod.ercdn.net/hls/U/bt/siv666xruehmpy8nnybrtye5spt2gy7to5psod6b/siv666xruehmpy8nnybrtye5spt2gy7to5psod6b.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E23
+https://roya-vod.ercdn.net/hls/C/a7/0q8i7w2jhmugqktdcobd4ezvhdkgy3ljas3pxrv4/0q8i7w2jhmugqktdcobd4ezvhdkgy3ljas3pxrv4.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioJMLGG.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E02
