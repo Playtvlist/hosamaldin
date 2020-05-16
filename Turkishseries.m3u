@@ -179,6 +179,10 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsa
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/20.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/21.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/23.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S2
@@ -222,10 +226,10 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/21.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S22
-
-#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S1
-
-#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/23.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S24
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
