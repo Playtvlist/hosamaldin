@@ -272,6 +272,7 @@ https://cdn.alarab.com/h264/155998_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E22
 https://cdn.alarab.com/h264/156064_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E23
+https://cdn.alarab.com/h264/156145_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioCNBDL.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الساحر الحلقة S01E02
@@ -1507,6 +1508,8 @@ https://roya-vod.ercdn.net/hls/M/BS/n8ra1gbuckbxtixbhtcn1itwpgc9czacef2kqmci/n8r
 https://roya-vod.ercdn.net/hls/P/HS/8gd603fjtxsugxhvf9xabmwe45xqahgy14nxa44v/8gd603fjtxsugxhvf9xabmwe45xqahgy14nxa44v.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E22
 https://roya-vod.ercdn.net/hls/2/ON/rr7niopbvjr4hftshcu9vinlidpyxooxkkactjvn/rr7niopbvjr4hftshcu9vinlidpyxooxkkactjvn.hb.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E23
+https://roya-vod.ercdn.net/hls/m/TZ/fvsdkrjcjdcdxjivovvwgzlumgljno61xqqxf5x8/fvsdkrjcjdcdxjivovvwgzlumgljno61xqqxf5x8.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E01
 https://cdn.alarab.com/h264/154434_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E02
@@ -2489,6 +2492,8 @@ https://cdn.alarab.com/h264/155921_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155997_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E26
 https://cdn.alarab.com/h264/156063_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E27
+https://cdn.alarab.com/h264/156144_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E01
 https://cdn.alarab.com/h264/154349_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E02
