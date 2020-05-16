@@ -254,7 +254,7 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA MUBASHER HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA MUBASHER SD
 https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL ARABIYA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AR:AL ARABIYA HD
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL ARABIYA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AR:AL ARABIYA SD
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL HADATH HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD
