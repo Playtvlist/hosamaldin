@@ -835,42 +835,34 @@ http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ON-Drama
 #EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_Inter
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al AOULA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al AOULA SD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",2M-MONDE
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8?1771843912
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",2M-MONDE
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRYADIA -3
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8?1771803916
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRABIAA HD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-AL MAGHRIBIA HD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8?90571030
-#EXTINF:0 tvg-id="Assadissa.ma" group-title="MAROCCO قنوات المغرب العربي",ASSADISSA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8?1771803916
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",tamazight_tv8
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8?1771803916
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Medi1tvmaghreb
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1693913952.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",M 24 HD
-http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w812278845_b4500000_sleng.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",M 24 SD
-http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w812278845_b850000_sleng.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Rasd TV
-https://593fa17dec176.streamlock.net:455/rasdtv/rasdtv/chunklist_w668111406.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
-http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1604542278.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-AL MAGHRIBIA HD TNT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Télé Maroc
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png" group-title="MAROCCO قنوات المغرب العربي",AL_ 2M MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png" group-title="MAROCCO قنوات المغرب العربي",AL_ 2M MONDE+
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/index.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://1.bp.blogspot.com/-LH1JM7FhJEI/XSx2AAzrSrI/AAAAAAAADxo/SnAIBZdo8G041sBPnQpsiehtsmmEYCU0QCLcBGAs/s1600/24112016-090604PM.png" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRYADIA -3
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4aqad=1.m3u8" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRABIAA HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1=3-mp4aqad=1.m3u8?
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="MAROCCO قنوات المغرب العربي",AR:MR-AL MAGHRIBIA HD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/assadissax2-1.png" group-title="MAROCCO قنوات المغرب العربي",ASSADISSA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MAROCCO قنوات المغرب العربي",tamazight tv8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1=4-mp4aqad=1.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://img.medi1tv.com/live_medi1tvarabic_visuel.jpg?1" group-title="MAROCCO قنوات المغرب العربي",Medi1tv Maghreb
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://1.bp.blogspot.com/-wCdmc9Bfmoc/XiS0MmHzabI/AAAAAAAAC7A/lUmaxdlvvJEd5WbBMgkdQafUxMj3sa5AgCLcBGAsYHQ/s320/M24%2BMaroc.jpg" group-title="MAROCCO قنوات المغرب العربي",M 24 HD
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eh-rasd-tv.jpg" group-title="MAROCCO قنوات المغرب العربي",Rasd TV
+https://593fa17dec176.streamlock.net:455/rasdtv/rasdtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://4.bp.blogspot.com/-TN0YtDBUDWg/W8ijX9oxICI/AAAAAAAACrU/3B2euDYSk5chyZDlOwtvjoDuxHNC1NanQCLcBGAs/s1600/medi%2B1%2Btv.jpg" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
+http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://lh3.googleusercontent.com/lV1chnEuF1Hp166fw_JX7M2wD8C3InUDZzr4zzcFF6mk3c1Y8-q5lUtUXviuaACYQA=s180" group-title="MAROCCO قنوات المغرب العربي",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al Magharibia TV
-http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
@@ -900,6 +892,8 @@ http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/167
 http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/168
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:ENNAHAR TV
 http://178.63.48.23:25461/ALGERIAwww.vviruslove.com/airmaxtv/169
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Awraas TV
+http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:LIB-Libya 1" tvg-logo="https://i0.wp.com/ksa5.net/wp-content/uploads/2018/08/Libya-One-Tv.jpg?resize=300%2C200&ssl=1" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 1
