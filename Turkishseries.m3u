@@ -45,6 +45,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/studioCATBH.smil/ch
 https://admv.cdn.mangomolo.com/vod/_definst_/mp4:2020-05-15/studioBKYZD.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E23
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-16/studioBJSCK.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E24
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-17/studioOSCPV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Ramez.Majnoon.Rasmi/1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E02
@@ -357,6 +359,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-14/vidldSxQgLcnR.smil/
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-15/vidAujtaeMDQ7.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E23
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-16/vid6MGaNthPl7.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E24
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-17/vidxSX3on5Du1.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -571,6 +575,9 @@ https://cdn.alarab.com/h264/155935_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156011_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E23
 https://cdn.alarab.com/h264/156085_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E24
+https://cdn.alarab.com/h264/156162_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E25
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E01
 https://belugacdn.shoofmax.com/brokar/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E02
@@ -617,6 +624,8 @@ https://belugacdn.shoofmax.com/brokar/ep21/720p/index.m3u8
 https://belugacdn.shoofmax.com/brokar/ep22/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E23
 https://belugacdn.shoofmax.com/brokar/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E24
+https://belugacdn.shoofmax.com/brokar/ep24/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E01
 https://belugacdn.shoofmax.com/joker/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E02
@@ -663,6 +672,8 @@ https://belugacdn.shoofmax.com/joker/ep21/720p/index.m3u8
 https://belugacdn.shoofmax.com/joker/ep22/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E23
 https://belugacdn.shoofmax.com/joker/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E24
+https://belugacdn.shoofmax.com/joker/ep24/720p/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E02
@@ -709,6 +720,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/
 https://cdn.alarab.com/h264/156026_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/23.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/24.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Awlad.Adam/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E02
@@ -849,6 +862,9 @@ https://cdn.alarab.com/h264/156012_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156010_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E23
 https://cdn.alarab.com/h264/156086_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E24
+https://cdn.alarab.com/h264/156159_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E01
 https://cdn.alarab.com/h264/154418_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E02
@@ -1607,6 +1623,12 @@ https://cdn.alarab.com/h264/155854_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E21
 https://cdn.alarab.com/h264/155932_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E22
+https://cdn.alarab.com/h264/156008_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E23
+https://cdn.alarab.com/h264/156083_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E24
+https://cdn.alarab.com/h264/156156_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Lo3bat.Alnesian/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",لعبة النسيان الحلقة S01E02
@@ -1749,6 +1771,9 @@ https://cdn.alarab.com/h264/155954_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156027_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E23
 https://cdn.alarab.com/h264/156105_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E24
+https://cdn.alarab.com/h264/156176_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونسني الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wansni/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونسني الحلقة S01E02
@@ -1802,6 +1827,7 @@ https://cdn.alarab.com/h264/156033_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونسني الحلقة S01E26
 https://cdn.alarab.com/h264/156108_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونسني الحلقة S01E27
+https://cdn.alarab.com/h264/156178_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فلانتينو الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Valentino/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فلانتينو الحلقة S01E02
@@ -2089,6 +2115,8 @@ https://roya-vod.ercdn.net/hls/d/oi/xjdhdm2sno3wymvfpgpzjckohwzlrroi2m1ltrbc/xjd
 https://roya-vod.ercdn.net/hls/U/bt/siv666xruehmpy8nnybrtye5spt2gy7to5psod6b/siv666xruehmpy8nnybrtye5spt2gy7to5psod6b.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E23
 https://roya-vod.ercdn.net/hls/C/a7/0q8i7w2jhmugqktdcobd4ezvhdkgy3ljas3pxrv4/0q8i7w2jhmugqktdcobd4ezvhdkgy3ljas3pxrv4.hb.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E24
+https://roya-vod.ercdn.net/hls/i/oh/xu8qnhem81qwwrjv3ioq9xa8wsag46goglpohfc6/xu8qnhem81qwwrjv3ioq9xa8wsag46goglpohfc6.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioJMLGG.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E02
@@ -2225,6 +2253,9 @@ https://cdn.alarab.com/h264/155874_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155953_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E23
 https://cdn.alarab.com/h264/156104_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E24
+https://cdn.alarab.com/h264/156174_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Makhraj.7/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E02
@@ -2312,6 +2343,9 @@ https://cdn.alarab.com/h264/155945_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156018_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E23
 https://cdn.alarab.com/h264/156096_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E24
+https://cdn.alarab.com/h264/156168_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioXJCPY.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E02
@@ -2406,6 +2440,9 @@ https://cdn.alarab.com/h264/155938_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156015_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E23
 https://cdn.alarab.com/h264/156092_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E24
+https://cdn.alarab.com/h264/156165_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",هيا وبناتها الحلقة S01E25
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E01
 https://cdn.alarab.com/h264/154389_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E02
