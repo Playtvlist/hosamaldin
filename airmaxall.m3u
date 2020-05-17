@@ -190,59 +190,57 @@ https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",KSA SPORTS 2 low
 https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ALKASS_1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ALKASS_2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ALKASS_3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ALKASS_4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ALKASS_5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master.m3u8
 #EXTINF:0 tvg-id="ADSports1.net" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ADSports2.net" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ADSports3.net" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ADSports4.net" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ON-Sport
-http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai SPORT
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DubaiRacing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ADSports4.net" group-title="قنوات رياضية SPORT",Abu Dhabi Sports Yas TV
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai SPORT 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai SPORT 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai SPORT 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DubaiRacing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DubaiRacing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",البحرين الرياضية
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Oman SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Jordan SPORT
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1593498413.m3u8
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Nile SPORT
 http://livecdnh2.tvanywhere.ae/hls/nile_sp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="RealMadridTV.sp" group-title="قنوات رياضية SPORT",REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dsports_HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:0 tvg-id="BetisTV.es" group-title="قنوات رياضية SPORT",Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:0 tvg-id="ntv-football-3" group-title="قنوات رياضية SPORT",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
@@ -874,7 +872,7 @@ http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
-http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+http://livecdnh2.tvanywhere.ae/hls/nessma/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية
