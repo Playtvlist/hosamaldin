@@ -311,7 +311,6 @@ http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe09
 #EXTINF:-1 tvg-id="" tvg-name="AR: I NEWS قنوات الاخبار" tvg-logo="" group-title="NEWS قنوات الاخبار",AR: I NEWS قنوات الاخبار
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",▂ ▄ ▅ ▆☆ قنوات الوثائقية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi FHD
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi
@@ -336,54 +335,51 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="data:image/jpeg;base64,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" group-title="قنوات الوثائقية",History HD
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.arabpage.net/wp-content/uploads/2020/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-%D9%83%D9%8A%D8%AF%D8%B2.jpg" group-title="قنوات أطفال",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Rotana Kids SD
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.arabpage.net/wp-content/uploads/2020/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-%D9%83%D9%8A%D8%AF%D8%B2.jpg" group-title="قنوات أطفال",Rotana Kids SD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/WWvfLG_v0k4/maxresdefault.jpg" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="قنوات أطفال",Bein: Baraeem
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/147
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:JUNIOR KIDS
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn.webshopapp.com/shops/212168/files/178962416/432x432x2/junior.jpg" group-title="قنوات أطفال",Bein:JUNIOR KIDS
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/148
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",OSN HD : OSN Disney Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1345_1.png" group-title="قنوات أطفال",OSN HD : OSN Disney Channel HD
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/138
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
 http://178.63.48.23:25461/Toyor/AkZkeKfFlT/149
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TOM & JERRY
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال",TOM & JERRY
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/79
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
-
-#EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أطفال",MBC 3 SD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:SPACETOON
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar Karameesh
-http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1794372416_b1000000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:Sat7_Kids
-http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids HD
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids SD
-http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",boomerang Kids (EN)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",duck Kids 
-http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",تــوم و جــيـري 1
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال",TOM & JERRY+
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="قنوات أطفال",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="قنوات أطفال",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="قنوات أطفال",MBC 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال",Ar:SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://ewsat.com/img/KARAMEESH.png" group-title="قنوات أطفال",Ar Karameesh
+http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1794372416_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i1.sndcdn.com/avatars-000438481119-ylncqe-t500x500.jpg" group-title="قنوات أطفال",Ar:Sat7_Kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال",AR Majid_Kids HD
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال",AR Majid_Kids SD
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="قنوات أطفال",boomerang Kids (EN)
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/84/50/duck-animal-cartoon-for-children-vector-6268450.jpg" group-title="قنوات أطفال",duck Kids 
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="قنوات أطفال",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="قنوات أطفال",Baby First
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="قنوات أطفال",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",3ABN قنوات أطفال
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="قنوات أطفال",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TUNTUNIK
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/1fd2ed7488bc557c75660ae4f01584f2.png" group-title="قنوات أطفال",TUNTUNIK
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",مستر بن
 https://i.top4top.io/m_1479evu575.mp4
@@ -471,6 +467,7 @@ https://c.top4top.io/m_1478z2r0g8.mp4
 https://d.top4top.io/m_1478gjj249.mp4
 #EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",VIDEO KIDS (36)
 https://f.top4top.io/m_1478xin5l0.mp4
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
