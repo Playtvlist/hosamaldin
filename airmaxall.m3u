@@ -351,8 +351,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i1.sndcdn.com/avatars-000438481119-ylncqe-t500x500.jpg" group-title="قنوات أطفال",Ar:Sat7_Kids
-http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/cb94040630343f5e440c2e50ea0be67c.png" group-title="قنوات أطفال",TAHA Kids TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/WWvfLG_v0k4/maxresdefault.jpg" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="قنوات أطفال",Bein: Baraeem
@@ -459,7 +459,6 @@ https://c.top4top.io/m_1478z2r0g8.mp4
 https://d.top4top.io/m_1478gjj249.mp4
 #EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",VIDEO KIDS (36)
 https://f.top4top.io/m_1478xin5l0.mp4
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
