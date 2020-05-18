@@ -857,11 +857,7 @@ http://livecdnh2.tvanywhere.ae/hls/nessma/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية
-http://92.222.93.75:1935/live2/samir/chunklist_w2080476669.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 1 TV
-http://178.63.48.23:25461/Tunisia/zlczyGR3WY/153
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE 2 TV
-http://178.63.48.23:25461/Tunisia/zlczyGR3WY/154
+http://92.222.93.75:1935/live2/samir/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الحوار
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
