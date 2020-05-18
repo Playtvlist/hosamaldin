@@ -557,6 +557,8 @@ http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
+http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA AL AOULA" tvg-logo="https://www.wataan.com/uploads/1062019-061503AM.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-EL TARBAOUIA" tvg-logo="https://2.bp.blogspot.com/-yfUsQdiUvs0/XCcqSUT_c2I/AAAAAAAABUQ/XESFvTzw5QUx76qkMXUV2omf_ffT6qerQCLcBGAs/s1600/images.jpg" group-title="Syria قنوات سورية",AR:SYR-EL TARBAOUIA
@@ -1059,8 +1061,8 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-FUJAIRA HD" tvg-logo="https://2.bp.blogspot.com/-UULrI1stC1E/W2sn2gUcW_I/AAAAAAAAIMQ/P_FCRyc_wo4gF139ee0MmKXUS5rVo-3dACLcBGAs/s250-c/amakendrama.png" group-title="قنوات الامارات EMIRATES",AR:DUB-FUJAIRA HD
 rtmp://ccfz.dyndns.org/fujtv//livestream1?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-HAWAS" tvg-logo="https://pbs.twimg.com/profile_images/971736978847920128/hkx-kHgk.jpg" group-title="قنوات الامارات EMIRATES",AR:DUB-HAWAS
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:DUB-HAWAS" tvg-logo="https://www.1arablive.com/livetv/assets/images/1546446201.jpg" group-title="قنوات الامارات EMIRATES",AR:sharqiya from kalba
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-Sharjah" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD7SLzGLhWfvOjl4NHhSD5Dqppkosid9i85Pg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-Sharjah
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALAN" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="قنوات الامارات EMIRATES",AR:DUB-ALAN HD
