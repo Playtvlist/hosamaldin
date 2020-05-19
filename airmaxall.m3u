@@ -626,7 +626,9 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL MANAR HD" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL MANAR HD
 https://manar.live/iptv/chunklist.m3u8?v=
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL HD
-http://cdn.catiacast.video/tl/cad9e8dcbf3eca0f7c2af160b1913cf4.sdp/chunks.m3u8
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL +
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/3137092e17ee31bf38a832f9ee247163.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- AL-IMAN-TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL Mayadeen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
@@ -703,6 +705,8 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:JR-Roya TV" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",AR:JR-Roya TV HD
 https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan TV" tvg-logo="https://2.bp.blogspot.com/-49PaY5oCsx4/W38dDr446rI/AAAAAAAAA5o/pLe7o66nBWYwNLuJRuFiVJq-ovb6_ImLwCLcBGAs/s1600/Jordan%2BTV.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:JR-Jordan TV" tvg-logo="https://2.bp.blogspot.com/-49PaY5oCsx4/W38dDr446rI/AAAAAAAAA5o/pLe7o66nBWYwNLuJRuFiVJq-ovb6_ImLwCLcBGAs/s1600/Jordan%2BTV.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
 http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:JR-Amman TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBqEOaU3jt-j8BG0Fj0a2KxgD_b2JrynnYzLQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="JORDAN قنوات الاردن",AR:JR-Amman TV HD
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
