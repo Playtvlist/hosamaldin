@@ -864,6 +864,16 @@ http://92.222.93.75:1935/live2/samir/chunklist.m3u8
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w681571617_b1392000_slAR.m3u8?v=
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",ALqanat9 SD
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w681571617_b1042000_slAR.m3u8?v=
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Sahel TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Tunimmob TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania1
+http://195.154.136.160:8080/hls/t1.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania2
+http://195.154.136.160:8080/hls/t2.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Elhiwaret Tounsi
+http://195.154.136.160:8080/hls/at.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
