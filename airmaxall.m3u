@@ -616,13 +616,13 @@ http://livecdnh2.tvanywhere.ae/hls/future/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ETIHAD-TV" tvg-logo="https://4.bp.blogspot.com/-69FmNRau9mY/XLI80p-7K7I/AAAAAAAAA5g/O6uzNkf6dkUmNJhCB4tIEoM2M0Vb5rwDgCLcBGAs/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AA%25D8%25AD%25D8%25A7%25D8%25AF%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25B6%25D8%25A7%25D8%25A6%25D9%258A%25D8%25A9.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
-https://live.alittihad.tv/ittihad/chunklist_w126257029.m3u8
+https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-OTV HD" tvg-logo="http://awaelnews.com/wp-content/uploads/2018/12/9C4E460C-4D46-4DE4-B79F-F3E34ACCAEA7.png" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-OTV HD" tvg-logo="http://awaelnews.com/wp-content/uploads/2018/12/9C4E460C-4D46-4DE4-B79F-F3E34ACCAEA7.png" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD+
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL MANAR HD" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL MANAR HD
-https://manar.live/iptv/chunklist.m3u8?v=
+https://manar.live/iptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL HD
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL +
