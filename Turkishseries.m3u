@@ -292,26 +292,27 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhare
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/14.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E15
-https://cdn.alarab.com/h264/155542_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/15.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E16
-https://cdn.alarab.com/h264/155604_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/16.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E17
-https://cdn.alarab.com/h264/155685_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/17.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E19
-https://cdn.alarab.com/h264/155837_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/19.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E20
-https://cdn.alarab.com/h264/155918_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/20.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E21
-https://cdn.alarab.com/h264/155998_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/21.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E22
-https://cdn.alarab.com/h264/156064_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/22.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E23
-https://cdn.alarab.com/h264/156145_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/23.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E24
-https://cdn.alarab.com/h264/156214_720p.mp4/index-v1-a1.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/24.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E25
+https://cdn.alarab.com/h264/156291_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E28
@@ -485,6 +486,7 @@ https://cdn.alarab.com/h264/156124_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E24
 https://cdn.alarab.com/h264/156192_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E25
+https://cdn.alarab.com/h264/156273_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",حارس القدس الحلقة S01E28
@@ -594,6 +596,7 @@ https://cdn.alarab.com/h264/156132_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E24
 https://cdn.alarab.com/h264/156249_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E25
+https://cdn.alarab.com/h264/156281_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E28
@@ -867,6 +870,13 @@ https://cdn.alarab.com/h264/156000_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156070_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E24
 https://cdn.alarab.com/h264/156147_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E25
+https://cdn.alarab.com/h264/156215_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E26
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E27
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E28
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E29
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أولاد آدم الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Yawmn.Ma/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E02
@@ -1048,6 +1058,7 @@ https://cdn.alarab.com/h264/156117_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E24
 https://cdn.alarab.com/h264/156193_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E25
+https://cdn.alarab.com/h264/156272_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",عمر ودياب الحلقة S01E28
@@ -1156,6 +1167,7 @@ https://cdn.alarab.com/h264/156126_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E24
 https://cdn.alarab.com/h264/156197_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E25
+https://cdn.alarab.com/h264/156275_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E28
@@ -1210,6 +1222,7 @@ https://cdn.alarab.com/h264/156142_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E24
 https://cdn.alarab.com/h264/156212_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E25
+https://cdn.alarab.com/h264/156287_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E28
@@ -1264,6 +1277,7 @@ https://cdn.alarab.com/h264/156128_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E24
 https://cdn.alarab.com/h264/156207_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E25
+https://cdn.alarab.com/h264/156277_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ليالينا 80 الحلقة S01E28
@@ -1318,6 +1332,7 @@ https://cdn.alarab.com/h264/156139_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E24
 https://cdn.alarab.com/h264/156210_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E25
+https://cdn.alarab.com/h264/156286_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E28
@@ -1484,6 +1499,7 @@ https://cdn.alarab.com/h264/156123_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E24
 https://cdn.alarab.com/h264/156196_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E25
+https://cdn.alarab.com/h264/156274_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E28
@@ -1538,6 +1554,7 @@ https://cdn.alarab.com/h264/156130_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E24
 https://cdn.alarab.com/h264/156198_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E25
+https://cdn.alarab.com/h264/156276_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",بـ100 وش الحلقة S01E28
@@ -1702,6 +1719,7 @@ https://cdn.alarab.com/h264/156131_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E24
 https://cdn.alarab.com/h264/156200_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E25
+https://cdn.alarab.com/h264/156278_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E28
@@ -1756,6 +1774,7 @@ https://roya-vod.ercdn.net/hls/m/TZ/fvsdkrjcjdcdxjivovvwgzlumgljno61xqqxf5x8/fvs
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E24
 https://roya-vod.ercdn.net/hls/3/2s/umkjvvrl54k3h5o99wilxcnkmgibcrxllrto0hra/umkjvvrl54k3h5o99wilxcnkmgibcrxllrto0hra.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E25
+https://roya-vod.ercdn.net/hls/P/Ym/kofk8ihchpzfthvpsgszghfgfbmu9gnlajg7vy8t/kofk8ihchpzfthvpsgszghfgfbmu9gnlajg7vy8t.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E26
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E27
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E28
@@ -2200,12 +2219,13 @@ https://cdn.alarab.com/h264/155910_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E25
 https://cdn.alarab.com/h264/155984_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E26
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E01
+https://cdn.alarab.com/h264/156167_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E27
 https://cdn.alarab.com/h264/156133_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E28
 https://cdn.alarab.com/h264/156205_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E29
+https://cdn.alarab.com/h264/156284_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
@@ -2261,6 +2281,7 @@ https://cdn.alarab.com/h264/156146_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E28
 https://cdn.alarab.com/h264/156218_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E29
+https://cdn.alarab.com/h264/156294_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Jam3.Salem/1.mp4/playlist.m3u8
@@ -2476,6 +2497,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-16/studioGVQMR.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E24
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-17/studioEJMKJ.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E25
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-18/studioQPDUE.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E28
@@ -2736,6 +2758,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-16/studioRMRQE.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E24
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-17/studioCXXXM.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E25
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-18/studioPHMVO.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E26
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E28
@@ -2850,6 +2873,7 @@ https://cdn.alarab.com/h264/156143_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E25
 https://cdn.alarab.com/h264/156208_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E26
+https://cdn.alarab.com/h264/156289_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E29
@@ -2911,6 +2935,7 @@ https://cdn.alarab.com/h264/156144_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E28
 https://cdn.alarab.com/h264/156217_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E29
+https://cdn.alarab.com/h264/156290_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E01
 https://cdn.alarab.com/h264/154349_720p.mp4/index-v1-a1.m3u8
@@ -2969,6 +2994,7 @@ https://cdn.alarab.com/h264/156140_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E28
 https://cdn.alarab.com/h264/156211_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E29
+https://cdn.alarab.com/h264/156288_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",سلمات أبو البنات الحلقة S01E30
 #EXTINF:0 tvg-id="ext" group-title="افلام انمي",▂ ▄ ▅ ▆☆ افلام انمي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
