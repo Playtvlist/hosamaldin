@@ -302,9 +302,9 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ANN" tvg-logo="https://cdn01.paltoday.ps/ar/img/945x500/udMS9.jpg" group-title="NEWS قنوات الاخبار",AR:Alsharq
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:-1 tvg-id="" tvg-name="AR:ANN" tvg-logo="https://i.ytimg.com/vi/VRja2CGu7nw/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",IraqiaNew TV HD
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8?v
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ANN" tvg-logo="https://i.ytimg.com/vi/VRja2CGu7nw/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",IraqiaNew TV SD
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8?v
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:EXTRA NEWS قنوات الاخبار" tvg-logo="https://pbs.twimg.com/profile_images/810867096699674626/r9zANM2w.jpg" group-title="NEWS قنوات الاخبار",AR:EXTRA NEWS 
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL GHAD TV" tvg-logo="https://www.totaljobs.com/CompanyLogos/2a049bcdf39d42ceba8dbaf76b0f3d8b.png" group-title="NEWS قنوات الاخبار",AR:AL GHAD TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:i24 NEWS قنوات الاخبار" tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=s180" group-title="NEWS قنوات الاخبار",AR:i24 NEWS 
@@ -717,26 +717,19 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain SD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
-http://ns8.indexforce.com:1935/home/mystream/chunklist_w2135003844.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV SD
-http://livecdnh2.tvanywhere.ae/hls/sharqiya/04.m3u8
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV 
+http://livecdnh2.tvanywhere.ae/hls/sharqiya/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w164750422.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News SD
-http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w1471341781_b230000_sleng.m3u8
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rasheed
-rtmp://streamer11.elementssys.com/alrashid/?hghpl=/alrashid_850kbps
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-الفرات
-https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklist_w2034710714_b512000_slen.m3u8
+https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklist_slen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Hurra HD
-http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Hurra SD
-http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_1628.m3u8
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Hurra IRAQIA HD
-http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Hurra IRAQIA SD
-http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_528.m3u8
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الاخبارية
@@ -744,11 +737,9 @@ http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba5
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الفضائية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/f104343c324d56da93eb6b41e5cea641.sdp/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ HD
-https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:MY-MBC IRAQ SD
-https://shls-iraq-prod.shahid.net/iraq-prod_4.m3u8
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ghadeer
-http://178.162.140.90:1935/live/alghadeer/chunklist_w641439331.m3u8
+http://178.162.140.90:1935/live/alghadeer/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ- karbala FHD
 https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ahd
@@ -762,6 +753,8 @@ http://ar.imamhossaintv.com/live/ih2.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",قناة دجلة طرب
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR: راديو هوا دجلة
+https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",Farqadayn TV
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",HonaBaghdad
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-Sumaria TV
