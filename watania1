@@ -1,0 +1,6 @@
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania1
+http://195.154.136.160:8080/hls/t1.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania2
+http://195.154.136.160:8080/hls/t2.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Elhiwaret Tounsi
+http://195.154.136.160:8080/hls/at.m3u8
