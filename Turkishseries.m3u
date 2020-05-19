@@ -50,7 +50,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-17/studioOSCPV.smil/ch
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E25
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-18/studioXXBVJ.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E26
-
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-19/studioSMZJR.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E27
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://stepagency-sy.net/nfiles/2020/04/24wAI.jpg" group-title="قلبي اطمأن",AR:قلبي اطمأن الحلقة S03E28
@@ -824,6 +824,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/25.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/26.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E29
@@ -934,6 +935,7 @@ https://cdn.alarab.com/h264/156181_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E25
 https://cdn.alarab.com/h264/156253_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E26
+https://cdn.alarab.com/h264/156321_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E29
@@ -2061,6 +2063,7 @@ https://cdn.alarab.com/h264/156176_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E25
 https://cdn.alarab.com/h264/156263_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E26
+https://cdn.alarab.com/h264/156322_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E29
@@ -2399,6 +2402,7 @@ https://cdn.alarab.com/h264/156186_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E25
 https://cdn.alarab.com/h264/156247_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E26
+https://cdn.alarab.com/h264/156320_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E29
@@ -2715,6 +2719,7 @@ https://cdn.alarab.com/h264/156168_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E25
 https://cdn.alarab.com/h264/156243_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E26
+https://cdn.alarab.com/h264/156317_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E29
