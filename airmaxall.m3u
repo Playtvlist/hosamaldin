@@ -95,8 +95,6 @@ http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/135
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/136
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Discovery_IDX_SD
 http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/137
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_BINGE_HD
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/139
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Fox-HD
 http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN CINEMA 1
@@ -349,8 +347,6 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://ewsat.com/img/KARAMEESH.png" group-title="قنوات أطفال",Ar Karameesh
 http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist_w1794372416_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال",TOM & JERRY
-http://178.63.48.23:25461/osnbeinwww.vviruslove.com/jtkwYDBndF/79
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال",TOM & JERRY+
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال",Ar:SPACETOON
@@ -365,8 +361,6 @@ http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/147
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn.webshopapp.com/shops/212168/files/178962416/432x432x2/junior.jpg" group-title="قنوات أطفال",Bein:JUNIOR KIDS
 http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/148
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1345_1.png" group-title="قنوات أطفال",OSN HD : OSN Disney Channel HD
-http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/138
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
 http://178.63.48.23:25461/Toyor/AkZkeKfFlT/149
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="قنوات أطفال",boomerang Kids (EN)
