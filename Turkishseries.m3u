@@ -335,6 +335,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhare
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E26
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/26.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E27
+https://cdn.alarab.com/h264/156425_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E30
@@ -1273,7 +1274,7 @@ https://cdn.alarab.com/h264/156287_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E26
 https://cdn.alarab.com/h264/156364_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E27
-
+https://cdn.alarab.com/h264/156426_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",النهاية الحلقة S01E30
@@ -2979,6 +2980,7 @@ https://cdn.alarab.com/h264/156289_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E27
 https://cdn.alarab.com/h264/156358_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E28
+https://cdn.alarab.com/h264/156424_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",أم هارون الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات المغرب العربي رمضان",شهادة ميلاد الحلقة S01E01
