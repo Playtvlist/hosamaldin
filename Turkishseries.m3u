@@ -9477,16 +9477,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Najmat.Alshamal/25.mp4/pl
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
 https://cdn.alarab.com/h264/154125_720p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E02
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/alef/Alef.E02.HD.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E03
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/alef/Alef.E03.HD.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E04
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/alef/Alef.E04.HD.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E05
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/alef/Alef.E05.HD.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E06
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/alef/Alef.E06.HD.mkv
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E07
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E01
 https://cdn.alarab.com/h264/153485_720p.mp4/index-v1-a1.m3u8
