@@ -219,6 +219,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsa
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/24.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/25.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="برنامج اغلب السقا",اغلب السقا الحلقة S26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/26.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S2
@@ -266,6 +268,10 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/23.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/24.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Crazy.Taxi/25.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="كريزي تاكسي",كريزي تاكسي الحلقة S26
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",سوق الحرير الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Sooq.Alhareer/1.mp4/playlist.m3u8
@@ -1132,6 +1138,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-18/studioYCROD.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E25
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-19/studioKIVXP.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E26
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-20/studioXWNPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E29
@@ -1807,6 +1814,7 @@ https://roya-vod.ercdn.net/hls/3/2s/umkjvvrl54k3h5o99wilxcnkmgibcrxllrto0hra/umk
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E25
 https://roya-vod.ercdn.net/hls/P/Ym/kofk8ihchpzfthvpsgszghfgfbmu9gnlajg7vy8t/kofk8ihchpzfthvpsgszghfgfbmu9gnlajg7vy8t.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E26
+https://roya-vod.ercdn.net/hls/F/il/vw7cuaolnygrpgh6tf4h7utmgswfrnmsca3surhf/vw7cuaolnygrpgh6tf4h7utmgswfrnmsca3surhf.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E27
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E28
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",شاهد عيان الحلقة S01E29
