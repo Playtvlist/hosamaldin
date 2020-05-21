@@ -572,7 +572,7 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA +" tvg-logo="https://arab4channels.com/wp-content/uploads/2019/04/47369629_2275306422794563_6956932285975232512_n.jpg" group-title="Syria قنوات سورية",AR:SYR-LANA +
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
-https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8?DVR
+https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA PLUS" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
 http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
