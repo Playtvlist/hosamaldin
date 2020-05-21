@@ -9176,8 +9176,8 @@ https://cdn.alarab.com/h264/155957_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155957_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 HD
 http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP22.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 SD
-
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/22.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
