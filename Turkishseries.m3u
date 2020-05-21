@@ -113,7 +113,7 @@ https://cdn.alarab.com/h264/156333_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E27
 https://cdn.alarab.com/h264/156407_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E28
-
+https://cdn.alarab.com/h264/156470_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E29
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/294024_0.jpg" group-title="رامز مجنون رسمي",AR:رامز مجنون رسمي الحلقة S01E30
@@ -172,7 +172,7 @@ https://roya-vod.ercdn.net/hls/b/4c/8np3uvfgihrmboxwyenunciblhdtzddpmj0arhqs/8np
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E27
 https://roya-vod.ercdn.net/hls/P/ZK/gqlrwwrwzpq2mucanxcussgrql3rjpqtbnmfkxan/gqlrwwrwzpq2mucanxcussgrql3rjpqtbnmfkxan.hb.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E28
-
+https://roya-vod.ercdn.net/hls/R/xX/yjspszkvgdth02u3xtfah1vouyfija9sdxalvohu/yjspszkvgdth02u3xtfah1vouyfija9sdxalvohu.hb.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E29
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL JAZEERA HD" tvg-logo="https://fajer.show/wp-content/uploads/2020/04/whatsapp.png" group-title="وطن ع وتر الجزء الثالث",AR:وطن ع وتر الحلقة S03E30
@@ -573,6 +573,7 @@ https://cdn.alarab.com/h264/156337_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E27
 https://cdn.alarab.com/h264/156412_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E28
+https://cdn.alarab.com/h264/156469_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",أحلى أيام الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ببساطة 2 الحلقة S01E01
@@ -976,6 +977,7 @@ https://cdn.alarab.com/h264/156321_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E27
 https://cdn.alarab.com/h264/156398_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E28
+https://cdn.alarab.com/h264/156466_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",يوما ما الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E01
@@ -1168,6 +1170,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-19/studioKIVXP.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E26
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-20/studioXWNPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E27
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/studioYESJX.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E30
@@ -1454,6 +1457,7 @@ https://cdn.alarab.com/h264/156328_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E27
 https://cdn.alarab.com/h264/156403_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E28
+https://cdn.alarab.com/h264/156468_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E01
@@ -1513,6 +1517,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-19/studioBRQOE.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E27
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-20/studioFZAXI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E28
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/studioCTUGQ.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",رجالة البيت الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خيانة عهد الحلقة S01E01
@@ -1742,6 +1747,7 @@ https://roya-vod.ercdn.net/hls/D/vz/m2qtvsleijbjcxovmpcro2lm6ol5xsi3gqylwpyf/m2q
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E27
 https://roya-vod.ercdn.net/hls/w/mA/ncu53bxdpawk6rrotea8dk990g57oo4jfba55nu2/ncu53bxdpawk6rrotea8dk990g57oo4jfba55nu2.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E28
+https://roya-vod.ercdn.net/hls/C/Nw/dgs2qgyztrzdo85g37rs4tvay5ep0vyqsbgplgzo/dgs2qgyztrzdo85g37rs4tvay5ep0vyqsbgplgzo.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E29
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات مصرية رمضان",سلطانة المعز الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",البرنس الحلقة S01E01
@@ -2144,6 +2150,7 @@ https://cdn.alarab.com/h264/156322_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E27
 https://cdn.alarab.com/h264/156402_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E28
+https://cdn.alarab.com/h264/156462_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",يا أنا يا جدو الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونسني الحلقة S01E01
@@ -2495,6 +2502,7 @@ https://cdn.alarab.com/h264/156320_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E27
 https://cdn.alarab.com/h264/156395_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E28
+https://cdn.alarab.com/h264/156459_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E30
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E01
@@ -2552,6 +2560,7 @@ https://roya-vod.ercdn.net/hls/g/2H/w6pugul0rs7uj5p6sbgmogi5u5ph1ckij8atxgco/w6p
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E27
 https://roya-vod.ercdn.net/hls/O/Yt/8xbcqoeo0nvaxbpxpgakikspkxievlbr9h8hoyjb/8xbcqoeo0nvaxbpxpgakikspkxievlbr9h8hoyjb.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E28
+https://roya-vod.ercdn.net/hls/d/Jm/uq2vbq02p60tdyztthx10c2t1tgysgimelpzixtr/uq2vbq02p60tdyztthx10c2t1tgysgimelpzixtr.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E29
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",كنا أمس الحلقة S01E01
@@ -2666,6 +2675,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-19/studioCAOHC.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E27
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-20/studioXZQJG.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E28
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/studioIRRPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مانيكان الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E01
@@ -2723,6 +2733,7 @@ https://cdn.alarab.com/h264/156325_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E27
 https://cdn.alarab.com/h264/156397_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E28
+https://cdn.alarab.com/h264/156458_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",الكون في كفة الحلقة S01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",مخرج 7 الحلقة S01E01
