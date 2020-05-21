@@ -578,6 +578,7 @@ http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
+https://ok.ru/video/1654720765558
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
 http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
@@ -628,7 +629,7 @@ http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN SD
 http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Future TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
-http://livecdnh2.tvanywhere.ae/hls/future/index.m3u8
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ETIHAD-TV" tvg-logo="https://4.bp.blogspot.com/-69FmNRau9mY/XLI80p-7K7I/AAAAAAAAA5g/O6uzNkf6dkUmNJhCB4tIEoM2M0Vb5rwDgCLcBGAs/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AA%25D8%25AD%25D8%25A7%25D8%25AF%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25B6%25D8%25A7%25D8%25A6%25D9%258A%25D8%25A9.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
