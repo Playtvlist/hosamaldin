@@ -294,7 +294,7 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:CGTN News" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",AR:CGTN News SD
 https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ALARABY TV HD" tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=s180" group-title="NEWS قنوات الاخبار",AR:ALARABY TV HD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL MAYADEEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="NEWS قنوات الاخبار",AR:AL MAYADEEN HD
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_t64NDgwcA==.m3u8?v=
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL HIWAR NEWS قنوات الاخبار" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzR5ciU26g2r64vUYfv8Q_Yxtm9TwVNaUUgkD-X_AUyNnn4hlS&usqp=CAU" group-title="NEWS قنوات الاخبار",AR:AL HIWAR NEWS 
