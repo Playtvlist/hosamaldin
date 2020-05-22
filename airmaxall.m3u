@@ -300,7 +300,7 @@ http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_t64NDgwcA==
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL HIWAR NEWS قنوات الاخبار" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzR5ciU26g2r64vUYfv8Q_Yxtm9TwVNaUUgkD-X_AUyNnn4hlS&usqp=CAU" group-title="NEWS قنوات الاخبار",AR:AL HIWAR NEWS 
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:CNBC ARABIYA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/1200px-CNBC_Arabiya.svg.png" group-title="NEWS قنوات الاخبار",AR:CNBC ARABIYA HD
-https://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:CNBC ARABIYA HD" tvg-logo="https://www.nilesatchannels.info/wp-content/uploads/2020/01/0BBCAF4C-F562-4C56-8025-2B15847B260B-300x262.jpeg" group-title="NEWS قنوات الاخبار",AR:AL GHAD AL MUSHREQ HD
 http://noasrv.caster.fm:10136/stream
 #EXTINF:-1 tvg-id="" tvg-name="AR:ANN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/1200px-ANN_logo.svg.png" group-title="NEWS قنوات الاخبار",AR:ANN
@@ -360,7 +360,7 @@ http://188.160.0.148:1935/5c33373f8c73484/_definst_/smil:myStream.smil/chunklist
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال",TOM & JERRY+
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال",Ar:SPACETOON
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/cb94040630343f5e440c2e50ea0be67c.png" group-title="قنوات أطفال",TAHA Kids TV
@@ -871,6 +871,8 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://lh3.googleusercontent.com/lV1chnEuF1Hp166fw_JX7M2wD8C3InUDZzr4zzcFF6mk3c1Y8-q5lUtUXviuaACYQA=s180" group-title="MAROCCO قنوات المغرب العربي",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://pbs.twimg.com/profile_images/930788443743051776/fx24wHCG_400x400.jpg" group-title="MAROCCO قنوات المغرب العربي",Chada TV
+https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
