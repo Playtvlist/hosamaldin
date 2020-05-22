@@ -272,7 +272,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SKY NEWS ARABIC HD" tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD+
 http://livecdnh3.tvanywhere.ae/hls/skynewsar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:BBC ARABIC HD" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",AR:BBC ARABIC HD
-http://livecdnh2.tvanywhere.ae/hls/bbc_ar/index.m3u8
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:RT RUSSIA TODAY HD" tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="NEWS قنوات الاخبار",AR:RT RUSSIA TODAY HD
 https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:AL ALAM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/200px-Al-Alam_logo.svg.png" group-title="NEWS قنوات الاخبار",AR:AL ALAM HD
