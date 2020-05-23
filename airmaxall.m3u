@@ -118,6 +118,7 @@ http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Mix-Hollywood
+http://tvsrv.orange.ps:8053/TV187.m3u8?u=stalker:p=1157002482
 #EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
@@ -177,8 +178,12 @@ http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/105
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 3
+http://tvsrv.orange.ps:8053/fajer3.m3u8?u=fajer:p=fajer
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 4
 http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 5
+http://tvsrv.orange.ps:8053/fajer5.m3u8?u=fajer:p=fajer
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Nas Tv
@@ -509,25 +514,14 @@ https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://image.winudf.com/v2/image/Y29tLnplZWUuYWZsYW0ubW9zYWxzYWxhdHNfaWNvbl8xNTE4ODY4NTg1XzAyOQ/icon.png?w=170&fakeurl=1&type=.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://image.winudf.com/v2/image/Y29tLnplZWUuYWZsYW0ubW9zYWxzYWxhdHNfaWNvbl8xNTE4ODY4NTg1XzAyOQ/icon.png?w=170&fakeurl=1&type=.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
+http://tvsrv.orange.ps:8053/TVa53.m3u8?u=OrangeTV:p=9664308781
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="قنوات أم بي سيMBC",b4u aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/Q9VQEhviRoM/hqdefault.jpg" group-title="قنوات أم بي سيMBC",b4u plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8
-#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.lmalshaml.com/upload/photos/2018/01/ORdN8CSRx2vFjKaduze2_05_ccc3a83e127219d946f33f5e78230b86_image.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="قنوات أم بي سيMBC",b4u aflam
+http://tvsrv.orange.ps:8053/TVa53.m3u8?u=OrangeTV:p=9664308781
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxCms7GmbX-yzXAP6gH72PitMJ8wr9n9bhTR-Lgg8NIqTWXSe" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
+http://tvsrv.orange.ps:8053/TVa54.m3u8?u=OrangeTV:p=9664308781
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
@@ -552,14 +546,24 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
 http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="قنوات روتانا ROTANA",AR:Rotana DRAMA 
+http://tvsrv.orange.ps:8053/TV144.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema 
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="قنوات روتانا ROTANA",AR:Rotana Cinema 
+http://tvsrv.orange.ps:8053/TV147.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music 
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="قنوات روتانا ROTANA",AR:Rotana Music 
+http://tvsrv.orange.ps:8053/hls_archive/CH307/ch_307_hls_034374.ts?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Classic HD" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Classic HD
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Classic HD" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="قنوات روتانا ROTANA",AR:Rotana Classic HD
+http://tvsrv.orange.ps:8053/TV145.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Clip" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Clip" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="قنوات روتانا ROTANA",AR:Rotana Clip
+http://tvsrv.orange.ps:8053/hls_archive/CH308/ch_308_hls_034367.ts?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -575,17 +579,22 @@ https://bit.ly/34ooolI
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
+http://tvsrv.orange.ps:8053/LANA%20HD%2Dbackup?u=other:p=other
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA PLUS" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA PLUS
-http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
+http://tvsrv.orange.ps:8053/TV186.M3U8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SAMA SYRIA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1350_1.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 https://ok.ru/video/1654720765558
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
+http://tvsrv.orange.ps:8053/TV132.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-DRAMA TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
 http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA AL AOULA" tvg-logo="https://www.wataan.com/uploads/1062019-061503AM.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SYRIA AL AOULA" tvg-logo="https://www.wataan.com/uploads/1062019-061503AM.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
+http://tvsrv.orange.ps:8053/TV130.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-EL TARBAOUIA" tvg-logo="https://2.bp.blogspot.com/-yfUsQdiUvs0/XCcqSUT_c2I/AAAAAAAABUQ/XESFvTzw5QUx76qkMXUV2omf_ffT6qerQCLcBGAs/s1600/images.jpg" group-title="Syria قنوات سورية",AR:SYR-EL TARBAOUIA
 http://82.137.248.16:1935/SEdu/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-NOUR ELSHAM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/xsy-nour-el-sham-tv.jpg.pagespeed.ic.9Eoi0D8lIN.jpg" group-title="",AR:SYR-NOUR ELSHAM
@@ -624,6 +633,8 @@ https://bit.ly/34ooolI
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
+http://tvsrv.orange.ps:8053/TV55.m3u8?u=stalker:p=1157002482
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC 2 International" tvg-logo="https://yt3.ggpht.com/a/AATXAJxHwyj-DaZ7mmDu-PgOgysR6BIY5_hAABfgyQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LEBANON قنوات لبنان",AR:LBN-LBC International
 http://188.160.0.148:1935/5b2a414908b7162/_definst_/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
