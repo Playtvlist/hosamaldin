@@ -345,6 +345,8 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="قنوات الوثائقية",DocuBOX HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="قنوات الوثائقية",Nat geo people HD France
+http://vod.acangroup.org:1935/output/anntv.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="قنوات أطفال",MBC 3 FHD
