@@ -443,6 +443,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/vidX8EQraVfLA.smil/
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E29
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/vidPjg2dkFJGR.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E30
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-23/vidHbsPg3RoYZ.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -709,6 +710,7 @@ https://cdn.alarab.com/h264/156444_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E29
 https://cdn.alarab.com/h264/156510_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E30
+https://cdn.alarab.com/h264/156570_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E01
 https://belugacdn.shoofmax.com/brokar/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E02
@@ -768,6 +770,7 @@ https://belugacdn.shoofmax.com/brokar/ep28/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E29
 https://belugacdn.shoofmax.com/brokar/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E30
+https://belugacdn.shoofmax.com/brokar/ep30/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E01
 https://belugacdn.shoofmax.com/joker/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E02
@@ -827,6 +830,7 @@ https://belugacdn.shoofmax.com/joker/ep28/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E29
 https://belugacdn.shoofmax.com/joker/ep29/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",الجوكر الحلقة S01E30
+https://belugacdn.shoofmax.com/joker/ep30/720p/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alharmlak2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",الحرملك 2 الحلقة S01E02
@@ -1064,6 +1068,7 @@ https://cdn.alarab.com/h264/156447_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E29
 https://cdn.alarab.com/h264/156508_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",ميادا وولادا الحلقة S01E30
+https://cdn.alarab.com/h264/156569_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E01
 https://cdn.alarab.com/h264/154418_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",هوس الحلقة S01E02
@@ -2391,6 +2396,8 @@ https://cdn.alarab.com/h264/156205_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156284_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E30
 https://cdn.alarab.com/h264/156352_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",خلي بالك من فيفي مصر الحلقة S01E31
+https://cdn.alarab.com/h264/156379_720p.mp4/index-v1-a1.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/2.Fe.Elsandouq/2.mp4/playlist.m3u8
