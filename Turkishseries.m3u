@@ -452,6 +452,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/vidX8EQraVfLA.smil/
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/vidPjg2dkFJGR.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E30
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-23/vidHbsPg3RoYZ.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E31
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-24/vid0ebEaXVQj1.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -722,6 +724,8 @@ https://cdn.alarab.com/h264/156444_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156510_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E30
 https://cdn.alarab.com/h264/156570_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",نبض الحلقة S01E31
+https://cdn.alarab.com/h264/156631_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E01
 https://belugacdn.shoofmax.com/brokar/ep1/720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات سورية رمضان",بروكار الحلقة S01E02
@@ -1227,7 +1231,7 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/studioTSZYI.smil/ch
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E29
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-23/studioSVGRM.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ونحب تاني ليه الحلقة S01E30
-https://cdn.alarab.com/h264/156615_720p.mp4/index-v1-a1.m3u8
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-24/studioJGZPX.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Alekhtiar/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",الإختيار الحلقة S01E02
@@ -1468,6 +1472,8 @@ https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-21/studioFPRLI.smil/c
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/studioULFNX.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E30
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-23/studioJPHXL.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",سكر زيادة الحلقة S01E31
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-24/studioCHJBB.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Forsah.Thanyah/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",فرصة تانية الحلقة S01E02
@@ -2011,6 +2017,8 @@ https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/vid9ho2lqdms1.smil
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-22/vidlBdSh0c5Of.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E30
 https://cdn.alarab.com/h264/156588_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",حب عمري الحلقة S01E31
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-05-24/vid7HPcD5dGB4.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Wilad.Embaba/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",ولاد إمبابة الحلقة S01E02
