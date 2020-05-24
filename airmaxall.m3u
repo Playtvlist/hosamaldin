@@ -574,7 +574,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA +" tvg-logo="https://arab4channels.com/wp-content/uploads/2019/04/47369629_2275306422794563_6956932285975232512_n.jpg" group-title="Syria قنوات سورية",AR:SYR-LANA +
-https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks_dvr.m3u8
+https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-LANA HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/Z/5G/11956/Thumbnail.png?v=636904191177185858" group-title="Syria قنوات سورية",AR:SYR-LANA HD
@@ -628,7 +628,9 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
+http://144.76.186.9:25461/live/tdn/tdn123/10009.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:ABN-MTV HD" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",AR:ABN-MTV HD
+http://188.160.0.148:1935/5c57ec4475d8538/_definst_/smil:myStream.smil/chunklist_w669532429_b1000000.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
@@ -641,6 +643,10 @@ http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/98
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Future TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
+http://144.76.186.9:25461/live/tdn/tdn123/10008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
+http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w820154075_b1000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/97
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ETIHAD-TV" tvg-logo="https://4.bp.blogspot.com/-69FmNRau9mY/XLI80p-7K7I/AAAAAAAAA5g/O6uzNkf6dkUmNJhCB4tIEoM2M0Vb5rwDgCLcBGAs/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AA%25D8%25AD%25D8%25A7%25D8%25AF%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25B6%25D8%25A7%25D8%25A6%25D9%258A%25D8%25A9.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
