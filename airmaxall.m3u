@@ -336,6 +336,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
 https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.fekera.com/wp-content/uploads/2020/03/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A3%D9%A1%D9%A5_%D9%A1%D9%A6%D9%A4%D9%A5%D9%A3%D9%A4.jpg" group-title="قنوات الوثائقية",Oman الوثائقية
