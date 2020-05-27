@@ -33,7 +33,27 @@ https://bit.ly/34ooolI
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 1 4k
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/198
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 2 4k
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/199
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 3 4k
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/200
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 4 4k
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/201
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 5 4k
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/202
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT1 SD
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/203
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT2 SD
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/204
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT3 SD
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/205
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT4 SD
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/206
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT5 SD
+http://178.63.48.23:25461/beinnn/se9lDZYeh9/207
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -264,18 +284,28 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/cb94040630343f5e440c2e50ea0be67c.png" group-title="قنوات أطفال",TAHA Kids TV
 https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
+http://178.63.48.23:25461/Children/yFtu1JO2R4/223
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:DreamWorks
+http://178.63.48.23:25461/Children/yFtu1JO2R4/224
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:DISCOVRY KIDS
+http://178.63.48.23:25461/Children/yFtu1JO2R4/226
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
+http://178.63.48.23:25461/Children/yFtu1JO2R4/227
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:JUNIOR KIDS
+http://178.63.48.23:25461/Children/yFtu1JO2R4/225
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/WWvfLG_v0k4/maxresdefault.jpg" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
-http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/125
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="قنوات أطفال",Bein: Baraeem
-http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/147
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn.webshopapp.com/shops/212168/files/178962416/432x432x2/junior.jpg" group-title="قنوات أطفال",Bein:JUNIOR KIDS
-http://178.63.48.23:25461/Toyor%20Aljanahwww.vviruslove.com/LZoBPKw0s2/148
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
 http://178.63.48.23:25461/Toyor/AkZkeKfFlT/149
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="قنوات أطفال",boomerang Kids (EN)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/84/50/duck-animal-cartoon-for-children-vector-6268450.jpg" group-title="قنوات أطفال",duck Kids 
-http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="قنوات أطفال",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="قنوات أطفال",Baby First
