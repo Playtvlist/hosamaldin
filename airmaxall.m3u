@@ -58,7 +58,51 @@ http://178.63.48.23:25461/beinnn/se9lDZYeh9/207
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies action
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/215
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies drama
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/216
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies family
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/217
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies premiere
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/218
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Series 1
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/219
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Series 2
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/220
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein: FOX_Rewayat
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/221
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Nat Geo HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/222
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_First_HD_2h
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/240
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/241
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Enigma_HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/242
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:FATAFEAT
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/243
+#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN MUSALSALAT HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/244
+#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN YaHala Cinema HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/245
+#EXTINF:0 tvg-id="ext" group-title="OSN",VIP :OSN YaHala Oula HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/246
+#EXTINF:0 tvg-id="rtgtv" group-title="OSN",VIP :OSN YaHala HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/247
+#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="OSN",VIP : OSN Movies Action HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/248
+#EXTINF:0 tvg-id="ext" group-title="OSN",CINEMA2_SD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/249
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_BINGE_HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/250
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_First_HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/251
+#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_MUSALSALAT_HD
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/253
+#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN FANN
+http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/254
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Fox-HD
 http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN CINEMA 1
