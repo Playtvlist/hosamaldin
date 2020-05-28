@@ -456,6 +456,8 @@ https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-23/vidHbsPg3RoYZ.smil/
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-24/vid0ebEaXVQj1.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E32
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-25/videNfZjcqntQ.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",مقابلة مع السيد آدم الحلقة S01E33
+https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-05-26/vidDiQsLuceRp.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-25/studioGTBPI.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات سورية رمضان",النحات الحلقة S01E02
@@ -2512,6 +2514,8 @@ https://cdn.alarab.com/h264/156560_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156622_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E35
 https://cdn.alarab.com/h264/156640_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",اتنين في الصندوق الحلقة S01E36
+https://cdn.alarab.com/h264/156648_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Jam3.Salem/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية رمضان",جمع سالم الحلقة S01E02
@@ -2634,6 +2638,12 @@ https://cdn.alarab.com/h264/156521_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156584_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E31
 https://cdn.alarab.com/h264/156639_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E32
+https://cdn.alarab.com/h264/156650_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E33
+https://cdn.alarab.com/h264/156659_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات الاردن فلسطين رمضان",الخوابي الحلقة S01E34
+https://cdn.alarab.com/h264/156687_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E01
 https://roya-vod.ercdn.net/hls/q/rp/ylhj4sj13x7l6mzpgd6zmawbw0yjbkpndihwpzjt/ylhj4sj13x7l6mzpgd6zmawbw0yjbkpndihwpzjt.hb.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسلسلات الاردن فلسطين رمضان",جلطة  الحلقة S01E02
@@ -2977,6 +2987,12 @@ https://cdn.alarab.com/h264/156520_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156580_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E31
 https://cdn.alarab.com/h264/156638_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E32
+https://cdn.alarab.com/h264/156649_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E33
+https://cdn.alarab.com/h264/156658_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",رياح السموم الحلقة S01E34
+https://cdn.alarab.com/h264/156686_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E01
 https://admv.cdn.mangomolo.com/vod/_definst_/smil:2020-04-24/studioXJCPY.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات خليجيه رمضان",جنة هلي الحلقة S01E02
@@ -3539,8 +3555,14 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.20
 
 #EXTINF:0 tvg-id="ext" group-title="افلام عربية",▂ ▄ ▅ ▆☆ افلام عربية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم بلا هيبة
+https://cdn.alarab.com/h264/156684_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم الممر
+https://cdn.alarab.com/h264/156672_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم لص بغداد
-https://cdn.alarab.com/h264/156634_720p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/156633_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم رأس السنة
 https://cdn.alarab.com/h264/156634_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم خط الموت HD انتاج 2019
@@ -9352,6 +9374,10 @@ http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP22.mkv
 https://cdn.alarab.com/h264/156449_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 23
+https://cdn.alarab.com/h264/156449_720p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 23 SD
+https://cdn.alarab.com/h264/156449_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
