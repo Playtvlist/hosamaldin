@@ -33,7 +33,6 @@ https://bit.ly/34ooolI
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 1 4k
 http://178.63.48.23:25461/beinnn/se9lDZYeh9/198
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BeIN SPORTS 2 4k
@@ -58,65 +57,59 @@ http://178.63.48.23:25461/beinnn/se9lDZYeh9/207
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies action
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies action
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/215
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies drama
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies drama
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/216
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies family
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies family
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/217
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Movies premiere
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies premiere
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/218
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Series 1
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Series 1
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/219
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Series 2
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Series 2
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/220
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein: FOX_Rewayat
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein: FOX_Rewayat
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/221
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:Nat Geo HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Nat Geo HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/222
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_First_HD_2h
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_Movies_First_HD_2h
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/240
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_Movies_HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/241
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Enigma_HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_Enigma_HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/242
-#EXTINF:0 tvg-id="ext" group-title="OSN",Bein:FATAFEAT
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:FATAFEAT
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/243
-#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN MUSALSALAT HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",VIP : OSN MUSALSALAT HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/244
-#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN YaHala Cinema HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",VIP : OSN YaHala Cinema HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/245
-#EXTINF:0 tvg-id="ext" group-title="OSN",VIP :OSN YaHala Oula HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",VIP :OSN YaHala Oula HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/246
-#EXTINF:0 tvg-id="rtgtv" group-title="OSN",VIP :OSN YaHala HD
+#EXTINF:0 tvg-id="rtgtv" group-title="او اس انOSN",VIP :OSN YaHala HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/247
-#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="OSN",VIP : OSN Movies Action HD
+#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="او اس انOSN",VIP : OSN Movies Action HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/248
-#EXTINF:0 tvg-id="ext" group-title="OSN",CINEMA2_SD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",CINEMA2_SD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/249
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_BINGE_HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_BINGE_HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/250
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_Movies_First_HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_Movies_First_HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/251
-#EXTINF:0 tvg-id="ext" group-title="OSN",OSN_MUSALSALAT_HD
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MUSALSALAT_HD
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/253
-#EXTINF:0 tvg-id="ext" group-title="OSN",VIP : OSN FANN
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",VIP : OSN FANN
 http://178.63.48.23:25461/osnwww.vviruslove.com/cioc3N2Esl/254
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Osn Beity
+http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Fox-HD
 http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN CINEMA 1
-
 #EXTINF:0 tvg-id="StarMovies.in" group-title="او اس انOSN",OSN Star Movies
-
 #EXTINF:0 tvg-id="StarWorld.in" group-title="او اس انOSN",OSN Star World
-
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Osn Beity
-http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Music Now
-
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Mix-Hollywood
-http://tvsrv.orange.ps:8053/TV187.m3u8?u=stalker:p=1157002482
 #EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
@@ -139,7 +132,6 @@ http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/214
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",NETFLIX DRAMA FHD
 http://178.63.48.23:25461/netwww.vviruslove.com/hQzrmO6IvM/228
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",NETFLIX MOVIES FHD
