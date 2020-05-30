@@ -606,8 +606,6 @@ http://82.137.248.16:1935/SEdu/stream31122019/chunklist.m3u8
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-NOUR ELSHAM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/xsy-nour-el-sham-tv.jpg.pagespeed.ic.9Eoi0D8lIN.jpg" group-title="",AR:SYR-NOUR ELSHAM
 http://188.160.0.148:1935/5a86dc4e251a272/_definst_/smil:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SATELLITE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBEHJQ_kbpJhQVy5xVMl-vtvBn-S02Qq90pEg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Syria قنوات سورية",AR:SYR-SATELLITE TV
-http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SHAM.FM TV" tvg-logo="https://4.bp.blogspot.com/-FzvoKHJPHc8/Wv4i_bc6BPI/AAAAAAAAB9Q/v2bZQQJTQCAQ9erFXNE1s5ORcPsYH_MrwCLcBGAs/s1600/98.PNG" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
 http://5.39.218.151:8400/;
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-SOURYANA" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Souryana-100x47.jpg" group-title="Syria قنوات سورية",AR:SYR-SOURYANA
@@ -643,7 +641,7 @@ http://188.160.0.148:1935/5b2a46461078368/_definst_/smil:myStream.smil/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC 2 International" tvg-logo="https://yt3.ggpht.com/a/AATXAJxHwyj-DaZ7mmDu-PgOgysR6BIY5_hAABfgyQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LEBANON قنوات لبنان",AR:LBN-LBC International
 http://188.160.0.148:1935/5b2a414908b7162/_definst_/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/98
+https://skyfire.vimeocdn.com/1591012141-0x3c574c518299f913769666de43bed06ea92d0954/381ceef3-e9a3-4f2a-9b45-f7640cc278c8/sep/video/af8304aa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Future TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL JADEED HD
