@@ -727,11 +727,11 @@ https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
-http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain SD
-http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
+http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
-https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD+
 http://livecdnh2.tvanywhere.ae/hls/sharqiya/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD
@@ -754,12 +754,12 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/f104343c324d
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ HD
 https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ghadeer
-http://178.162.140.90:1935/live/alghadeer/chunklist.m3u8
+http://178.162.140.90:1935/live/alghadeer/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ- karbala FHD
 https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ahd
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Maaref
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-Babylon
 https://iqlivestream.com/babylontv/kardokardo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-Imam Hussein TV 2
@@ -777,50 +777,52 @@ https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL KAWTHAR
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Sada-EL-Balad
-http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dream2
-http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية Egypt",CBC
-http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC_Drama
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC Sofra
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Dmc HD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/06.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Dmc SD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",DmcDrama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera_nas.isml
-http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ALNAHAR
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ALNAHAR DRAMA
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Watan TV
-http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",E قناه الفتح
-https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",hayat+
-http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera+
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",elsharqtv
-https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",elsharqtv+
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Mekameleen مكملين
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Fateh TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Sada-EL-Balad
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dream2
+
+#EXTINF:0 tvg-id="cbc" group-title="قنوات المصرية Egypt",CBC
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC_Drama
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC Sofra
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Dmc HD
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Dmc SD
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",DmcDrama
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera_nas.isml
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ALNAHAR
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ALNAHAR DRAMA
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",hayat+
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera+
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",AL dream2
-http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Nile cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Nile drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Extra News
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",PANORAMA DRAMA
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",PANORAMA FLIM
