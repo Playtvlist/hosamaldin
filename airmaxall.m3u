@@ -314,8 +314,6 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi FHD
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi
-http://188.160.0.148:1935/5b2a43c25a3c731/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="قنوات الوثائقية",NAT GEO WILD HD
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="قنوات الوثائقية",Nat geo people HD ENGLISH
@@ -482,18 +480,12 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 FHD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 FHD
-http://188.160.0.148:1935/59afc8adc301977/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 FHD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 FHD
-http://188.160.0.148:1935/599d303b80a2291/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 3 HD" tvg-logo="https://i.ytimg.com/vi/ccu1q3ioJyo/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC 3 FHD
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 FHD
 https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 FHD
-http://188.160.0.148:1935/5c769d4d397e819/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
@@ -504,18 +496,12 @@ https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION
-http://188.160.0.148:1935/5c7518f08e9b836/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://1.bp.blogspot.com/-XEwSGY63VfY/Xd0CqlJfBaI/AAAAAAAAJ28/HdV1GQdWhukF6LB4yAaDx_0XD_wfnonDACLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D9%2581%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AA%25D9%258A%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.webp" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD
 http://178.63.48.23:25461/mbcwww.vviruslove.com/XVkOm43hyg/257
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
-http://188.160.0.148:1935/5afc1eaa3fb2d10/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
-http://188.160.0.148:1935/599448753447a43/_definst_/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/880453699411349506/sQst7FnI_400x400.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Masr" tvg-logo="https://vid.alarabiya.net/images/2017/02/15/7e953741-1865-4462-b837-ddc84f811d74/7e953741-1865-4462-b837-ddc84f811d74_16x9_1200x676.jpg?format=jpeg&width=960" group-title="قنوات أم بي سيMBC",AR:MY-MBC Masr FHD
