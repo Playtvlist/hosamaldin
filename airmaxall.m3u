@@ -982,14 +982,22 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:0 tvg-id="ext" group-title="قنوات البحرين Bahrain",▂ ▄ ▅ ▆☆ Bahrain TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://www.1arablive.com/livetv/assets/images/1549220196.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://content.osn.com/bob/745x419/BAH.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://content.osn.com/bob/745x419/BAH.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://www.klma.org/wp-content/uploads/2020/03/bahrain-lawal.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain Lawal
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BahrainTV-1.png" group-title="قنوات البحرين Bahrain",AR:Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BahrainTV-1.png" group-title="قنوات البحرين Bahrain",AR:Bahrain International
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fbahrainsports.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w319159673_b610304.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fbahrainsports.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Oman TV" tvg-logo="https://1.bp.blogspot.com/-Ay3LZGgsD08/WgqpUswVLXI/AAAAAAAAL1E/m1M14IWIF-8AA0b8VMbTNhThc9uj60t4ACLcBGAs/s1600/BAHRAIN%2BSPORT%2B2.png" group-title="قنوات البحرين Bahrain",AR:Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist_w1371908687_b948304.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات سلطنة عمان Oman",▂ ▄ ▅ ▆☆ Oman TV ☆▆ ▅ ▄ ▂ ▁
