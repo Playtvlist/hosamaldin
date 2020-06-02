@@ -1091,6 +1091,8 @@ https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Ronahi tv
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",KurdsatNews TV
 http://216.66.42.23:7777/KurdsatNews/KurdsatNews_Low.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",peyam TV
