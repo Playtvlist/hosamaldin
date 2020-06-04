@@ -236,6 +236,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",RTA Sport
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",RTSH 1 HD
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",football
+http://91.103.248.82:81/play/c1
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Real Madrid TV (English)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
