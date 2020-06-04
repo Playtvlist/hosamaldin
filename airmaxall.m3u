@@ -1171,8 +1171,6 @@ https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist.m3u8
 https://59355e6c6462b.streamlock.net/quran/ahul/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",wesal1
 http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",وصال
-http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ayat
