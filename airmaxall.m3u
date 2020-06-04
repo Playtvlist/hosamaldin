@@ -1183,8 +1183,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",daawahtv
 http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",islam live TV
-https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",الارث النبوي
 rtmp://82.212.74.2/live//7207
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",safa tv
