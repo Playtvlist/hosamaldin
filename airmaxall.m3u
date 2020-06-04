@@ -163,11 +163,11 @@ http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 3
-http://tvsrv.orange.ps:8053/fajer3.m3u8?u=fajer:p=fajer
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 4
 http://82.102.232.165:8081/AlfajertvHD1_web/web1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",AlFajer 5
-http://tvsrv.orange.ps:8053/fajer5.m3u8?u=fajer:p=fajer
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Nas Tv
@@ -339,11 +339,7 @@ http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.nilesat7.com/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D9%8A%D9%81.jpg" group-title="قنوات الوثائقية",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="قنوات الوثائقية",H2
-
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="قنوات الوثائقية",DocuBOX HD
-
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="قنوات الوثائقية",Nat geo people HD France
-http://vod.acangroup.org:1935/output/anntv.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="قنوات أطفال",MBC 3 FHD
@@ -622,8 +618,6 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD+
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD
 http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklistsleng.m3u8
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
@@ -638,9 +632,9 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الاخبارية
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الفضائية
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/f104343c324d56da93eb6b41e5cea641.sdp/chunks.m3u8
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/49cd44a03dc4e783d1d2b859f5524e8e.sdp/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ HD
 https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ghadeer
@@ -737,8 +731,6 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
-
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية
@@ -751,6 +743,7 @@ https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w681
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Nessma
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania1
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",watania2
 #EXTINF:0 tvg-id="NESSMA.tn" group-title="TUNISIE قنوات تونس",Elhiwaret Tounsi
@@ -797,24 +790,29 @@ https://bit.ly/39YjahM
 http://217.182.137.206/sudantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",Sudan TV+
 https://bozztv.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/BNTV_logo.png" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
-
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.jpg" group-title="SUDAN قنوات السودان",sudan_drama
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Oneafricatvlogo.png/250px-Oneafricatvlogo.png" group-title="SUDAN قنوات السودان",sudan_drama
 http://217.182.137.206/sudan_drama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",africatv 1
+http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",africatv 2
+http://africatv.live.net.sa:1935/live/africatv2/chunklist_w505203053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",africatv 3
+http://africatv.live.net.sa:1935/live/africatv3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/BNTV_logo.png" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="Somalia الصومال",Bulsho TV
-https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-dacwa-tv-9649.jpg" group-title="Somalia الصومال",Dacwa TV
-https://ap01.iqplay.tv:81/iqb8002/d13w1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="Somalia الصومال",Horn Cable TV
 http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-puntland-tv-3525.jpg" group-title="Somalia الصومال",Puntland TV
-https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.giniko.com/logos/190x110/402.jpg" group-title="Somalia الصومال",Somali cable
-https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia الصومال",Somali National TV
-https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBVMlDxZDkwof5PpF3r3tLDreJYfJuf8B2XFg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات قطر Qatar",Qatar TV HD
@@ -966,12 +964,11 @@ https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xt3YIGkwTfHoKs6Gy9
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
 http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Ajman TV
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",peacetv
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Ajman TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-AL Dafrah TV" tvg-logo="" group-title="قنوات الامارات EMIRATES",AR:DUB-AL Dafrah TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-AL SHALLAL HD" tvg-logo="" group-title="قنوات الامارات EMIRATES",AR:DUB-AL SHALLAL HD
 #EXTINF:0 tvg-id="ext" group-title="قنوات اليمن Yemen",▂ ▄ ▅ ▆☆ Yemen tv ☆▆ ▅ ▄ ▂ ▁
@@ -1060,8 +1057,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurmanci-TV
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH ",iraqia kurdi-TV
-
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Amozhgary
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",line
@@ -1164,28 +1159,36 @@ http://82.137.248.16:1935/RShabab/RShababLive/chunklist_w513391463.m3u8
 http://5.39.218.151:8400/;
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",▂ ▄ ▅ ▆☆ قنوات اسلامية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraar
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",ALmajd
-
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",ALresalah
-
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraa
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",fatehtv
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",makkahtv
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",ahul quran
+https://59355e6c6462b.streamlock.net/quran/ahul/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",wesal1
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",وصال
-http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",sunnah
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ayat
-http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Al Iarth Al Nabawi
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",makkah tv
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Nour Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",daawahtv
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",islam live TV
-https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",الارث النبوي
+rtmp://82.212.74.2/live//7207
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",safa tv
+https://stream.sz4h.com/live/safa_tv-61018.ts
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 1
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 2
