@@ -1832,7 +1832,11 @@ https://ustream2.panet.co.il/vod/77/77262/77262.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",▂ ▄ ▅ ▆☆ TURKEY TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-ATV
-
+http://185.150.130.123:8000/play/str112
+#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-ATV+
+http://185.150.130.123:8000/play/str104
+#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-ATV++
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-eba-tv-ilkokul
 https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-eba-tv-ortaokul
@@ -2743,6 +2747,123 @@ https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/c
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
 https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",6 Eren
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",ANIMAL PLANET HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3133?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",C MORE HITS
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2996?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",C MORE SERIES
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2995?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",C More First
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2988?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",C More Live
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2990?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",CANAL 9
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2994?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",COMEDY CENTRAL
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DISNEY CHANNEL
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DK 4
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/fEGJ3NX.jpg" group-title="Denmark",DK | TV 2 Lorry,TV 2 Lorry
+https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_grusx1zd/sd/6000/t/SBqf2reMLuRFOX3tQQv_Iw/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="Denmark",DK | TV 2 Øst,TV 2 Øst
+https://cdn-lt-live.tveast.dk/dc-1/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/fq8LzmI7TH1TOAjc3wuvqA/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DR 1
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2984?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DR 2
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2985?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DR K
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3107?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DR RAMASJANG
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",DR ULTRA
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",Disney Channel (D)
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",Disney XD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2986?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",Investigation Discovery
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",KANAL 5
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2982?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",KANAL 9
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/cpl90ZC.png" group-title="Denmark",KKRtv
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Denmark",KVF
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="Denmark",KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="Denmark",Kanal Hovedstaden
+https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",NRK 1
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",Nat Geo
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",National Geographic
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/4924?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 2 CHARLIE
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/wamEY0w.png" group-title="Denmark",TV 2 Fyn
+https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 2 NORGE
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3126?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="Denmark",TV 2 Nord Salto
+https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 2 Denmark
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3097?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 2 ZULU
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3096?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="Denmark",TV 2 Østjylland
+https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/ylB5ea2.jpg" group-title="Denmark",TV 2/Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 3
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 3 Denmark 1
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV 3 Denmark 2
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3093?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/OAgXaMO.png" group-title="Denmark",TV Aarhus
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/yIismAO.jpg" group-title="Denmark",TV Midtvest
+https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denmark",TV Syd+
+https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denmark",TV Syd+
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV2 NEWS
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2974?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV3 Denmark
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2972?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV3 Denmark 1
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2969?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",TV3 Denmark 2
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VFILM ACTION
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2981?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VFILM PREMIER HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT EXPLORE
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3091?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT FILM ACTION HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3121?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT FILM COMEDY
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT FILM FAMILY
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3119?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT FILM PREMIERE
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT FOTBOLL
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2978?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT GOLF
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Denmark",VIASAT HISTORY
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3115?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-id="ext" group-title="spania",sp:Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
@@ -5412,6 +5533,133 @@ http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 #EXTINF:0 tvg-id="mtvlive-hd" group-title="Norway",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Animal Planet FHD [Multi-Sub]
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40493.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",BBC Brit HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40450.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Cartoon Network
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40443.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Discovery Channel HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40442.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Disney Channel
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40447.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Disney XD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40446.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",E! Entertainment TV [Multi-Sub]
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40449.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",EuroNorway Norge HD NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40488.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",EuroNorway 1 FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40484.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",EuroNorway 1 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40483.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",EuroNorway 2 Norge
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40487.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",EuroNorway N HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40434.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",FEM
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40458.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",FEM FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40459.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",FOX FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40457.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Fatstone TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40435.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Fatstone.TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40439.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/dUqwvLz.png" group-title="Norway",Gatebil TV
+https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Hope Channelrge
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40438.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/PWNNpB6.png" group-title="Norway",Kanal 10 Norge,NO | Kanal 10 Norge
+http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/XZHqsMw.png" group-title="Norway",Kanal 10 Norge
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Kanal 10 Norge NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40463.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",MAX FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40454.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",MAX Norway NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40453.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Entertainment;Norway",MTV HD,MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Max HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40455.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/P4OaCFR.png" group-title="Norway",NO | Norway Live,Norway Live
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/5SkiUk2.png" group-title="Norway",NO | TV Haugaland,TV Haugaland
+https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK 1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40480.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK1 FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40482.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK1 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40481.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK2 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40479.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK3 / NRK Super
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40477.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",NRK3 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40478.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Nick JR.
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40444.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Nickelodeon
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40445.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Nicktoons [Multi-Audio]
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/110056.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Nrk 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5499.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Stortinget
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40437.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/3U1p695.png" group-title="Norway",Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TLC Norge HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40440.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV 2 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40476.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV 2 Humor NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40475.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV 2 Livsstil
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/8038.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV 2 Livsstil NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40474.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV 2 Zebra HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40471.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV Norge FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40468.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV Norge NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40467.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV Visjonrge
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40436.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV2 FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40485.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV2 Norge NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40469.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV2 Nyhetskanalen FHD NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40473.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV2 Zebra
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40470.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV3 HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40466.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TV6 Norge NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40464.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",TVNorge NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40451.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",VOX Norway
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40460.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",VOX Norway FHD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40461.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Viasat 4 NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40462.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Viasat Hockey HD [Multi-Audio]
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40499.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Viasat Nature
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40441.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Viasat Norway East NO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40491.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Norway",Viasat Norway HD Norge
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40492.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-id="ext" group-title="Romania",1 Romania Channel
 https://edge126.rcs-rds.ro/utvedge/Romaniachannelhq.stream/playlist.m3u8
