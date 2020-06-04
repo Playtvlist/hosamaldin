@@ -360,8 +360,6 @@ http://188.160.0.148:1935/5c40656abe39434/_definst_/smil:myStream.smil/playlist.
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/cb94040630343f5e440c2e50ea0be67c.png" group-title="قنوات أطفال",TAHA Kids TV
 https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Cartoon Network بلعربي
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein: Baraeem
 http://178.63.48.23:25461/Children/yFtu1JO2R4/223
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Bein:DreamWorks
@@ -380,6 +378,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال",Ar:TOYOR-طيور الجنة
 http://178.63.48.23:25461/ToyorAljanah/OxhFlOlJtF/259
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Cartoon Network بلعربي
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://i.ytimg.com/vi/WWvfLG_v0k4/maxresdefault.jpg" group-title="قنوات أطفال",Bein:GULLI BIL ARABIE
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="قنوات أطفال",Bein: Baraeem
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://cdn.webshopapp.com/shops/212168/files/178962416/432x432x2/junior.jpg" group-title="قنوات أطفال",Bein:JUNIOR KIDS
@@ -513,8 +512,6 @@ https://live.alittihad.tv/ittihad/chunklist.m3u8
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL MANAR HD" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL MANAR HD
 https://manar.live/iptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL HD
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/cad9e8dcbf3eca0f7c2af160b1913cf4.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN- AL-IMAN-TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL Mayadeen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
@@ -533,6 +530,7 @@ http://52.31.121.58/playlist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
 http://178.63.48.23:25461/lebwww.vviruslove.com/0jFOAmivYc/269
+#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- TL HD
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC 2 International" tvg-logo="https://yt3.ggpht.com/a/AATXAJxHwyj-DaZ7mmDu-PgOgysR6BIY5_hAABfgyQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LEBANON قنوات لبنان",AR:LBN-LBC International
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Hawacom TV" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="LEBANON قنوات لبنان",AR:LBN-Hawacom TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC Europe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NRgTbBfkSjxTQD86dMAQ10g6hNXlmCBl9Uqlp_Fc36Ql9TNr" group-title="LEBANON قنوات لبنان",AR:LBN-LBC Europe HD
@@ -954,7 +952,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-Sharjah" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD7SLzGLhWfvOjl4NHhSD5Dqppkosid9i85Pg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الامارات EMIRATES",AR:DUB-Sharjah
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-ALAN" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="قنوات الامارات EMIRATES",AR:DUB-ALAN HD
-https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xt3YIGkwTfHoKs6Gy9X89ZM)/dm/3/x74wje5/s/live-3.m3u8
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-Al Wousta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="قنوات الامارات EMIRATES",AR:DUB-Al Wousta HD
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
