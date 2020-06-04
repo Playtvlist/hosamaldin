@@ -1156,9 +1156,41 @@ http://192.99.170.8:5470/;/;stream.mp3
 #EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",Almadina FM Syria راديو المدينة سوريا
 http://192.99.17.12:4978/;stream.mp3
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",راديو صوت الشباب
-http://82.137.248.16:1935/RShabab/RShababLive/chunklist_w513391463.m3u8
+http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",راديو شام اف ام
+http://38.96.175.97:5980/;stream.mp3
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",راديو شام اف ام
 http://5.39.218.151:8400/;
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",RadioSouryana
+http://radioliveb.rtv.gov.sy:8008/RadioSouryana
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",RadioShabab
+http://radioliveb.rtv.gov.sy:8002/RadioShabab
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",RadioDimshq
+http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",صوت لبنان
+http://vps1.osina.cloud:9318/;stream.mp3
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",Version FM
+http://5.39.218.151:8400/;stream.mp3
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",إذاعة البشائر
+http://audiostreaming.itworkscdn.com:9014/stream
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",راديو أورينت
+https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",alaan FM
+https://streamingcdn.alaan.tv/fm/fm/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",فرح اف ام
+http://radio.farah.fm:8015/;stream.mp3
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",ميلودي اف ام
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",العاصمة إف إم
+http://asima.out.airtime.pro:8000/asima_a
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",راديو دلتا
+http://s45.myradiostream.com:18408/;stream.mp3
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",BBC Arabic FM
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",إذاعة النور FM
+http://audiostreaming.itworkscdn.com:9066/;stream.mp3
+#EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",ممونت كارلو FM
+http://live02.mc-doualiya.com/mc-doualiya.mp3
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",▂ ▄ ▅ ▆☆ قنوات اسلامية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraa
