@@ -1186,7 +1186,7 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",الارث النبوي
 rtmp://82.212.74.2/live//7207
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",safa tv
-https://stream.sz4h.com/live/safa_tv-61018.ts
+https://stream.sz4h.com/live/safa_tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 1
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 2
