@@ -2531,8 +2531,6 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=1
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Bel RTL
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",BFM FRANCE
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMFRANCES/video_1/video_1.m3u8
 #EXTINF:0 tvg-id="BFMParis.fr" group-title="FRANCE",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:0 tvg-id="BipTV.fr" group-title="FRANCE",BipTV
@@ -2543,8 +2541,6 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:0 tvg-id="CanalC.be" group-title="FRANCE",Canal C
 https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8
-#EXTINF:0 tvg-id="CanalZoom.be" group-title="FRANCE",Canal Zoom
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:0 tvg-id="CGTNFrancais.cn" group-title="FRANCE",CGTN Français
 https://live.cgtn.com/cctv-f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",D5 TV
@@ -2552,39 +2548,17 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV L'Original
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG13
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="france24" group-title="FRANCE",France 24 French
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",GC TV
-https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 #EXTINF:0 tvg-id="GrandLilleTV.fr" group-title="FRANCE",Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Holygod TV Europe & Middle East
@@ -2601,8 +2575,6 @@ https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 #EXTINF:0 tvg-id="LN24.fr" group-title="FRANCE",LN24
@@ -2613,12 +2585,8 @@ http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",MYFRANCE
-https://live.creacast.com/myFRANCE/smil:myFRANCE.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:0 tvg-id="NRJHitsBelgique,be" group-title="FRANCE",NRJ Hits TV
@@ -2643,8 +2611,6 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTLTVI.be" group-title="FRANCE",RTL-TVi
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE en France
-https://streamserv.mytvchain.com/FRANCEenfrance/SP1564435593_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Eclair | Chaine 4
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Haiti
@@ -2653,8 +2619,6 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:0 tvg-id="Telesambre.be" group-title="FRANCE",Telesambre
-https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Trace Ayiti
@@ -2673,14 +2637,8 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TV78
-https://origin2.dvmr.fr/hls/tvfil78/tvfil78.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TVCom
-https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="FRANCE",Afrique Média TV
