@@ -2757,8 +2757,6 @@ https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 https://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Italy",▂ ▄ ▅ ▆☆ Italy TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="avi" group-title="Italy",Italy=
-https://ia601500.us.archive.org/2/items/iptv_20191116/Untitled%20Project.mp4
 #EXTINF:0 tvg-id="ext" group-title="Italy",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Italy",Alto Adige TV
@@ -3468,7 +3466,8 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="Taroteame.es" group-title="spania",Taroteame TV
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Brazil",▂ ▄ ▅ ▆☆ Brazil TV ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Brazil",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Agro Canal
@@ -3611,7 +3610,8 @@ http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="USA",▂ ▄ ▅ ▆☆ USA TV ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="USA",EN: HOLLYWOOD MOVIES 3
 http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",EN: DW
@@ -4564,40 +4564,68 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",USANation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal",ARtv
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",▂ ▄ ▅ ▆☆ Portugal TV ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Portugal",FM O Dia TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
-http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
-http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP 1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP 2
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal",RTP 3
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal",RTP Açores
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP África
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná Córdoba
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Portugal",TVI Reality
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal",ARTV | Canal Parlamento
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal",Caçavision (HQ)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Caçavision (LQ)
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Caçavision (MQ)
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
+http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
+http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV (Backup)
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV (Backup)
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+#EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional (Backup)
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal",RTP Memória [not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP África [not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP1 [not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP2 [not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal",RTP3 [not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russia",▂ ▄ ▅ ▆☆ Russia TV ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="podmoskovie" group-title="Russia",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="zvezda7" group-title="Russia",Звезда (+7)
