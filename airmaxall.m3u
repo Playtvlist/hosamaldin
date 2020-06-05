@@ -856,15 +856,6 @@ http://africatv.live.net.sa:1935/live/africatv2/chunklist_w505203053.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",africatv 3
 http://africatv.live.net.sa:1935/live/africatv3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/BNTV_logo.png" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
-#EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="Somalia الصومال",Bulsho TV
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-dacwa-tv-9649.jpg" group-title="Somalia الصومال",Dacwa TV
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="Somalia الصومال",Horn Cable TV
-http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-puntland-tv-3525.jpg" group-title="Somalia الصومال",Puntland TV
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.giniko.com/logos/190x110/402.jpg" group-title="Somalia الصومال",Somali cable
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia الصومال",Somali National TV
 #EXTINF:0 tvg-id="ext" group-title="قنوات قطر Qatar",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBVMlDxZDkwof5PpF3r3tLDreJYfJuf8B2XFg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات قطر Qatar",Qatar TV HD
@@ -1041,13 +1032,8 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 #EXTINF:0 tvg-id="ext" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="Somalia الصومال",Bulsho TV
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-dacwa-tv-9649.jpg" group-title="Somalia الصومال",Dacwa TV
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="Somalia الصومال",Horn Cable TV
 http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-puntland-tv-3525.jpg" group-title="Somalia الصومال",Puntland TV
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.giniko.com/logos/190x110/402.jpg" group-title="Somalia الصومال",Somali cable
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia الصومال",Somali National TV
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
