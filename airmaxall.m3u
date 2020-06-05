@@ -4578,8 +4578,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná Córdoba
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-
-#EXTM3U
 #EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal",ARTV | Canal Parlamento
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal",Caçavision (HQ)
@@ -4590,12 +4588,6 @@ https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
 https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
-http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Portugal
-http://c2.manasat.com:1935/kPortugal/kPortugal3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV (Backup)
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
@@ -4612,8 +4604,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional (Backup)
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal",RTP Memória [not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP África [not 24/7]
